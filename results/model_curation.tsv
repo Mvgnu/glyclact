@@ -1,0 +1,4 @@
+genome	reactions_added	oxygen_evidence	lactate_evidence	l_ldh_genes	lactate_transporter_genes
+P2_A5	L_LACt3;EX_lac__L_e		2 fermentative L-LDH gene(s) and 1 lactate transporter gene(s) annotated, but no L-lactate exchange in the model	2	1
+P2_C2	O2tex;EX_o2_e	model had o2_c and consumers but no EX_o2_e; both organisms in this situation are obligate aerobes		1	0
+P3_G8	O2tex;EX_o2_e	model had o2_c and consumers but no EX_o2_e; both organisms in this situation are obligate aerobes		1	0

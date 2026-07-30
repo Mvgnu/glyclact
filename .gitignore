@@ -1,0 +1,11 @@
+.venv/
+candidate_genomes/
+models/
+comets_runs/
+taxonomy_work/
+results/*.parquet
+
+references/
+
+__pycache__/
+comets/

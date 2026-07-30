@@ -1,0 +1,15 @@
+mechanism	metabolite	benefit_route	models_with_exchange	models_that_can_secrete	receivers_that_benefit	testable	blocked_by
+biotin rescue	btn	cofactor	9/9	none	0/9	no	no_secretor
+heme rescue (catalase, respiration)	pheme	cofactor	9/9	P1_B11;P1_B3;P2_D12;P3_A10;P3_B12	0/9	no	biomass_demands_no_form_of_it
+lipoate supply (PDH cofactor)	lipoate	cofactor	7/9	none	0/9	no	no_secretor
+methionine supply to DHA donors	met__L	cofactor	9/9	P2_D12	9/9	yes	
+pantothenate supply	pnto__R	cofactor	5/9	none	9/9	no	no_secretor
+pyridoxal B6 supply	pydxn	cofactor	2/9	P3_F11	9/9	yes	
+thiamine B1 supply	thm	cofactor	8/9	none	9/9	no	no_secretor
+folate B9 supply	fol	cofactor	7/9	none	9/9	no	no_secretor
+riboflavin B2 supply	ribflv	cofactor	6/9	none	9/9	no	no_secretor
+cobalamin B12 provision	cbl1	cofactor	0/9	none	0/9	no	no_exchange_reaction
+respiratory quinone	mqn8	cofactor	0/9	none	0/9	no	no_exchange_reaction
+DHA transfer	dha	carbon	2/9	P2_D12	P2_D12;P3_C9	yes	
+glycerol-3-phosphate transfer	glyc3p	carbon	9/9	P2_D12	P1_B11;P1_G5;P2_D12;P3_B12;P3_C11;P3_C9	yes	
+lactate (product)	lac__L	product	6/9	P1_B11;P1_B3;P3_C11;P3_C9;P3_F11	(product, no receiver needed)	yes	
