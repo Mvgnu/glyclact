@@ -1,0 +1,600 @@
+genome	database	gene	identity_percent	reference_coverage	vf	vf_class	organism	family	amr_class	product	protein
+P1_A1	AMR	BcII	92.6	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	MBNKMGEK_01680
+P1_A1	AMR	acr3	84.4	1.0				acr3	ARSENIC	arsenite efflux transporter Acr3	MBNKMGEK_02389
+P1_A1	AMR	alo	96.1	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	MBNKMGEK_01910
+P1_A1	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	MBNKMGEK_04980
+P1_A1	AMR	blaIII	93.7	0.96				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	MBNKMGEK_04542
+P1_A1	AMR	bpsC	89.3	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	MBNKMGEK_05650
+P1_A1	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	MBNKMGEK_03200
+P1_A1	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	MBNKMGEK_02994
+P1_A1	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	MBNKMGEK_00937
+P1_A1	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	MBNKMGEK_00859
+P1_A1	AMR	hblA	98.3	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	MBNKMGEK_02444
+P1_A1	AMR	hblB	98.9	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	MBNKMGEK_02443
+P1_A1	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	MBNKMGEK_02441
+P1_A1	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	MBNKMGEK_02442
+P1_A1	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	MBNKMGEK_03767
+P1_A1	AMR	inhA2	99.0	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	MBNKMGEK_03194
+P1_A1	AMR	lsa(B)	80.5	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	MBNKMGEK_01599
+P1_A1	AMR	mleBCA	89.1	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	MBNKMGEK_02299
+P1_A1	AMR	nheA	96.9	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	MBNKMGEK_01003
+P1_A1	AMR	nheB	99.0	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	MBNKMGEK_01002
+P1_A1	AMR	nheC	99.2	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	MBNKMGEK_01001
+P1_A1	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	MBNKMGEK_00780
+P1_A1	AMR	plcR	91.6	1.0				plcR		transcriptional regulator PlcR	MBNKMGEK_03534
+P1_A1	AMR	rpoB	81.1	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	MBNKMGEK_05229
+P1_A1	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	MBNKMGEK_05236
+P1_A1	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	MBNKMGEK_02394
+P1_A1	AMR	sph	98.8	0.98				sph		sphingomyelinase C	MBNKMGEK_03201
+P1_A1	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				MBNKMGEK_03767
+P1_A1	VFDB	alo	95.7	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				MBNKMGEK_01910
+P1_A1	VFDB	asbA	91.9	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00909
+P1_A1	VFDB	asbB	84.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00908
+P1_A1	VFDB	asbC	91.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00907
+P1_A1	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00906
+P1_A1	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00905
+P1_A1	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MBNKMGEK_00904
+P1_A1	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				MBNKMGEK_02994
+P1_A1	VFDB	dhbA	89.4	1.03	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_05604
+P1_A1	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_05601
+P1_A1	VFDB	dhbC	93.7	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_05603
+P1_A1	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_05602
+P1_A1	VFDB	dhbF	94.2	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_05600
+P1_A1	VFDB	hblA	98.3	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MBNKMGEK_02444
+P1_A1	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MBNKMGEK_02441
+P1_A1	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MBNKMGEK_02442
+P1_A1	VFDB	ilsA	84.9	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MBNKMGEK_03814
+P1_A1	VFDB	inhA	95.9	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				MBNKMGEK_03194
+P1_A1	VFDB	nheA	96.9	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MBNKMGEK_01003
+P1_A1	VFDB	nheB	99.0	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MBNKMGEK_01002
+P1_A1	VFDB	nheC	94.7	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MBNKMGEK_01001
+P1_A9	AMR	BcII	94.6	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	OCCDPDAO_01219
+P1_A9	AMR	acr3	85.0	1.0				acr3	ARSENIC	arsenite efflux transporter Acr3	OCCDPDAO_02688
+P1_A9	AMR	alo	96.1	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	OCCDPDAO_02060
+P1_A9	AMR	bla1	92.8	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	OCCDPDAO_01755
+P1_A9	AMR	blaIII	86.3	0.99				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	OCCDPDAO_04604
+P1_A9	AMR	bpsC	88.7	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	OCCDPDAO_01896
+P1_A9	AMR	cerA	98.9	1.0				cerA		phospholipase CerA	OCCDPDAO_02928
+P1_A9	AMR	cytK2	98.2	1.0				cytK2		beta-channel forming cytolysin CytK2	OCCDPDAO_03639
+P1_A9	AMR	entFM	95.3	1.0				entFM		enterotoxin EntFM	OCCDPDAO_03223
+P1_A9	AMR	fosBx1-fam	90.6	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	OCCDPDAO_03124
+P1_A9	AMR	hblA	86.5	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	OCCDPDAO_02180
+P1_A9	AMR	hblB	94.9	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	OCCDPDAO_02181
+P1_A9	AMR	hblC	92.3	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	OCCDPDAO_02183
+P1_A9	AMR	hblD	82.7	0.99				hblD		hemolytic enterotoxin HBL lytic component L1	OCCDPDAO_01753
+P1_A9	AMR	inhA1	94.2	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	OCCDPDAO_00607
+P1_A9	AMR	inhA2	96.2	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	OCCDPDAO_02933
+P1_A9	AMR	mleBCA	92.6	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	OCCDPDAO_04069
+P1_A9	AMR	nheA	96.4	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	OCCDPDAO_00039
+P1_A9	AMR	nheB	99.0	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	OCCDPDAO_00038
+P1_A9	AMR	nheC	95.5	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	OCCDPDAO_00037
+P1_A9	AMR	plcA	93.6	0.99				plcA		phosphatidylinositol diacylglycerol-lyase	OCCDPDAO_03701
+P1_A9	AMR	plcR	94.7	1.0				plcR		transcriptional regulator PlcR	OCCDPDAO_05670
+P1_A9	AMR	rpoB	81.4	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	OCCDPDAO_05253
+P1_A9	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	OCCDPDAO_05246
+P1_A9	AMR	sph	98.2	0.98				sph		sphingomyelinase C	OCCDPDAO_02927
+P1_A9	VFDB	BAS_RS06430	95.0	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				OCCDPDAO_00607
+P1_A9	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				OCCDPDAO_02060
+P1_A9	VFDB	asbA	91.9	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03196
+P1_A9	VFDB	asbB	90.3	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03195
+P1_A9	VFDB	asbC	94.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03194
+P1_A9	VFDB	asbD	91.7	0.92	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03193
+P1_A9	VFDB	asbE	96.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03192
+P1_A9	VFDB	asbF	95.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				OCCDPDAO_03191
+P1_A9	VFDB	cytK	96.7	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				OCCDPDAO_03639
+P1_A9	VFDB	dhbA	89.3	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				OCCDPDAO_02221
+P1_A9	VFDB	dhbB	95.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				OCCDPDAO_02218
+P1_A9	VFDB	dhbC	92.0	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				OCCDPDAO_02220
+P1_A9	VFDB	dhbE	94.2	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				OCCDPDAO_02219
+P1_A9	VFDB	dhbF	91.2	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				OCCDPDAO_02217
+P1_A9	VFDB	hblA	86.5	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				OCCDPDAO_02180
+P1_A9	VFDB	hblC	92.3	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				OCCDPDAO_02183
+P1_A9	VFDB	hblD	82.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				OCCDPDAO_01753
+P1_A9	VFDB	inhA	96.2	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				OCCDPDAO_02933
+P1_A9	VFDB	nheA	96.4	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				OCCDPDAO_00039
+P1_A9	VFDB	nheB	99.0	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				OCCDPDAO_00038
+P1_A9	VFDB	nheC	95.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				OCCDPDAO_00037
+P1_B11	AMR	clbA	99.1	1.0				clbA	LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN	23S rRNA (adenine(2503)-C(8))-methyltransferase ClbA	MHIAMECG_03054
+P1_B11	AMR	emrC_Lis	80.0	0.93				emrC_Lis	QUATERNARY_AMMONIUM	multidrug efflux transporter outer membrane subunit EmrC	MHIAMECG_01991
+P1_B11	AMR	rpoB	80.7	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	MHIAMECG_04003
+P1_B11	AMR	rpsJ	92.2	0.99				rpsJ		30S ribosomal protein S10	MHIAMECG_04011
+P1_B3	AMR	arsC_thio	82.9	1.0				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	BBFJKGGH_01098
+P1_B3	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	BBFJKGGH_05011
+P1_B3	AMR	rpsJ	89.2	0.99				rpsJ		30S ribosomal protein S10	BBFJKGGH_05004
+P1_B4	AMR	BcII	94.9	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	PKLBCIOL_04533
+P1_B4	AMR	acr3	86.4	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	PKLBCIOL_02166
+P1_B4	AMR	alo	97.9	0.82				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	PKLBCIOL_01748
+P1_B4	AMR	bla1	95.8	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	PKLBCIOL_05913
+P1_B4	AMR	blaIII	85.7	0.99				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	PKLBCIOL_02642
+P1_B4	AMR	bpsC	85.4	0.97				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	PKLBCIOL_01914
+P1_B4	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	PKLBCIOL_03453
+P1_B4	AMR	cytK2	99.1	1.0				cytK2		beta-channel forming cytolysin CytK2	PKLBCIOL_03021
+P1_B4	AMR	entFM	98.2	1.01				entFM		enterotoxin EntFM	PKLBCIOL_03715
+P1_B4	AMR	fosBx1	95.7	0.99				fosBx1-fam	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosBx1	PKLBCIOL_03639
+P1_B4	AMR	hblD	82.3	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	PKLBCIOL_05350
+P1_B4	AMR	hlyII	100.0	1.0				hlyII		hemolysin II HlyII	PKLBCIOL_02896
+P1_B4	AMR	hlyIIR	96.0	1.0				hlyIIR		hemolysin II regulator HlyIIR	PKLBCIOL_02897
+P1_B4	AMR	inhA1	95.4	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	PKLBCIOL_03198
+P1_B4	AMR	inhA2	98.2	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	PKLBCIOL_03447
+P1_B4	AMR	lsa(B)	80.9	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	PKLBCIOL_02898
+P1_B4	AMR	mleBCA	87.3	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	PKLBCIOL_01125
+P1_B4	AMR	nheA	97.4	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	PKLBCIOL_01390
+P1_B4	AMR	nheB	99.5	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	PKLBCIOL_01389
+P1_B4	AMR	nheC	97.5	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	PKLBCIOL_01388
+P1_B4	AMR	plcA	100.0	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	PKLBCIOL_00999
+P1_B4	AMR	plcR	92.3	1.0				plcR		transcriptional regulator PlcR	PKLBCIOL_05242
+P1_B4	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	PKLBCIOL_05298
+P1_B4	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	PKLBCIOL_05291
+P1_B4	AMR	satA_Bant	88.6	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	PKLBCIOL_02174
+P1_B4	AMR	sph	97.9	0.98				sph		sphingomyelinase C	PKLBCIOL_03454
+P1_B4	VFDB	BAS_RS06430	94.3	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				PKLBCIOL_03198
+P1_B4	VFDB	alo	97.9	0.82	ALO	Exotoxin	Bacillus anthracis str. Sterne				PKLBCIOL_01748
+P1_B4	VFDB	asbA	91.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				PKLBCIOL_03689
+P1_B4	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				PKLBCIOL_03688
+P1_B4	VFDB	asbC	93.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				PKLBCIOL_03687
+P1_B4	VFDB	asbE	91.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				PKLBCIOL_03685
+P1_B4	VFDB	asbF	88.6	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				PKLBCIOL_03684
+P1_B4	VFDB	cytK	97.0	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				PKLBCIOL_03021
+P1_B4	VFDB	dhbA	89.7	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_00320
+P1_B4	VFDB	dhbB	98.0	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_00323
+P1_B4	VFDB	dhbC	93.0	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_00321
+P1_B4	VFDB	dhbE	94.2	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_00322
+P1_B4	VFDB	dhbF	94.1	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_00324
+P1_B4	VFDB	hblD	82.3	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				PKLBCIOL_05350
+P1_B4	VFDB	ilsA	90.7	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PKLBCIOL_03245
+P1_B4	VFDB	inhA	95.9	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				PKLBCIOL_03447
+P1_B4	VFDB	nheA	97.4	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PKLBCIOL_01390
+P1_B4	VFDB	nheB	99.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PKLBCIOL_01389
+P1_B4	VFDB	nheC	95.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PKLBCIOL_01388
+P1_B8	AMR	arsC_thio	82.1	1.0				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	MOOJMJEB_00699
+P1_B8	AMR	lsa(B)	82.7	0.99				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	MOOJMJEB_05558
+P1_B8	AMR	rpoB	81.3	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	MOOJMJEB_05761
+P1_B8	AMR	rpsJ	89.2	0.99				rpsJ		30S ribosomal protein S10	MOOJMJEB_05768
+P1_B8	VFDB	eutM2	86.4	0.94	Eut locus	Nutritional/Metabolic factor	Fusobacterium nucleatum subsp. nucleatum ATCC 23726				MOOJMJEB_03111
+P1_C6	AMR	BcII	92.2	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	BHEGOBKO_04842
+P1_C6	AMR	acr3	84.8	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	BHEGOBKO_01525
+P1_C6	AMR	alo	95.9	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	BHEGOBKO_01971
+P1_C6	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	BHEGOBKO_02684
+P1_C6	AMR	blaIII	93.7	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	BHEGOBKO_04376
+P1_C6	AMR	bpsC	87.6	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	BHEGOBKO_02136
+P1_C6	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	BHEGOBKO_03266
+P1_C6	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	BHEGOBKO_04806
+P1_C6	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	BHEGOBKO_00858
+P1_C6	AMR	fosB2	94.9	0.99				fosB_gen	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosB2	BHEGOBKO_02551
+P1_C6	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	BHEGOBKO_00782
+P1_C6	AMR	hblA	98.7	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	BHEGOBKO_01471
+P1_C6	AMR	hblB	99.2	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	BHEGOBKO_01472
+P1_C6	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	BHEGOBKO_01474
+P1_C6	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	BHEGOBKO_01473
+P1_C6	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	BHEGOBKO_04180
+P1_C6	AMR	inhA2	98.7	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	BHEGOBKO_03272
+P1_C6	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	BHEGOBKO_04026
+P1_C6	AMR	mleBCA	88.4	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	BHEGOBKO_02293
+P1_C6	AMR	nheA	96.6	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	BHEGOBKO_00923
+P1_C6	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	BHEGOBKO_00922
+P1_C6	AMR	nheC	98.6	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	BHEGOBKO_00921
+P1_C6	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	BHEGOBKO_00049
+P1_C6	AMR	plcR	98.6	1.0				plcR		transcriptional regulator PlcR	BHEGOBKO_03068
+P1_C6	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	BHEGOBKO_05307
+P1_C6	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	BHEGOBKO_05300
+P1_C6	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	BHEGOBKO_01520
+P1_C6	AMR	sph	98.5	0.98				sph		sphingomyelinase C	BHEGOBKO_03265
+P1_C6	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				BHEGOBKO_04180
+P1_C6	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				BHEGOBKO_01971
+P1_C6	VFDB	asbA	92.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00832
+P1_C6	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00831
+P1_C6	VFDB	asbC	92.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00830
+P1_C6	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00829
+P1_C6	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00828
+P1_C6	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BHEGOBKO_00827
+P1_C6	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				BHEGOBKO_04806
+P1_C6	VFDB	dhbA	90.0	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_02856
+P1_C6	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_02853
+P1_C6	VFDB	dhbC	93.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_02855
+P1_C6	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_02854
+P1_C6	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_02852
+P1_C6	VFDB	hblA	98.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BHEGOBKO_01471
+P1_C6	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BHEGOBKO_01474
+P1_C6	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BHEGOBKO_01473
+P1_C6	VFDB	ilsA	90.1	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BHEGOBKO_04133
+P1_C6	VFDB	inhA	95.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				BHEGOBKO_03272
+P1_C6	VFDB	nheA	96.6	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BHEGOBKO_00923
+P1_C6	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BHEGOBKO_00922
+P1_C6	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BHEGOBKO_00921
+P1_F7	AMR	arsC_thio	86.3	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	GPOEDKCD_02340
+P1_F7	AMR	blaBPU-1	81.7	1.0				blaBPU	BETA-LACTAM	class D beta-lactamase BPU-1	GPOEDKCD_00270
+P1_F7	AMR	cat86	91.8	1.0				cat86	PHENICOL	type A-6 chloramphenicol O-acetyltransferase Cat86	GPOEDKCD_02800
+P1_F7	AMR	rpoB	80.9	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	GPOEDKCD_03887
+P1_F7	AMR	rpsJ	92.2	0.99				rpsJ		30S ribosomal protein S10	GPOEDKCD_03895
+P1_H3	AMR	BcII	100.0	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	PNJCJDOM_00348
+P1_H3	AMR	acr3	84.7	1.0				acr3	ARSENIC	arsenite efflux transporter Acr3	PNJCJDOM_00112
+P1_H3	AMR	alo	98.2	0.98				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	PNJCJDOM_00013
+P1_H3	AMR	bla1	94.8	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	PNJCJDOM_01451
+P1_H3	AMR	bpsC	91.1	0.95				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	PNJCJDOM_03460
+P1_H3	AMR	cerA	100.0	1.0				cerA		phospholipase CerA	PNJCJDOM_02983
+P1_H3	AMR	entFM	94.9	1.0				entFM		enterotoxin EntFM	PNJCJDOM_00896
+P1_H3	AMR	fosBx1-fam	90.6	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	PNJCJDOM_03729
+P1_H3	AMR	inhA1	94.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	PNJCJDOM_02562
+P1_H3	AMR	inhA2	97.0	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	PNJCJDOM_02979
+P1_H3	AMR	mleBCA	95.5	1.0				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	PNJCJDOM_00543
+P1_H3	AMR	nheA	96.9	0.91				nheA		non-hemolytic enterotoxin NHE subunit A	PNJCJDOM_00834
+P1_H3	AMR	nheB	98.5	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	PNJCJDOM_00835
+P1_H3	AMR	nheC	95.5	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	PNJCJDOM_00836
+P1_H3	AMR	plcA	96.4	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	PNJCJDOM_04550
+P1_H3	AMR	plcR	99.6	1.0				plcR		transcriptional regulator PlcR	PNJCJDOM_03258
+P1_H3	AMR	rpoB	81.5	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	PNJCJDOM_03856
+P1_H3	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	PNJCJDOM_03863
+P1_H3	AMR	satA_Bant	87.5	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	PNJCJDOM_00133
+P1_H3	AMR	sph	97.0	0.98				sph		sphingomyelinase C	PNJCJDOM_02984
+P1_H3	VFDB	BAS_RS06430	94.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				PNJCJDOM_02562
+P1_H3	VFDB	alo	94.7	0.99	ALO	Exotoxin	Bacillus anthracis str. Sterne				PNJCJDOM_00013
+P1_H3	VFDB	cesH	92.7	0.95	Cereulide	Exotoxin	Bacillus cereus AH187				PNJCJDOM_05620
+P1_H3	VFDB	dhbA	99.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_01011
+P1_H3	VFDB	dhbB	90.2	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_01008
+P1_H3	VFDB	dhbC	96.7	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_01010
+P1_H3	VFDB	dhbE	98.0	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_01009
+P1_H3	VFDB	dhbF	96.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_01007
+P1_H3	VFDB	ilsA	96.5	1.0	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				PNJCJDOM_02204
+P1_H3	VFDB	inhA	97.0	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				PNJCJDOM_02979
+P1_H3	VFDB	nheA	96.9	0.92	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PNJCJDOM_00834
+P1_H3	VFDB	nheB	98.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PNJCJDOM_00835
+P1_H3	VFDB	nheC	93.9	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				PNJCJDOM_00836
+P2_C10	AMR	tet(42)	95.6	0.96				tet(42)	TETRACYCLINE	tetracycline efflux MFS transporter Tet(42)	JGCNIGKH_00462
+P2_C10	AMR	tetB(58)	82.7	0.98				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	JGCNIGKH_00491
+P2_C10	AMR	vanR-O	86.1	0.95				vanR-O	GLYCOPEPTIDE	vancomycin resistance response regulator transcription factor VanR-O	JGCNIGKH_03459
+P2_C2	AMR	tetB(58)	82.6	0.97				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	IIHBOHIA_03482
+P2_D9	AMR	cadC_Sa	89.3	0.99				cadC_Sa	CADMIUM/LEAD/ZINC	Cd(II)/Pb(II)/Zn(II)-sensing metalloregulatory transcriptional repressor CadC	EIOIGFPH_04579
+P2_D9	AMR	fusA	80.2	1.0				fusA		elongation factor G FusA	EIOIGFPH_03509
+P2_D9	AMR	merA	82.6	0.87				merA	MERCURY	mercury(II) reductase	EIOIGFPH_03613
+P2_D9	AMR	merR_Bc1	90.9	0.99				merR_Bc1	MERCURY	mercury resistance transcriptional regulator MerR1	EIOIGFPH_03609
+P2_D9	AMR	merT_RC607	88.8	0.99				merT_RC607	MERCURY	mercuric transport protein MerT	EIOIGFPH_03611
+P2_D9	AMR	rpoB	81.4	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	EIOIGFPH_03504
+P2_D9	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	EIOIGFPH_03512
+P2_D9	AMR	tetB(58)	84.8	0.99				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	EIOIGFPH_01781
+P2_F9	AMR	BcII	92.2	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	MMFFGEPD_01778
+P2_F9	AMR	acr3	84.8	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	MMFFGEPD_01521
+P2_F9	AMR	alo	95.9	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	MMFFGEPD_02045
+P2_F9	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	MMFFGEPD_02758
+P2_F9	AMR	blaIII	93.7	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	MMFFGEPD_03448
+P2_F9	AMR	bpsC	87.6	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	MMFFGEPD_01880
+P2_F9	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	MMFFGEPD_03527
+P2_F9	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	MMFFGEPD_03722
+P2_F9	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	MMFFGEPD_00857
+P2_F9	AMR	fosB2	94.9	0.99				fosB_gen	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosB2	MMFFGEPD_02625
+P2_F9	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	MMFFGEPD_00781
+P2_F9	AMR	hblA	98.7	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	MMFFGEPD_01468
+P2_F9	AMR	hblB	99.2	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	MMFFGEPD_01469
+P2_F9	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	MMFFGEPD_01471
+P2_F9	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	MMFFGEPD_01470
+P2_F9	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	MMFFGEPD_04921
+P2_F9	AMR	inhA2	98.7	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	MMFFGEPD_03533
+P2_F9	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	MMFFGEPD_04237
+P2_F9	AMR	mleBCA	88.4	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	MMFFGEPD_02367
+P2_F9	AMR	nheA	96.6	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	MMFFGEPD_00922
+P2_F9	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	MMFFGEPD_00921
+P2_F9	AMR	nheC	98.6	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	MMFFGEPD_00920
+P2_F9	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	MMFFGEPD_00679
+P2_F9	AMR	plcR	98.6	1.0				plcR		transcriptional regulator PlcR	MMFFGEPD_03254
+P2_F9	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	MMFFGEPD_05434
+P2_F9	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	MMFFGEPD_05427
+P2_F9	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	MMFFGEPD_01516
+P2_F9	AMR	sph	98.5	0.98				sph		sphingomyelinase C	MMFFGEPD_03526
+P2_F9	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				MMFFGEPD_04921
+P2_F9	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				MMFFGEPD_02045
+P2_F9	VFDB	asbA	92.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00831
+P2_F9	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00830
+P2_F9	VFDB	asbC	92.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00829
+P2_F9	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00828
+P2_F9	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00827
+P2_F9	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				MMFFGEPD_00826
+P2_F9	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				MMFFGEPD_03722
+P2_F9	VFDB	dhbA	90.0	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_02930
+P2_F9	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_02927
+P2_F9	VFDB	dhbC	93.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_02929
+P2_F9	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_02928
+P2_F9	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_02926
+P2_F9	VFDB	hblA	98.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MMFFGEPD_01468
+P2_F9	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MMFFGEPD_01471
+P2_F9	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				MMFFGEPD_01470
+P2_F9	VFDB	ilsA	90.1	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				MMFFGEPD_04968
+P2_F9	VFDB	inhA	95.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				MMFFGEPD_03533
+P2_F9	VFDB	nheA	96.6	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MMFFGEPD_00922
+P2_F9	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MMFFGEPD_00921
+P2_F9	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				MMFFGEPD_00920
+P3_A10	AMR	arsC_thio	82.0	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	HBJIPAMK_05896
+P3_A10	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	HBJIPAMK_01649
+P3_A12	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	GMKJHAEL_01185
+P3_A12	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	GMKJHAEL_01191
+P3_A7	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	CINDAOLP_00284
+P3_A7	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	CINDAOLP_00278
+P3_A8	AMR	arsC_thio	80.6	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	LAMEPOGC_02245
+P3_A8	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	LAMEPOGC_05814
+P3_A9	AMR	arsC_thio	82.0	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	IEIDKBMP_02378
+P3_A9	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	IEIDKBMP_05995
+P3_B1	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	HABNMBOG_01026
+P3_B1	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	HABNMBOG_01020
+P3_B12	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	FGFGBCHD_02054
+P3_B12	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	FGFGBCHD_02048
+P3_B4	AMR	acr3	84.7	1.0				acr3	ARSENIC	arsenite efflux transporter Acr3	IMMFLOJA_00835
+P3_B4	AMR	alo	96.5	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	IMMFLOJA_04739
+P3_B4	AMR	bla1	94.8	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	IMMFLOJA_03341
+P3_B4	AMR	blaIII	88.9	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	IMMFLOJA_03378
+P3_B4	AMR	bpsC	89.3	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	IMMFLOJA_03647
+P3_B4	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	IMMFLOJA_02907
+P3_B4	AMR	entFM	95.6	1.0				entFM		enterotoxin EntFM	IMMFLOJA_00737
+P3_B4	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	IMMFLOJA_04571
+P3_B4	AMR	hblA	98.3	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	IMMFLOJA_00777
+P3_B4	AMR	hblB	99.5	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	IMMFLOJA_00778
+P3_B4	AMR	hblC	95.9	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	IMMFLOJA_00780
+P3_B4	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	IMMFLOJA_00779
+P3_B4	AMR	hlyII	99.0	1.0				hlyII		hemolysin II HlyII	IMMFLOJA_01165
+P3_B4	AMR	hlyIIR	95.0	1.0				hlyIIR		hemolysin II regulator HlyIIR	IMMFLOJA_01164
+P3_B4	AMR	inhA1	94.5	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	IMMFLOJA_00068
+P3_B4	AMR	inhA2	98.9	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	IMMFLOJA_02901
+P3_B4	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	IMMFLOJA_01163
+P3_B4	AMR	mleBCA	89.1	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	IMMFLOJA_04157
+P3_B4	AMR	nheA	96.9	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	IMMFLOJA_00670
+P3_B4	AMR	nheB	99.5	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	IMMFLOJA_00671
+P3_B4	AMR	nheC	98.1	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	IMMFLOJA_00672
+P3_B4	AMR	plcA	96.0	0.99				plcA		phosphatidylinositol diacylglycerol-lyase	IMMFLOJA_05008
+P3_B4	AMR	plcR	91.9	1.0				plcR		transcriptional regulator PlcR	IMMFLOJA_03157
+P3_B4	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	IMMFLOJA_05125
+P3_B4	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	IMMFLOJA_05132
+P3_B4	AMR	satA_Bant	89.7	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	IMMFLOJA_00826
+P3_B4	AMR	sph	98.2	0.98				sph		sphingomyelinase C	IMMFLOJA_02908
+P3_B4	AMR	vanR-A	93.5	0.99				vanR-A	GLYCOPEPTIDE	vancomycin resistance response regulator transcription factor VanR-A	IMMFLOJA_06089
+P3_B4	AMR	vanS-Pt	91.7	0.99				vanS-Pt	GLYCOPEPTIDE	vancomycin resistance histidine kinase VanS-Pt	IMMFLOJA_06090
+P3_B4	VFDB	BAS_RS06430	94.5	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				IMMFLOJA_00068
+P3_B4	VFDB	alo	96.1	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				IMMFLOJA_04739
+P3_B4	VFDB	asbA	91.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04523
+P3_B4	VFDB	asbB	84.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04524
+P3_B4	VFDB	asbC	91.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04525
+P3_B4	VFDB	asbD	95.6	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04526
+P3_B4	VFDB	asbE	92.3	0.99	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04527
+P3_B4	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				IMMFLOJA_04528
+P3_B4	VFDB	dhbA	90.4	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_02296
+P3_B4	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_02299
+P3_B4	VFDB	dhbC	93.7	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_02297
+P3_B4	VFDB	dhbE	94.8	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_02298
+P3_B4	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_02300
+P3_B4	VFDB	hblA	98.3	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				IMMFLOJA_00777
+P3_B4	VFDB	hblC	95.9	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				IMMFLOJA_00780
+P3_B4	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				IMMFLOJA_00779
+P3_B4	VFDB	ilsA	89.9	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				IMMFLOJA_00115
+P3_B4	VFDB	inhA	96.2	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				IMMFLOJA_02901
+P3_B4	VFDB	nheA	96.9	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				IMMFLOJA_00670
+P3_B4	VFDB	nheB	99.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				IMMFLOJA_00671
+P3_B4	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				IMMFLOJA_00672
+P3_B5	AMR	BcII	92.6	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	LMKPPEFF_03750
+P3_B5	AMR	acr3	84.7	1.0				acr3	ARSENIC	arsenite efflux transporter Acr3	LMKPPEFF_02479
+P3_B5	AMR	alo	96.7	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	LMKPPEFF_03866
+P3_B5	AMR	bla1	90.2	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	LMKPPEFF_01334
+P3_B5	AMR	bpsC	88.3	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	LMKPPEFF_04775
+P3_B5	AMR	cerA	98.9	1.0				cerA		phospholipase CerA	LMKPPEFF_03440
+P3_B5	AMR	entFM	93.3	1.0				entFM		enterotoxin EntFM	LMKPPEFF_01812
+P3_B5	AMR	fosBx1-fam	94.2	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	LMKPPEFF_01720
+P3_B5	AMR	hblA	86.2	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	LMKPPEFF_04954
+P3_B5	AMR	hblB	98.1	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	LMKPPEFF_04953
+P3_B5	AMR	hblC	92.7	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	LMKPPEFF_04951
+P3_B5	AMR	hblD	99.3	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	LMKPPEFF_04952
+P3_B5	AMR	hlyII	93.7	1.0				hlyII		hemolysin II HlyII	LMKPPEFF_01984
+P3_B5	AMR	hlyIIR	94.0	1.0				hlyIIR		hemolysin II regulator HlyIIR	LMKPPEFF_01983
+P3_B5	AMR	inhA1	94.2	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	LMKPPEFF_04745
+P3_B5	AMR	inhA2	97.1	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	LMKPPEFF_03436
+P3_B5	AMR	lsa(B)	81.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	LMKPPEFF_03675
+P3_B5	AMR	mleBCA	94.0	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	LMKPPEFF_01099
+P3_B5	AMR	nheA	97.4	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	LMKPPEFF_03297
+P3_B5	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	LMKPPEFF_03298
+P3_B5	AMR	nheC	95.0	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	LMKPPEFF_03299
+P3_B5	AMR	plcA	92.6	0.99				plcA		phosphatidylinositol diacylglycerol-lyase	LMKPPEFF_00835
+P3_B5	AMR	plcR	94.7	1.0				plcR		transcriptional regulator PlcR	LMKPPEFF_05480
+P3_B5	AMR	rpoB	81.4	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	LMKPPEFF_05258
+P3_B5	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	LMKPPEFF_05251
+P3_B5	AMR	sph	97.6	0.98				sph		sphingomyelinase C	LMKPPEFF_03441
+P3_B5	VFDB	BAS_RS06430	95.0	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				LMKPPEFF_04745
+P3_B5	VFDB	alo	96.7	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				LMKPPEFF_03866
+P3_B5	VFDB	asbA	94.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01786
+P3_B5	VFDB	asbB	91.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01785
+P3_B5	VFDB	asbC	94.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01784
+P3_B5	VFDB	asbD	95.2	0.92	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01783
+P3_B5	VFDB	asbE	93.9	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01782
+P3_B5	VFDB	asbF	94.3	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				LMKPPEFF_01781
+P3_B5	VFDB	dhbA	88.1	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_01439
+P3_B5	VFDB	dhbB	94.9	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_01436
+P3_B5	VFDB	dhbC	91.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_01438
+P3_B5	VFDB	dhbE	95.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_01437
+P3_B5	VFDB	dhbF	90.8	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_01435
+P3_B5	VFDB	essC	95.7	1.0	T7SS	Effector delivery system	Bacillus anthracis str. Sterne				LMKPPEFF_01586
+P3_B5	VFDB	esxB	80.0	1.0	T7SS	Effector delivery system	Bacillus anthracis str. Sterne				LMKPPEFF_01585
+P3_B5	VFDB	hblA	86.2	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				LMKPPEFF_04954
+P3_B5	VFDB	hblC	92.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				LMKPPEFF_04951
+P3_B5	VFDB	hblD	99.3	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				LMKPPEFF_04952
+P3_B5	VFDB	ilsA	92.2	1.0	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				LMKPPEFF_04698
+P3_B5	VFDB	inhA	97.1	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				LMKPPEFF_03436
+P3_B5	VFDB	nheA	97.4	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				LMKPPEFF_03297
+P3_B5	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				LMKPPEFF_03298
+P3_B5	VFDB	nheC	95.5	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				LMKPPEFF_03299
+P3_C1	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	JPAIHIEJ_01185
+P3_C1	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	JPAIHIEJ_01191
+P3_C10	AMR	BcII	92.2	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	DEICAJGL_03585
+P3_C10	AMR	acr3	84.8	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	DEICAJGL_01275
+P3_C10	AMR	alo	95.9	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	DEICAJGL_00398
+P3_C10	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	DEICAJGL_01895
+P3_C10	AMR	blaIII	93.7	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	DEICAJGL_02711
+P3_C10	AMR	bpsC	87.6	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	DEICAJGL_00233
+P3_C10	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	DEICAJGL_03190
+P3_C10	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	DEICAJGL_02993
+P3_C10	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	DEICAJGL_04182
+P3_C10	AMR	fosB2	94.9	0.99				fosB_gen	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosB2	DEICAJGL_01762
+P3_C10	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	DEICAJGL_04404
+P3_C10	AMR	hblA	98.7	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	DEICAJGL_01221
+P3_C10	AMR	hblB	99.2	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	DEICAJGL_01222
+P3_C10	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	DEICAJGL_01224
+P3_C10	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	DEICAJGL_01223
+P3_C10	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	DEICAJGL_04789
+P3_C10	AMR	inhA2	98.7	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	DEICAJGL_03196
+P3_C10	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	DEICAJGL_03779
+P3_C10	AMR	mleBCA	88.4	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	DEICAJGL_01504
+P3_C10	AMR	nheA	96.6	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	DEICAJGL_04117
+P3_C10	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	DEICAJGL_04118
+P3_C10	AMR	nheC	98.6	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	DEICAJGL_04119
+P3_C10	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	DEICAJGL_00672
+P3_C10	AMR	plcR	98.6	1.0				plcR		transcriptional regulator PlcR	DEICAJGL_00155
+P3_C10	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	DEICAJGL_05296
+P3_C10	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	DEICAJGL_05303
+P3_C10	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	DEICAJGL_01270
+P3_C10	AMR	sph	98.5	0.98				sph		sphingomyelinase C	DEICAJGL_03189
+P3_C10	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				DEICAJGL_04789
+P3_C10	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				DEICAJGL_00398
+P3_C10	VFDB	asbA	92.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04354
+P3_C10	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04355
+P3_C10	VFDB	asbC	92.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04356
+P3_C10	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04357
+P3_C10	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04358
+P3_C10	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				DEICAJGL_04359
+P3_C10	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				DEICAJGL_02993
+P3_C10	VFDB	dhbA	90.0	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_02218
+P3_C10	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_02221
+P3_C10	VFDB	dhbC	93.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_02219
+P3_C10	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_02220
+P3_C10	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_02222
+P3_C10	VFDB	hblA	98.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				DEICAJGL_01221
+P3_C10	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				DEICAJGL_01224
+P3_C10	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				DEICAJGL_01223
+P3_C10	VFDB	ilsA	90.1	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				DEICAJGL_04742
+P3_C10	VFDB	inhA	95.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				DEICAJGL_03196
+P3_C10	VFDB	nheA	96.6	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				DEICAJGL_04117
+P3_C10	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				DEICAJGL_04118
+P3_C10	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				DEICAJGL_04119
+P3_C2	AMR	tet(42)	95.6	0.96				tet(42)	TETRACYCLINE	tetracycline efflux MFS transporter Tet(42)	JDLLKACB_00590
+P3_C2	AMR	tetB(58)	82.7	0.98				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	JDLLKACB_00561
+P3_C2	AMR	vanR-O	86.1	0.95				vanR-O	GLYCOPEPTIDE	vancomycin resistance response regulator transcription factor VanR-O	JDLLKACB_03049
+P3_C3	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	POJMIMBI_02024
+P3_C3	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	POJMIMBI_02030
+P3_C4	AMR	BcII	92.2	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	ACBEEBDG_02021
+P3_C4	AMR	acr3	84.8	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	ACBEEBDG_01764
+P3_C4	AMR	alo	95.9	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	ACBEEBDG_02670
+P3_C4	AMR	arsC_thio	82.7	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	ACBEEBDG_07358
+P3_C4	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	ACBEEBDG_03408
+P3_C4	AMR	blaIII	93.7	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	ACBEEBDG_04361
+P3_C4	AMR	bpsC	87.6	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	ACBEEBDG_02505
+P3_C4	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	ACBEEBDG_04546
+P3_C4	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	ACBEEBDG_04832
+P3_C4	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	ACBEEBDG_00367
+P3_C4	AMR	fosB2	94.9	0.99				fosB_gen	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosB2	ACBEEBDG_03275
+P3_C4	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	ACBEEBDG_00291
+P3_C4	AMR	hblA	98.7	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	ACBEEBDG_01710
+P3_C4	AMR	hblB	99.2	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	ACBEEBDG_01711
+P3_C4	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	ACBEEBDG_01713
+P3_C4	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	ACBEEBDG_01712
+P3_C4	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	ACBEEBDG_05246
+P3_C4	AMR	inhA2	98.7	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	ACBEEBDG_04552
+P3_C4	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	ACBEEBDG_05321
+P3_C4	AMR	mleBCA	88.4	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	ACBEEBDG_03690
+P3_C4	AMR	nheA	96.6	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	ACBEEBDG_00432
+P3_C4	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	ACBEEBDG_00431
+P3_C4	AMR	nheC	98.6	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	ACBEEBDG_00430
+P3_C4	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	ACBEEBDG_00872
+P3_C4	AMR	plcR	98.6	1.0				plcR		transcriptional regulator PlcR	ACBEEBDG_04065
+P3_C4	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	ACBEEBDG_06470
+P3_C4	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	ACBEEBDG_06196
+P3_C4	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	ACBEEBDG_01759
+P3_C4	AMR	sph	98.5	0.98				sph		sphingomyelinase C	ACBEEBDG_04545
+P3_C4	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				ACBEEBDG_05246
+P3_C4	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				ACBEEBDG_02670
+P3_C4	VFDB	asbA	92.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00341
+P3_C4	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00340
+P3_C4	VFDB	asbC	92.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00339
+P3_C4	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00338
+P3_C4	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00337
+P3_C4	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				ACBEEBDG_00336
+P3_C4	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				ACBEEBDG_04832
+P3_C4	VFDB	dhbA	90.0	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_00019
+P3_C4	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_00016
+P3_C4	VFDB	dhbC	93.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_00018
+P3_C4	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_00017
+P3_C4	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_00015
+P3_C4	VFDB	eutM2	82.1	0.89	Eut locus	Nutritional/Metabolic factor	Fusobacterium nucleatum subsp. nucleatum ATCC 23726				ACBEEBDG_06799
+P3_C4	VFDB	hblA	98.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				ACBEEBDG_01710
+P3_C4	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				ACBEEBDG_01713
+P3_C4	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				ACBEEBDG_01712
+P3_C4	VFDB	ilsA	90.3	1.0	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				ACBEEBDG_05199
+P3_C4	VFDB	inhA	95.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				ACBEEBDG_04552
+P3_C4	VFDB	nheA	96.6	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				ACBEEBDG_00432
+P3_C4	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				ACBEEBDG_00431
+P3_C4	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				ACBEEBDG_00430
+P3_C5	AMR	arsC_thio	82.6	0.99				arsC_thio	ARSENIC	thioredoxin-dependent arsenate reductase	BDJHCADA_04446
+P3_C5	AMR	rphC	80.9	1.0				rphC	RIFAMYCIN	rifamycin-inactivating phosphotransferase RphC	BDJHCADA_00353
+P3_C5	AMR	rpsJ	90.2	0.99				rpsJ		30S ribosomal protein S10	BDJHCADA_05664
+P3_C5	AMR	tetA(58)	82.2	0.99				tetA(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit A	BDJHCADA_01367
+P3_C8	AMR	BcII	92.2	1.0				BcII	BETA-LACTAM	BcII family subclass B1 metallo-beta-lactamase	BCBOFKEN_01778
+P3_C8	AMR	acr3	84.8	0.99				acr3	ARSENIC	arsenite efflux transporter Acr3	BCBOFKEN_01521
+P3_C8	AMR	alo	95.9	1.0				alo		anthrolysin O/cereolysin O family cholesterol-dependent cytolysin Alo	BCBOFKEN_02559
+P3_C8	AMR	bla1	95.4	1.0				bla1	BETA-LACTAM	class A beta-lactamase Bla1	BCBOFKEN_02026
+P3_C8	AMR	blaIII	93.7	1.0				blaIII	BETA-LACTAM	class A beta-lactamase BlaIII	BCBOFKEN_04125
+P3_C8	AMR	bpsC	87.6	0.98				bpsC		UTP--glucose-1-phosphate uridylyltransferase BpsC	BCBOFKEN_02724
+P3_C8	AMR	cerA	95.1	1.0				cerA		phospholipase CerA	BCBOFKEN_03348
+P3_C8	AMR	cytK2	99.4	1.0				cytK2		beta-channel forming cytolysin CytK2	BCBOFKEN_03736
+P3_C8	AMR	entFM	99.5	1.0				entFM		enterotoxin EntFM	BCBOFKEN_00857
+P3_C8	AMR	fosB2	94.9	0.99				fosB_gen	FOSFOMYCIN	fosfomycin resistance bacillithiol transferase FosB2	BCBOFKEN_01893
+P3_C8	AMR	fosBx1-fam	99.3	0.99				fosBx1-fam	FOSFOMYCIN	FosBx1 family fosfomycin resistance bacillithiol transferase	BCBOFKEN_00781
+P3_C8	AMR	hblA	98.7	1.0				hblA		hemolytic enterotoxin HBL binding subunit HblA	BCBOFKEN_01468
+P3_C8	AMR	hblB	99.2	1.0				hblB		hemolytic enterotoxin HBL binding subunit HblB	BCBOFKEN_01469
+P3_C8	AMR	hblC	93.8	1.0				hblC		hemolytic enterotoxin HBL lytic component L2	BCBOFKEN_01471
+P3_C8	AMR	hblD	99.8	1.0				hblD		hemolytic enterotoxin HBL lytic component L1	BCBOFKEN_01470
+P3_C8	AMR	inhA1	96.1	1.0				inhA1		M6 family metalloprotease immune inhibitor InhA1	BCBOFKEN_04919
+P3_C8	AMR	inhA2	98.7	1.0				inhA2		M6 family metalloprotease immune inhibitor InhA2	BCBOFKEN_03354
+P3_C8	AMR	lsa(B)	80.3	1.0				lsa(B)	LINCOSAMIDE/STREPTOGRAMIN	ABC-F type ribosomal protection protein Lsa(B)	BCBOFKEN_04365
+P3_C8	AMR	mleBCA	88.4	0.99				mleBCA	MACROLIDE	BCA family alpha/beta fold macrolide esterase	BCBOFKEN_02881
+P3_C8	AMR	nheA	96.6	1.0				nheA		non-hemolytic enterotoxin NHE subunit A	BCBOFKEN_00922
+P3_C8	AMR	nheB	98.8	1.0				nheB		non-hemolytic enterotoxin NHE subunit B	BCBOFKEN_00921
+P3_C8	AMR	nheC	98.6	1.0				nheC		non-hemolytic enterotoxin NHE subunit C	BCBOFKEN_00920
+P3_C8	AMR	plcA	98.8	1.0				plcA		phosphatidylinositol diacylglycerol-lyase	BCBOFKEN_00679
+P3_C8	AMR	plcR	98.6	1.0				plcR		transcriptional regulator PlcR	BCBOFKEN_03150
+P3_C8	AMR	rpoB	81.2	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	BCBOFKEN_05367
+P3_C8	AMR	rpsJ	88.2	0.99				rpsJ		30S ribosomal protein S10	BCBOFKEN_05374
+P3_C8	AMR	satA_Bant	88.0	0.99				satA_Bant	STREPTOTHRICIN	streptothricin N-acetyltransferase SatA	BCBOFKEN_01516
+P3_C8	AMR	sph	98.5	0.98				sph		sphingomyelinase C	BCBOFKEN_03347
+P3_C8	VFDB	BAS_RS06430	94.7	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				BCBOFKEN_04919
+P3_C8	VFDB	alo	95.5	1.0	ALO	Exotoxin	Bacillus anthracis str. Sterne				BCBOFKEN_02559
+P3_C8	VFDB	asbA	92.0	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00831
+P3_C8	VFDB	asbB	83.8	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00830
+P3_C8	VFDB	asbC	92.5	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00829
+P3_C8	VFDB	asbD	93.4	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00828
+P3_C8	VFDB	asbE	92.7	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00827
+P3_C8	VFDB	asbF	88.2	1.0	Petrobactin	Nutritional/Metabolic factor	Bacillus anthracis str. Sterne				BCBOFKEN_00826
+P3_C8	VFDB	cytK	97.3	1.0	CytK	Exotoxin	Bacillus cereus ATCC 10987				BCBOFKEN_03736
+P3_C8	VFDB	dhbA	90.0	1.02	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_02198
+P3_C8	VFDB	dhbB	97.6	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_02195
+P3_C8	VFDB	dhbC	93.5	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_02197
+P3_C8	VFDB	dhbE	94.4	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_02196
+P3_C8	VFDB	dhbF	94.3	1.0	Bacillibactin	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_02194
+P3_C8	VFDB	hblA	98.7	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BCBOFKEN_01468
+P3_C8	VFDB	hblC	93.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BCBOFKEN_01471
+P3_C8	VFDB	hblD	99.8	1.0	HBL	Exotoxin	Bacillus cereus ATCC 14579				BCBOFKEN_01470
+P3_C8	VFDB	ilsA	90.1	0.99	IlsA	Nutritional/Metabolic factor	Bacillus cereus ATCC 10987				BCBOFKEN_04872
+P3_C8	VFDB	inhA	95.6	1.0	InhA	Enzyme	Bacillus anthracis str. Sterne				BCBOFKEN_03354
+P3_C8	VFDB	nheA	96.6	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BCBOFKEN_00922
+P3_C8	VFDB	nheB	98.8	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BCBOFKEN_00921
+P3_C8	VFDB	nheC	94.2	1.0	Nhe	Exotoxin	Bacillus cereus ATCC 10987				BCBOFKEN_00920
+P3_D2	AMR	tet(42)	87.7	0.93				tet(42)	TETRACYCLINE	tetracycline efflux MFS transporter Tet(42)	HCFLCFEL_01787
+P3_D2	AMR	vanR-O	83.8	0.95				vanR-O	GLYCOPEPTIDE	vancomycin resistance response regulator transcription factor VanR-O	HCFLCFEL_00165
+P3_F11	AMR	blaBPU-1	83.6	1.0				blaBPU	BETA-LACTAM	class D beta-lactamase BPU-1	GDKLPKPP_01310
+P3_F11	AMR	cat86	90.5	1.0				cat86	PHENICOL	type A-6 chloramphenicol O-acetyltransferase Cat86	GDKLPKPP_00600
+P3_F11	AMR	rpoB	80.9	0.98				rpoB		DNA-directed RNA polymerase subunit beta RpoB	GDKLPKPP_03733
+P3_F11	AMR	rpsJ	92.2	0.99				rpsJ		30S ribosomal protein S10	GDKLPKPP_03741
+P3_G6	AMR	tet(42)	95.9	0.96				tet(42)	TETRACYCLINE	tetracycline efflux MFS transporter Tet(42)	ACHFPADA_00478
+P3_G6	AMR	tetB(58)	82.3	0.98				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	ACHFPADA_00507
+P3_G6	AMR	vanR-O	86.1	0.95				vanR-O	GLYCOPEPTIDE	vancomycin resistance response regulator transcription factor VanR-O	ACHFPADA_03702
+P3_G8	AMR	iri	96.4	0.99				iri	RIFAMYCIN	rifampin monooxygenase Iri	MAJGOJGM_01836
+P3_G8	VFDB	ahpC	84.5	0.99	AhpC	Stress survival	Mycobacterium tuberculosis H37Rv				MAJGOJGM_04216
+P3_G8	VFDB	icl	82.3	1.0	Isocitrate lyase	Others	Mycobacterium tuberculosis H37Rv				MAJGOJGM_03535
+P3_G8	VFDB	mprA	86.8	1.0	MprAB	Regulation	Mycobacterium tuberculosis H37Rv				MAJGOJGM_02608
+P3_G8	VFDB	relA	83.4	0.96	RelA	Regulation	Mycobacterium tuberculosis H37Rv				MAJGOJGM_04104
+P3_G8	VFDB	sigH	86.6	0.87	SigH	Regulation	Mycobacterium tuberculosis H37Rv				MAJGOJGM_01694
+P3_G9	AMR	rphC	80.2	1.0				rphC	RIFAMYCIN	rifamycin-inactivating phosphotransferase RphC	FAFGDGMC_02194
+P3_G9	AMR	rpsJ	89.2	0.99				rpsJ		30S ribosomal protein S10	FAFGDGMC_06117
+P3_G9	AMR	tetA(58)	82.0	0.95				tetA(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit A	FAFGDGMC_00838
+P3_G9	AMR	tetB(58)	83.3	0.95				tetB(58)	TETRACYCLINE	tetracycline efflux ABC transporter Tet(58) subunit B	FAFGDGMC_00837
+P3_H11	AMR	rplV	81.3	0.97				rplV		50S ribosomal protein L22	FBBCLEJG_01185
+P3_H11	AMR	rpsJ	87.3	0.99				rpsJ		30S ribosomal protein S10	FBBCLEJG_01191

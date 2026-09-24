@@ -1,0 +1,48 @@
+genome	genus	source	biosafety_tier	biosafety_reason	glycerol_route	competing_product	reuptake_risk	needs_dld_knockout	exports_lactate	d_ldh_copies	impurities_handled	impurity_breadth	acquired_resistance	taxonomy_flag
+P2_A11	Citrobacter	lab_plate	background	-	both	acids only	none	no	1	1	soap_lcfa,salt,metals	3	-	clean
+MYb174	unassigned	worm_collection	background	-	glpK_respiratory	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+MYb176	unassigned	worm_collection	background	-	glpK_respiratory	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+P1_G3	Enterobacter	lab_plate	background	-	both	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P3_E10	Buttiauxella	lab_plate	background	-	both	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P3_E8	Buttiauxella	lab_plate	background	-	both	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P1_G12	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	3	1	soap_lcfa,salt,metals	3	-	clean
+P1_A12	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_A2	Cedecea	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_B12	Cedecea	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_B6	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_B7	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_C1	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_C10	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_C12	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_D1	Cedecea	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_D10	Arsenophonus	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_D9	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_F1	1-19	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P1_G9	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+P2_F11	Citrobacter	lab_plate	background	-	both	1,3-PDO	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean
+MYb375	unassigned	worm_collection	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+MYb416	unassigned	worm_collection	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+MYb535	unassigned	worm_collection	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+P1_A10	Klebsiella	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P1_D11	Cedecea	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	weak
+P1_F2	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P1_H11	Arsenophonus	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P1_H7	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P1_H8	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P2_A1	Buttiauxella	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P2_A3	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P2_A4	Leclercia	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P2_C4	Arsenophonus	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P2_D4	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P2_D5	Pantoea	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P2_G7	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P3_A11	Leclercia	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P3_B3	Enterobacter	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	clean
+P3_G1	Leclercia	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P3_H5	Leclercia	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	-	weak
+BIGb0393	unassigned	worm_collection	background	-	both	2,3-BD	aerobic risk	yes	0	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+MYb121	unassigned	worm_collection	background	-	both	2,3-BD	aerobic risk	yes	0	1	soap_lcfa,salt,metals	3	-	no_taxonomy
+P1_A7	Serratia	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	0	1	soap_lcfa,salt,metals	3	-	genus_uncertain
+P2_F2	Cedecea	lab_plate	background	-	both	2,3-BD	aerobic risk	yes	0	1	soap_lcfa,salt,metals	3	-	weak
+P2_H1	Citrobacter	lab_plate	elevated	acquired:ant(3'')-Ic/cdiA-2	both	acids only	aerobic risk	yes	1	1	soap_lcfa,salt,metals	3	ant(3'')-Ic,cdiA-2	clean
+P2_E3	Escherichia	lab_plate	review_required	virulence_locus:K1 capsule	both	acids only	aerobic risk	yes	2	1	soap_lcfa,salt,metals	3	-	clean

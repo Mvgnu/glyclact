@@ -1,96 +1,79 @@
-# Glycerol-to-lactate community assembly
+# Glycerol → L-lactate community
 
-## Objective
+This repository records the literature research, genome mining and successive candidate-selection decisions for a proposed glycerol-to-L-lactate microbial community, starting from 384 annotated genomes.
 
-Construct minimal communities that convert glycerol into optically defined
-lactate in inexpensive mineral medium. Community value must come from a
-measurable function such as nutrient rescue, DHA carbon transfer, crude-glycerol
-tolerance, redox balancing, or process stability.
+Start with the [research and decision trail](docs/RESEARCH_TRAIL.md): it connects the literature, screening evidence, changing candidate pools and reasons for retaining, excluding or holding strains for validation.
 
-The benchmark is a single strain that performs the complete conversion. A
-community is useful only if it improves yield, productivity, medium cost,
-robustness, or the need for strain engineering.
+## Scope of this repository
 
-## Candidate architectures
+This is the **pre-experimental reasoning and computational evidence**, not a report of experimentally validated production. It includes interpreted screening tables and model diagnostics where they explain decisions. Raw genome inputs, reconstructed model files, simulation runs, wet-lab measurements, strain-to-bench mappings, Echo records and Bayesian acquisition runs are not included.
 
-1. **Direct producer:** one strain carries glycerol entry, lower glycolysis, and
-   a productive NAD-dependent LDH.
-2. **Direct producer plus supporter:** the direct producer is nutritionally
-   demanding and a glycerol-grown prototroph supplies required metabolites.
-3. **DHA shuttle:** one strain oxidizes glycerol and releases dihydroxyacetone
-   (DHA); another imports/phosphorylates DHA and converts it to lactate.
+Historical documents retain the hypotheses and wording used at each stage, including conclusions later revised. A historical claim about growth, secretion, optical purity or community benefit must not be read as a measured phenotype. The current panel rationale supersedes the earlier pools. This is a curated research record, not a complete transcript of every analysis or an untouched time-stamped pre-bench snapshot.
 
-The annotation screen is triage, not validation. A pathway in a genome does not
-prove flux, extracellular metabolite release, growth on glycerol, or safe use.
+The source genome library and some reference databases are external inputs. The code and decision records are inspectable here, but reproducing every result requires those inputs and their applicable permissions. No rights to redistribute the source strain library are implied.
 
-## Process regime
+## Authoritative state
 
-Operation is **aerobic**. That decision drives the screen: under aeration the
-yield-limiting competition is pyruvate dehydrogenase, pyruvate oxidase and NADH
-oxidase draining pyruvate and NADH away from lactate, so those are scored
-explicitly. Anaerobic infeasibility in a reconstruction is a gap to note, not a
-blocker.
+[panel/pool_v5_panel.yaml](panel/pool_v5_panel.yaml) is the only authoritative pool definition: **14 producers plus 2 strains held for chiral-HPLC resolution of a `lar`-operon risk**. There is no non-producing supporter.
 
-Candidate choice is driven by **medium simplicity**: which strains grow on
-glycerol plus mineral salts, what each one requires, and which partners can
-supply the difference. The GEMs evaluate those choices; DHA, glycerol uptake and
-lactate production are layered on afterwards in COMETS.
+The panel is intentionally manual. LDH, racemase, identity, physiology, and virulence screens produce evidence to inspect; they do not regenerate the YAML. In particular, virulence homology calls require locus-by-locus interpretation and are not safe as an automated exclusion rule. There is also no “lab plate only” eligibility rule.
 
-## Directory layout
+The local staged-input manifest, `candidate_genomes/manifest_pool_v5.tsv`, is derived from the YAML and contains those same 16 genomes. Like the underlying genome inputs, it is not distributed in this repository; see [input provenance](candidate_genomes/README.md).
 
-- `screen_genomes.py` — eggNOG annotation screen (v2). Marker sets live in
-  `markers.py` so they can be reviewed independently of the scoring.
-- `identify_strains.py` — species/strain assignment by ANI against one RefSeq
-  genome per species, escalating to family when no species matches.
-- `audit_models.py` — model gate: mass balance, free-lunch loops, growth on
-  glycerol/glucose/DHA, and product ceilings per unit glycerol.
-- `results/` — score table, marker hits, ranked summary, `MODEL_GATE.md`,
-  `SCREEN_V2_FINDINGS.md`, `strain_identity.tsv`.
-- `candidate_genomes/`, `models/`, `references/`, `comets_runs/` — gitignored.
-- `docs/` — research decisions, validation criteria, and experimental plan.
+## Directory map
 
-## Workflow
+| Directory | Purpose |
+|---|---|
+| [panel/](panel/) | current manually curated panel |
+| [screening/](screening/) | marker, LDH/fold, racemase, and virulence evidence |
+| [identity/](identity/) | ANI hit generation and conservative taxonomic calls |
+| [modeling/](modeling/) | input staging, CarveMe reconstruction, curation, and diagnostics |
+| [physiology/](physiology/) | product capacity/consumption and gene-content diagnostics |
+| [results/](results/) | generated and interpreted evidence, with cohort scopes indexed |
+| [results/planning/](results/planning/) | proposed validation experiments; not completed experimental results |
+| `references/` (external, untracked) | LDH, VFDB, and AMR reference material |
+| [comets/](comets/) | historical COMETS inputs from the retired community enumerator |
+| [archive/](archive/) | superseded panel logic and historical work |
 
-```text
-384 annotated local genomes
-        ↓
-annotation screen: glycerol entry, lactate route AND export, aerobic pyruvate
-competition, per-pathway requirements and provisions, assembly QC, biosafety
-        ↓
-ANI species assignment for shortlisted strains
-        ↓
-shortlist producers, DHA donors/receivers, supporters, and controls
-        ↓
-CarveMe reconstructions
-        ↓
-model gate: mass balance, no free lunch, glycerol growth, product ceilings
-        ↓
-GEM minimal-medium and dropout analysis — the authoritative requirement list
-        ↓
-match each requirement to a partner that can supply it
-        ↓
-reality gate: measured single-strain substrate use and products
-        ↓
-COMETS community × medium screen with product labels
-        ↓
-minimal lab-ready communities and defined media
+Each topical code directory has its own README describing what to run and how to interpret it.
+
+## Decision boundary
+
+The current panel combines:
+
+1. Sequence-adjudicated L-LDH/D-LDH evidence and `lar`-system review.
+2. Conservative identity evidence. A closest ANI hit below the species threshold remains a closest reference, not a species call.
+3. Manual virulence/resistance review of the underlying homology hits.
+4. Deliberate functional and taxonomic spread, using gene-content diversity as an aid rather than an automatic selector.
+5. Model outputs as diagnostics only. CarveMe/FBA results are useful for finding transport, exchange, gap-fill, and redox problems; they are not organism growth-rate or medium-validation measurements.
+
+## Process caveat: oxygen and alternative acceptors
+
+The existing “anaerobic” lactate-consumption table means **oxygen-free with no nitrate, fumarate, or other alternative respiratory acceptor**. Its 35/36 non-consumer result must not be generalized to nitrate- or fumarate-containing production medium.
+
+Quinone/cytochrome-linked L-lactate oxidation can feed anaerobic respiration when a compatible terminal acceptor is available. Nitrate or fumarate may help redox balance and growth while also reopening product consumption. Therefore acceptor choice is an experimental axis: measure L-lactate retention in the exact proposed medium rather than treating “low oxygen” or “nitrate added” as a solved condition.
+
+## Typical workflow
+
+From this directory:
+
+```bash
+python screening/screen_genomes.py \
+  --genome-root /path/to/genome-library \
+  --output-dir results/screening
+python screening/assign_folds.py
+python screening/adjudicate_ldh.py
+python identity/identify_strains.py
+
+# Requires the strain-library volume to refresh staged inputs.
+python modeling/prepare_candidates.py
+python modeling/reconstruct_models.py
+python modeling/curate_models.py
+python modeling/audit_models.py
+
+python physiology/guild_diversity.py
+python physiology/lactate_capacity.py
+python physiology/lactate_consumption.py
 ```
 
-Annotation is an approximation and a community's behaviour is not the sum of its
-parts, so every stage above is a prior for the next, and the wet-lab gates in
-`docs/PROJECT_BRIEF.md` remain the arbiter.
-
-## Primary validation measurements
-
-- glycerol disappearance;
-- L- and D-lactate separately;
-- DHA;
-- acetate, ethanol, succinate, pyruvate, and 1,3-propanediol;
-- biomass and viable counts;
-- final community composition;
-- ideally `13C3`-glycerol incorporation into M+3 lactate.
-
-The eventual optimization target should reward lactate yield, productivity,
-optical purity, glycerol conversion, and medium simplicity while penalizing
-competing products, residual glycerol, and community instability.
-
+Read [results/pool_v5/POOL_V5.md](results/pool_v5/POOL_V5.md) for the current selection rationale and [results/planning/EXPERIMENT_PLAN_V5.md](results/planning/EXPERIMENT_PLAN_V5.md) for experimental validation.

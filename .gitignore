@@ -1,5 +1,6 @@
 .venv/
-candidate_genomes/
+candidate_genomes/*
+!candidate_genomes/README.md
 models/
 comets_runs/
 taxonomy_work/
@@ -8,4 +9,15 @@ results/*.parquet
 references/
 
 __pycache__/
-comets/
+comets/*
+!comets/README.md
+work/
+
+# Public-facing scope: pre-experimental research and candidate decisions only.
+# Bench records, Echo source ODs/picklists, reader files and acquisition models
+# stay local, including copies embedded in notebooks and output snapshots.
+/protocols/
+*.log
+.DS_Store
+.env
+.env.*

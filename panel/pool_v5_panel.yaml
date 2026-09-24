@@ -1,0 +1,200 @@
+source_root: /Volumes/T7 Shield/STRAIN_LIBRARY_SEQ_PROCCSSED_DATA/assmebled_and_proccessed_genomes
+
+# Pool v5 — the L-lactate panel. 14 producers, 2 held. No supporter.
+#
+# Regenerate the manifest with:
+#   python modeling/prepare_candidates.py --config panel/pool_v5_panel.yaml \
+#       --manifest candidate_genomes/manifest_pool_v5.tsv
+# (needs the strain library drive mounted; everything downstream then runs from
+# candidate_genomes/ without it.)
+#
+# This file replaced an earlier version listing the 29 genomes staged for modelling.
+# That was a screening step, not a panel — this is the panel.
+#
+# Manually selected from 384 genomes after review of three evidence streams. This YAML,
+# not a selector script, is the authoritative decision artifact:
+#
+#   1. No D-LDH        fold-typed by HMM, adjudicated against a Swiss-Prot panel holding
+#                      ldhD together with its decoy family (serA, ghrA/B, pdxB, glycerate
+#                      DH, NAD-formate DH), plus reciprocal best hits.
+#   2. No lactate racemase   screened as larA AND the larBCDE maturation operon AND the
+#                      LarA-superfamily HMMs (PF09861, PF21113). KO-level screening found
+#                      1 genome in 384; this found 5.
+#   3. Virulence review     VFDB core + NCBI AMRFinderPlus hits were inspected manually.
+#                          Automated tiers contain too many context-dependent or incorrect
+#                          calls to function as a direct inclusion/exclusion gate. Eleven
+#                          candidates with the complete B. cereus enterotoxin system
+#                          (hblACD, nheABC, cytK, alo) at 93.8-99.8% identity were excluded
+#                          after that review.
+#
+# Everything model-derived — predicted growth rate, redox recovery, predicted lactate
+# consumption — is an ANNOTATION here, never a gate. An earlier version of this panel
+# excluded ten producers on those numbers; the exclusions were reversed because every
+# model was gapfilled on M9 regardless of what its organism requires, so they answer
+# "is there a route" and not "how fast". See results/pool_v5/POOL_V5.md.
+#
+# Species labels are direct ANI calls only where identity and aligned fraction support
+# them. Lower-ANI hits are recorded as closest references, not promoted to species calls.
+
+candidates:
+  # ------------------------------------------------------------------ producers
+  - genome: P2_C2
+    role: producer
+    rationale: >-
+      *Oerskovia merdavium*, 98.5% ANI, 90% aligned. Actinomycetota. Ferments glycerol
+      and does not grow on L-lactate under either regime. One of the few carrying both
+      glpK and glpF. 19 biosynthetic pathways, needs only biotin, catalase-positive.
+      Electron recovery 1.0714 — a redox leak that does not localise, so its yields are
+      unsafe, but that is a model defect and POOL_V4.md reached the same verdict
+      independently: "strain probably fine, model is not". Carries tetB(58).
+  - genome: P3_D2
+    role: producer
+    rationale: >-
+      *Microbacterium* sp.; closest reference *M. forte* at 92.2% ANI, below the species
+      threshold. Fastest glycerol growth
+      in the pool once curation gave it the O2 transport it was missing — 0.066 to 0.534.
+      Grows on L-lactate at 81% of its glycerol rate under air, so it is a strain to
+      watch when oxygen is raised rather than one to exclude.
+  - genome: P2_C10
+    role: producer
+    rationale: >-
+      *Microbacterium* sp., 87.3% ANI — unplaced, not identified to species. Redox leak
+      1.083. Grows faster on L-lactate than on glycerol under air (1.69x), which is the
+      strongest consumption signal in the pool and part of why oxygen is held low.
+  - genome: P3_G8
+    role: producer
+    rationale: >-
+      *Rhodococcus erythropolis*, 98.3% ANI. The best crude-glycerol profile in the pool
+      by a wide margin — 49 LCFA genes, 23 halotolerance genes, 8 formaldehyde detox,
+      total 86 against 34 for the next best. Its three lactate oxidases were the reason
+      to be wary of it; they are O2-dependent, but quinone-linked L-lactate oxidation
+      must also be retested whenever nitrate or another respiratory acceptor is supplied.
+      Carries adhE, pta and ackA, so it can run the acetate/ethanol redox route.
+  - genome: P3_C3
+    role: producer
+    rationale: >-
+      *Lactococcus lactis*, 98.2% ANI. The only described lactate producer in the pool
+      and the best LDH complement in the library — three L-LDH at 99.7-100% identity to
+      characterized IL1403 ldh1/ldh2/ldh3, zero D-LDH. Chosen over the other six
+      Lactococcus genomes because it is the only one whose model behaves like the
+      organism: P3_B12 has no ATP synthase, and the other five cannot ferment glucose
+      anaerobically. Carries adhE + pta + ackA. Two costs: a lactate oxidase (lctO,
+      48.1% to S. iniae, RBH-confirmed) that POOL_V4 records as absent, and 8 required
+      supplements. Worst crude-glycerol robustness in the pool (halotolerance 3).
+  - genome: P1_B11
+    role: producer
+    rationale: >-
+      *Bacillus velezensis*, 98.8% ANI. Carried from pool v4 and survives every new
+      filter. Cannot grow on L-lactate. Electron recovery exactly 1.0000. The only fully
+      prototrophic member — zero requirements. Catalase 3. Pool v4 chose it for the best
+      aerobic profile available: PDH present but no pyruvate oxidase and no NADH oxidase,
+      so the least pyruvate and NADH diverted from lactate. Carries clbA at 99.1%, worth
+      confirming since that family also contains housekeeping RlmN.
+  - genome: P1_F7
+    role: producer
+    rationale: >-
+      *Bacillus altitudinis* group — no direct ANI reference match. Current KEGG
+      gene-content clustering pairs it only with P3_F11, and both share the B. pumilus-
+      group resistance signature (blaBPU-1, cat86). It grows 1.8x faster on glycerol than
+      P3_F11 and, unlike P3_F11, has modeled aerobic lactate-use capacity. Running both is
+      a deliberate close-comparator test of whether that speed is worth the loss.
+  - genome: P3_F11
+    role: producer
+    rationale: >-
+      *Bacillus altitudinis*, 98.2% ANI, 95% aligned. Pool v4 producer. Cannot grow on
+      L-lactate, recovery 1.0000, needs only biotin. The slow, clean half of the P1_F7
+      comparison.
+  - genome: P3_A9
+    role: producer
+    rationale: >-
+      *Paenibacillus taichungensis*, 98.6% ANI, 94% aligned. Zero requirements, 19
+      pathways, no lactate oxidase, recovery 1.0000. No glycerol facilitator — its model
+      only grows because CarveMe attributed GLYCt to glpP, a transcriptional
+      antiterminator that transports nothing. It has glpK, so glycerol is trapped as G3P
+      on arrival and passive diffusion supplies it; expect a higher Ks, not an inability.
+      P3_A10 is the same strain (>=99.5% ANI) and interchangeable.
+  - genome: P3_A8
+    role: producer
+    rationale: >-
+      *Paenibacillus amylolyticus*, 95.4% ANI. Redox leak 1.0161, marginal against a
+      1.015 tolerance and probably repairable. No glycerol facilitator, same as P3_A9.
+      Carries adhE and nitrate respiration (narGH).
+  - genome: P3_C5
+    role: producer
+    rationale: >-
+      *Paenibacillus odorifer*, 97.1% ANI. No glpK at all — runs the oxidative route
+      instead (gldA + dhaK: glycerol -> DHA -> DHAP), which traps glycerol just as
+      effectively. Its model shows no growth on glycerol because no transport reaction
+      was drawn, which is a modelling artifact rather than a finding: a genome-scale
+      model cannot represent passive diffusion.
+  - genome: P3_G9
+    role: producer
+    rationale: >-
+      *Paenibacillus* sp.; closest reference *P. lupini* at 94.3% ANI, below the species
+      threshold. Same situation as P3_C5
+      — no transport reaction, hence mu 0.0000, and it was excluded from an earlier pool
+      on exactly that. It has glpK and the full catabolic route. Kept deliberately as the
+      test of whether the model's no-growth verdict means anything.
+  - genome: P2_D9
+    role: producer
+    rationale: >-
+      Bacillaceae sp.; closest reference *Niallia tiangongensis* at 89.6% ANI, too low
+      for a genus or species assignment. Redox leak 1.0244, the same value as P1_A3
+      whose leak localised cleanly to SUCD2, so probably repairable. Best formaldehyde
+      detox in the pool (10) and strong metal resistance (9). Carries adhE + pta + ackA
+      and fumarate respiration.
+  - genome: P2_B6
+    role: producer
+    rationale: >-
+      *Pseudomonas* sp. — species unresolved, no ANI hit against 392 reference species,
+      so it is not a close relative of anything sequenced. Needs a family-level pass
+      before publication. Cannot grow on L-lactate, recovery 1.0000, and it is the only
+      Pseudomonadota producer, carrying most of the pool's phylogenetic spread.
+      Background biosafety tier — nothing found, and the genus-list flag it used to carry
+      does not survive evidence-based screening. Requires biotin, pantothenate, thiamine.
+
+  # No supporter. P3_C11 (*Gluconobacter frateurii*) was carried through four drafts and
+  # is dropped here because every argument for it failed in turn:
+  #
+  #   DHA shuttle      the mechanism it was recruited for is unrepresentable — no model
+  #                    in the exploratory 17-member draft had EX_dha_e, and the literature says wild-type
+  #                    G. frateurii directs most glycerol to glyceric acid, not DHA.
+  #   B12 supply       its cobalamin route is the aerobic cob* one, which does not run
+  #                    under an O2-limited regime. The anaerobic cbi* route in P1_B3 and
+  #                    P1_B8 does.
+  #   crude glycerol   zero LCFA genes, halotolerance 5 — second-worst in the pool.
+  #   does not eat lactate    true only in the model's oxygen-free, no-alternative-
+  #                           acceptor condition; nitrate/fumarate media were not tested.
+  #
+  # The general case against a non-producing partner is carbon, and the cost is larger
+  # than its biomass: production happens in stationary phase, so a supporter's
+  # maintenance demand (~1-8 mmol ATP/gDW/h) runs for the whole production phase while
+  # contributing nothing. At 2 g/L for 40 h that is roughly 2-20 g/L of glycerol burned
+  # to stay alive, on top of the one-off ~5-7% of carbon locked in its biomass.
+  #
+  # If a partner effect is worth testing later, the clean route is conditioned medium —
+  # grow the partner, remove it, run the producer on the supernatant. That costs no
+  # carbon during production and is mechanistically decisive: a benefit that survives
+  # removing the organism is a secreted factor, one that does not requires the live cell.
+  # Co-culture cannot separate those.
+
+  # --------------------------------------------------- held pending chiral HPLC
+  - genome: P1_B3
+    role: held_lar_operon
+    rationale: >-
+      *Priestia aryabhattai*, 99.5% ANI, 94% aligned. Pool v4's keystone producer. Zero
+      requirements, catalase 3, two amino-acid exporters, recovery 1.0000, cannot grow on
+      L-lactate, background biosafety tier, and fourth-best crude-glycerol robustness.
+      Held because it carries a complete larC1/larC2/larB/larE nickel-pincer cofactor
+      operon plus a Lar_N-domain protein annotated "hypothetical protein" — the one
+      failure mode that produces off-spec lactate with no D-LDH anywhere in the genome.
+      Not proof: Lar_N scores 39.5 bits against 252.7 for a real LarA, LarA_C is absent,
+      and the locus is flanked by uronate metabolism. One chiral HPLC injection on a
+      monoculture supernatant decides it.
+  - genome: P1_B8
+    role: held_lar_operon
+    rationale: >-
+      *Priestia megaterium*, 96.3% ANI. Same lar architecture as P1_B3 and the same hold.
+      Also a long-standing industrial B12 producer by the anaerobic cbi* route, which is
+      the route that runs under an O2-limited regime — so if the purity clears, this is
+      the pool's B12 source rather than P3_C11. Carries lsa(B).

@@ -1,0 +1,37 @@
+genome	species_ani	ani_percent	ani_call	megan_genus	l_ldh	l_ldh_annotation	d_ldh	lldD_eats_L	lactate_oxidase	lar_risk	lar_maturation	lactate_perm_PF02652	glpK	glpF	gldA	mu_glycerol_aerobic	mu_glycerol_anaerobic	mu_glucose_aerobic	electron_recovery	yield_lac_L_aerobic	requires_count	catalase	biosafety_flag	assembly	has_model
+P1_A1				Bacillus	3	4	0	2	0	none	0	3	1	1	1	0.21320927396379813	0.0	0.4307782130472485	1.0	1.0	1	1	1	good	1
+P1_A9				Bacillaceae	3	3	0	2	0	none	0	3	1	1	0	0.1888925328100275	0.0	0.3523073136486965	1.0	1.0	1	1	1	good	1
+P1_B4				Ureibacillus	3	4	0	2	0	none	0	3	1	1	1	0.19293825663147893	0.0	0.35983163564127946	1.0	1.0	1	1	1	acceptable	1
+P1_C6				Aneurinibacillus	3	3	0	2	0	none	0	3	1	1	0	0.20395823930575	0.0	0.41248031150450576	1.0	1.0	1	1	1	good	1
+P1_H3				Raoultella	3	3	0	2	0	none	0	3	1	1	0	0.18850159831371052	0.0	0.35334431822714113	1.0	1.0	1	2	1	acceptable	1
+P2_F9				Aneurinibacillus	3	3	0	2	0	none	0	3	1	1	0	0.19404437514802533	0.0	0.36191227366400963	1.0	1.0	1	1	1	good	1
+P3_A12				Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.37775570221423205	0.0	0.5547440334603801	1.0	1.0	8	0	0	good	1
+P3_B1				Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.35503597854723207	0.0	0.5546149145383497	1.0	1.0	8	0	0	good	1
+P3_B12	Lactococcus lactis	98.233	species_match	Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.17850406878603858	0.0	0.36005798301748015	1.0	1.0	8	0	0	good	1
+P3_B4				Ureibacillus	3	3	0	2	0	none	0	3	1	1	0	0.19293979184014112	0.0	0.35985276199616956	1.0	1.0	1	1	1	good	1
+P3_B5				Bacillaceae	3	3	0	2	0	none	0	3	1	1	1	0.18891629180104086	0.0	0.3542393220987291	1.0	1.0	1	1	1	good	1
+P3_C1				Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.35503597854723784	0.0	0.5546149145381649	1.0	1.0	8	0	0	good	1
+P3_C10				Buttiauxella	3	3	0	2	0	none	0	3	1	1	0	0.19292768100838237	0.0	0.35983018354233914	1.0	1.0	1	1	1	good	1
+P3_C3				Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.3799039130877111	0.023213748656955753	0.601429463264338	1.0	1.0	8	0	0	good	1
+P3_C4				Paenibacillus	3	3	0	2	0	none	0	3	1	1	0	0.1715704854334314	0.0	0.46016498741961726	1.0	1.0	1	2	1	good	1
+P3_C8				Bacillaceae	3	3	0	2	0	none	0	3	1	1	0	0.2039587693967819	0.0	0.4124813955422594	1.0	1.0	1	1	1	good	1
+P3_H11				Lactococcus	3	4	0	1	1	none	0	0	1	1	0	0.37775570221423205	0.0	0.5547440334603801	1.0	1.0	8	0	0	good	1
+P2_D9				Fictibacillus	2	2	0	1	0	none	0	0	1	1	1	0.19894663526081807	0.0	0.40094515603522934	1.0244	1.0	1	2	0	good	1
+P3_A10	Paenibacillus taichungensis	98.542	species_match	Paenibacillus	2	2	0	1	0	none	0	0	1	0	1	0.18102871846941065	0.0701846730524963	0.4443432180612707	1.0	1.0	0	1	1	acceptable	1
+P3_A7				Lactococcus	2	3	0	1	1	none	0	0	1	1	0	0.355036188631626	0.0	0.5527598235921258	1.0	1.0	8	0	0	acceptable	1
+P3_A8	Paenibacillus amylolyticus	95.367	species_match	Paenibacillus	2	2	0	1	0	none	0	0	1	0	1	0.1810274722711402	0.05451045179859373	0.444340159210975	1.0161	1.0	1	1	0	good	1
+P3_A9				Paenibacillus	2	2	0	1	0	none	0	0	1	0	1	0.18431604010540167	0.07034744389739676	0.4524120984405409	1.0	1.0	0	1	1	good	1
+P3_C5				Paenibacillus	2	2	0	1	0	none	0	0	0	0	1	0.0	0.0	0.4519530293965405		0.0	1	2	0	good	1
+P1_B11	Bacillus velezensis	98.81	species_match	Bacillus	1	1	0	2	0	none	0	1	1	1	1	0.1286861405000961	0.0	0.2605556432470094	1.0	1.0	0	3	1	good	1
+P1_F7				Raoultella	1	1	0	2	0	none	0	1	1	1	0	0.2165716536141286	0.0	0.43764260789523535	1.0	1.0	1	1	1	good	1
+P2_B6				Pseudomonas	1	0	0	2	0	none	0	0	1	1	0	0.1253050886530206	0.0	0.25362911775091806	1.0	1.0	3	1	1	good	1
+P2_C10				Microbacterium	1	0	0	2	1	none	0	0	1	1	0	0.41536940839106634	0.0	0.6524168094763304	1.0827	1.0	3	1	0	good	1
+P2_C2	Oerskovia merdavium	98.513	species_match	Oerskovia	1	0	0	1	0	none	0	0	1	1	1	0.11953685898227787	0.07722269225673266	0.24181790430282504	1.0714	1.0	1	1	0	good	1
+P3_C2				Microbacterium	1	0	0	2	1	none	0	0	1	1	0	0.4153695687018697	0.0	0.6524176004725883	1.0827	1.0	3	1	0	good	1
+P3_D2				Microbacterium	1	0	0	2	0	none	0	0	1	1	0	0.5343769839633824	0.06599755282394196	0.9363347562079891	1.0	1.0	3	1	0	good	1
+P3_F11	Bacillus altitudinis	98.172	species_match	Bacillus	1	1	0	2	0	none	0	1	1	1	0	0.12013765949686415	0.0	0.24304751642138595	1.0	1.0	1	1	1	good	1
+P3_G6				Microbacterium	1	0	0	2	1	none	0	0	1	1	0	0.40506117798463925	0.0	0.6309871312540851	1.1163	1.0	3	1	0	good	1
+P3_G8	Rhodococcus erythropolis	98.3	species_match	Rhodococcus	1	0	0	2	3	none	0	0	1	1	0	0.21698961882605475	0.06063647720062104	0.4275389377526738	1.0	1.0	0	3	0	acceptable	1
+P3_G9	Paenibacillus lupini	94.326	genus_match_species_unresolved	Paenibacillus	1	1	0	1	0	none	0	0	1	0	1	0.0	0.0	1.1930999043525687		0.0	0	3	0	good	1
+P1_B3	Priestia aryabhattai	99.474	species_match	Aneurinibacillus	1	1	0	2	0	larA_superfamily_divergent	3	2	1	1	1	0.11703236765365894	0.0	0.2366946902528674	1.0	1.0	0	3	0	good	1
+P1_B8				Aneurinibacillus	1	1	0	2	0	larA_superfamily_divergent	3	2	1	1	1	0.12608367076300664	0.0	0.2552222676494258	1.0	1.0	0	3	0	good	1

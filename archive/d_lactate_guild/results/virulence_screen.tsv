@@ -1,0 +1,48 @@
+genome	biosafety_tier	tier_reasons	exotoxin_genes	high_consequence_loci	acquired_resistance_genes	intrinsic_resistance_genes	antibacterial_secretion	environmental_resistance_hits	adherence_hits	motility_hits	siderophore_hits	immune_modulation_hits	invasion_class_hits	total_vfdb_hits
+P2_E3	review_required	virulence_locus:K1 capsule	-	K1 capsule	-	blaEC-15	-	10	21	20	18	5	11	93
+P2_H1	elevated	acquired:ant(3'')-Ic/cdiA-2	-	-	ant(3'')-Ic,cdiA-2	oqxA,oqxB27	T6SS	13	13	33	14	5	3	81
+P1_H11	background	-	-	-	-	blaACT-131,fosA2,oqxA,oqxB3	T6SS-1,T6SS-2	12	7	40	9	6	1	99
+P2_C4	background	-	-	-	-	blaACT-131,fosA2,oqxA,oqxB3	T6SS-1,T6SS-2	12	7	40	9	6	1	99
+P1_F2	background	-	-	-	-	blaACT-12,fosA2,oqxA,oqxB3	T6SS,T6SS-1,T6SS-1 secreted effectors,T6SS-2	11	7	39	9	5	1	97
+P1_H7	background	-	-	-	-	blaACT-12,fosA2,oqxA,oqxB3	T6SS,T6SS-1,T6SS-1 secreted effectors,T6SS-2	11	7	39	9	5	1	97
+P2_A3	background	-	-	-	-	blaACT-12,fosA2,oqxA,oqxB3	T6SS,T6SS-1,T6SS-1 secreted effectors,T6SS-2	11	7	39	9	5	1	97
+P2_D4	background	-	-	-	-	blaACT-12,fosA2,oqxA,oqxB3	T6SS,T6SS-1,T6SS-1 secreted effectors,T6SS-2	11	7	39	9	5	1	97
+P2_A1	background	-	-	-	-	blaACT-12,fosA2,oqxA,oqxB3	T6SS,T6SS-1,T6SS-1 secreted effectors,T6SS-2	10	7	39	9	5	1	96
+P1_A12	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_A2	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_B12	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_B6	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_B7	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_C1	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_C10	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_C12	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_D1	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_D9	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_G9	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P2_F11	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	10	8	33	20	14	2	90
+P1_G12	background	-	-	-	-	blaCMY-152	-	11	10	32	23	5	2	84
+P1_F1	background	-	-	-	-	blaCMY-214,qnrB46	-	10	6	32	18	11	2	81
+P2_A4	background	-	-	-	-	blaCMY-190,fosA2,qnrB33	T6SS	7	6	38	10	5	1	78
+P3_A11	background	-	-	-	-	blaCMY-190,fosA2,qnrB33	T6SS	7	6	38	10	5	1	78
+P3_G1	background	-	-	-	-	blaCMY-190,fosA2,qnrB33	T6SS	7	6	38	10	5	1	78
+P3_H5	background	-	-	-	-	blaCMY-190,fosA2,qnrB33	T6SS	7	6	38	10	5	1	78
+P1_H8	background	-	-	-	-	blaCMY-212,fosA2,qnrB33	T6SS	7	6	38	9	5	1	77
+P2_G7	background	-	-	-	-	blaCMY-212,fosA2,qnrB33	T6SS	7	6	38	9	5	1	77
+P3_B3	background	-	-	-	-	blaCMY-212,fosA2,qnrB33	T6SS	7	6	38	9	5	1	77
+P1_D10	background	-	-	-	-	blaCMY-214,qnrB46	T6SS	8	7	29	14	11	2	73
+MYb174	background	-	-	-	-	blaBUT-2,qnrB96	T6SS,T6SS-2	6	1	28	9	5	1	69
+MYb176	background	-	-	-	-	blaBUT-2,qnrB96	T6SS,T6SS-2	6	0	28	9	5	1	68
+P1_A10	background	-	-	-	-	blaTER-2,blaYOC-1,fosA_gen,oqxA,oqxB9	T6SS,T6SS-2	15	12	0	12	9	1	55
+P2_A11	background	-	-	-	-	-	-	10	3	25	15	0	2	50
+MYb121	background	-	-	-	-	oqxB17	T6SS,T6SS-1,T6SS-2	1	0	19	0	1	1	34
+P1_A7	background	-	-	-	-	ampC_Sliq-1,qnrE1	-	8	0	23	0	3	0	33
+P3_E10	background	-	-	-	-	oqxB27	T6SS,T6SS-2	0	0	18	0	3	4	33
+P3_E8	background	-	-	-	-	oqxB27	T6SS,T6SS-2	0	0	18	0	3	4	33
+BIGb0393	background	-	-	-	-	oqxB25	T6SS,T6SS-2	6	0	19	0	3	1	31
+P1_D11	background	-	-	-	-	oqxB26	T6SS-1	4	0	15	0	3	1	29
+P2_D5	background	-	-	-	-	oqxB26	T6SS-1	4	0	15	0	3	1	29
+MYb375	background	-	-	-	-	-	-	1	0	16	0	3	1	26
+MYb416	background	-	-	-	-	-	SCI (Salmonella centrisome island)/SPI-6 T6SS	1	0	17	0	2	0	26
+MYb535	background	-	-	-	-	-	-	1	0	16	0	2	1	25
+P1_G3	background	-	-	-	-	-	T6SS,T6SS-2	10	1	0	0	3	1	15
+P2_F2	background	-	-	-	-	-	-	5	1	0	1	3	0	9

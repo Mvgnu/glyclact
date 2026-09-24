@@ -1,0 +1,37 @@
+genome	biosafety_tier	tier_reasons	exotoxin_genes	high_consequence_loci	acquired_resistance_genes	intrinsic_resistance_genes	antibacterial_secretion	environmental_resistance_hits	adherence_hits	motility_hits	siderophore_hits	immune_modulation_hits	invasion_class_hits	total_vfdb_hits
+P3_B5	review_required	exotoxin:alo/hblA/hblC/hblD; acquired:BcII/bla1/fosBx1-fam/lsa(B)	alo,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,fosBx1-fam,lsa(B),mleBCA	-	-	1	0	0	12	0	0	23
+P3_C4	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB2	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosB2,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	2	0	0	13	0	0	23
+P1_A1	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosBx1-fam	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	12	0	0	22
+P1_C6	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB2	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosB2,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	12	0	0	22
+P2_F9	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB2	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosB2,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	12	0	0	22
+P3_C10	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB2	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosB2,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	12	0	0	22
+P3_C8	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB2	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosB2,fosBx1-fam,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	12	0	0	22
+P1_A9	review_required	exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosBx1-fam	alo,cytK,hblA,hblC,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosBx1-fam,mleBCA	-	-	1	0	0	11	0	0	21
+P3_B4	review_required	exotoxin:alo/hblA/hblC/hblD; acquired:bla1/blaIII/fosBx1-fam/lsa(B)	alo,hblA,hblC,hblD,nheA,nheB,nheC	-	bla1,blaIII,fosBx1-fam,lsa(B),mleBCA,satA_Bant,vanR-A,vanS-Pt	-	-	1	0	0	12	0	0	21
+P1_B4	review_required	exotoxin:alo/cytK/hblD/nheA; acquired:BcII/bla1/blaIII/fosBx1	alo,cytK,hblD,nheA,nheB,nheC	-	BcII,bla1,blaIII,fosBx1,lsa(B),mleBCA,satA_Bant	-	-	1	0	0	11	0	0	19
+P1_H3	review_required	exotoxin:alo/cesH/nheA/nheB; acquired:BcII/bla1/fosBx1-fam/mleBCA	alo,cesH,nheA,nheB,nheC	-	BcII,bla1,fosBx1-fam,mleBCA,satA_Bant	-	-	1	0	0	6	0	0	13
+P3_G8	elevated	acquired:iri	-	-	iri	-	-	0	0	0	0	0	0	5
+P1_B8	elevated	acquired:lsa(B)	-	-	lsa(B)	-	-	1	0	0	1	0	0	1
+P1_B11	elevated	acquired:clbA	-	-	clbA	-	-	1	0	0	0	0	0	0
+P1_F7	elevated	acquired:blaBPU-1/cat86	-	-	blaBPU-1,cat86	-	-	1	0	0	0	0	0	0
+P2_C10	elevated	acquired:tet(42)/tetB(58)/vanR-O	-	-	tet(42),tetB(58),vanR-O	-	-	0	0	0	0	0	0	0
+P2_C2	elevated	acquired:tetB(58)	-	-	tetB(58)	-	-	0	0	0	0	0	0	0
+P2_D9	elevated	acquired:cadC_Sa/tetB(58)	-	-	cadC_Sa,tetB(58)	-	-	3	0	0	0	0	0	0
+P3_C2	elevated	acquired:tet(42)/tetB(58)/vanR-O	-	-	tet(42),tetB(58),vanR-O	-	-	0	0	0	0	0	0	0
+P3_C5	elevated	acquired:rphC/tetA(58)	-	-	rphC,tetA(58)	-	-	1	0	0	0	0	0	0
+P3_D2	elevated	acquired:tet(42)/vanR-O	-	-	tet(42),vanR-O	-	-	0	0	0	0	0	0	0
+P3_F11	elevated	acquired:blaBPU-1/cat86	-	-	blaBPU-1,cat86	-	-	0	0	0	0	0	0	0
+P3_G6	elevated	acquired:tet(42)/tetB(58)/vanR-O	-	-	tet(42),tetB(58),vanR-O	-	-	0	0	0	0	0	0	0
+P3_G9	elevated	acquired:rphC/tetA(58)/tetB(58)	-	-	rphC,tetA(58),tetB(58)	-	-	0	0	0	0	0	0	0
+P1_B3	background	-	-	-	-	-	-	1	0	0	0	0	0	0
+P2_B6	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_A10	background	-	-	-	-	-	-	1	0	0	0	0	0	0
+P3_A12	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_A7	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_A8	background	-	-	-	-	-	-	1	0	0	0	0	0	0
+P3_A9	background	-	-	-	-	-	-	1	0	0	0	0	0	0
+P3_B1	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_B12	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_C1	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_C3	background	-	-	-	-	-	-	0	0	0	0	0	0	0
+P3_H11	background	-	-	-	-	-	-	0	0	0	0	0	0	0

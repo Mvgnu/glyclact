@@ -1,0 +1,385 @@
+genome	source	genus	genus_coverage_percent	taxonomy_flag	guild_member	failed_gates	d_ldh_copies	d_ldh_fold_confirmed	l_ldh_copies	l_ldh_calls_rejected_as_mdh	reuptake_risk	eats_D_lactate	eats_L_lactate_only	exports_lactate	racemase	glycerol_route	ferments_pyruvate	competing_product	pdo_genes	acetate_genes	ethanol_genes	formate_lyase	succinate_genes	impurities_handled	impurity_breadth	catalase
+GCF_002979635.1_ASM297963v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	acids only	0	4	1	4	4	soap_lcfa,salt,metals	3	1
+GCF_002980055.1_ASM298005v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	acids only	0	4	1	4	4	soap_lcfa,salt,metals	3	1
+GCF_009496595.1_ASM949659v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	acids only	0	4	1	4	4	soap_lcfa,salt,metals	3	1
+P2_E3	lab_plate	Escherichia	1602.3	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	acids only	0	4	1	4	4	soap_lcfa,salt,metals	3	1
+MYb174	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	1	0	glpK_respiratory	1	acids only	0	3	1	3	5	soap_lcfa,salt,metals	3	1
+MYb176	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	1	0	glpK_respiratory	1	acids only	0	3	1	3	5	soap_lcfa,salt,metals	3	1
+P1_G3	lab_plate	Enterobacter	524.0	clean	1	-	1	1	0	1	aerobic risk	2	1	1	0	both	1	acids only	0	2	1	1	4	soap_lcfa,salt,metals	3	0
+P2_A11	lab_plate	Citrobacter	75.8	clean	1	-	1	1	0	1	none	0	1	1	0	both	1	acids only	0	2	0	6	4	soap_lcfa,salt,metals	3	0
+P2_H1	lab_plate	Citrobacter	120.2	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	acids only	0	5	1	4	4	soap_lcfa,salt,metals	3	1
+P3_E10	lab_plate	Buttiauxella	902.8	clean	1	-	1	1	0	1	aerobic risk	2	3	1	0	both	1	acids only	0	2	1	1	1	soap_lcfa,salt,metals	3	2
+P3_E8	lab_plate	Buttiauxella	2040.4	clean	1	-	1	1	0	1	aerobic risk	2	3	1	0	both	1	acids only	0	2	1	1	1	soap_lcfa,salt,metals	3	2
+P1_G12	lab_plate	Citrobacter	1020.0	clean	1	-	1	1	0	1	aerobic risk	2	1	3	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_A12	lab_plate	Citrobacter	540.9	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_A2	lab_plate	Cedecea	2106.0	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_B12	lab_plate	Cedecea	377.9	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_B6	lab_plate	Citrobacter	885.4	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_B7	lab_plate	Citrobacter	95.9	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_C1	lab_plate	Citrobacter	4930.8	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_C10	lab_plate	Citrobacter	53.0	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_C12	lab_plate	Citrobacter	1981.9	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_D1	lab_plate	Cedecea	475.6	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_D10	lab_plate	Arsenophonus	46.4	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_D9	lab_plate	Citrobacter	349.1	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_F1	lab_plate	1-19	103.8	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P1_G9	lab_plate	Citrobacter	497.3	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+P2_F11	lab_plate	Citrobacter	397.1	clean	1	-	1	1	0	1	aerobic risk	1	1	2	0	both	1	1,3-PDO	4	5	1	4	4	soap_lcfa,salt,metals	3	1
+GCF_002966855.1_ASM296685v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	1	1	1	0	glpK_respiratory	1	2,3-BD	0	3	3	2	4	soap_lcfa,salt,metals	3	1
+MYb375	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	2	0	1	0	both	1	2,3-BD	0	2	1	1	4	soap_lcfa,salt,metals	3	1
+MYb416	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	2	aerobic risk	2	0	1	0	both	1	2,3-BD	0	2	1	1	4	soap_lcfa,salt,metals	3	1
+MYb535	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	2	0	1	0	both	1	2,3-BD	0	2	1	1	4	soap_lcfa,salt,metals	3	2
+P1_A10	lab_plate	Klebsiella	4146.1	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P1_D11	lab_plate	Cedecea	14.9	weak	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	2	1	1	1	soap_lcfa,salt,metals	3	1
+P1_F2	lab_plate	Enterobacter	1033.9	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P1_H11	lab_plate	Arsenophonus	716.3	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P1_H7	lab_plate	Enterobacter	741.5	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P1_H8	lab_plate	Enterobacter	516.6	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P2_A1	lab_plate	Buttiauxella	1272.1	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P2_A3	lab_plate	Enterobacter	1651.2	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P2_A4	lab_plate	Leclercia	307.6	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P2_C4	lab_plate	Arsenophonus	2239.7	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P2_D4	lab_plate	Enterobacter	126.8	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	3	5	soap_lcfa,salt,metals	3	2
+P2_D5	lab_plate	Pantoea	55.3	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	2	1	1	1	soap_lcfa,salt,metals	3	1
+P2_G7	lab_plate	Enterobacter	650.4	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P3_A11	lab_plate	Leclercia	131.7	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P3_B3	lab_plate	Enterobacter	293.8	clean	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P3_G1	lab_plate	Leclercia	176.1	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+P3_H5	lab_plate	Leclercia	23.0	weak	1	-	1	1	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	4	5	soap_lcfa,salt,metals	3	1
+BIGb0393	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	2	3	0	0	both	1	2,3-BD	0	2	1	1	1	soap_lcfa,salt,metals	3	2
+GCF_002980095.1_ASM298009v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	2	2	0	0	both	1	2,3-BD	0	2	1	1	5	soap_lcfa,salt,metals	3	3
+MYb121	worm_collection	unassigned	0.0	no_taxonomy	1	-	1	1	0	1	aerobic risk	2	2	0	0	both	1	2,3-BD	0	2	1	1	5	soap_lcfa,salt,metals	3	3
+P1_A7	lab_plate	Serratia	62.4	genus_uncertain	1	-	1	1	0	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	1	4	soap_lcfa,salt,metals	3	1
+P2_F2	lab_plate	Cedecea	20.8	weak	1	-	1	1	0	1	aerobic risk	1	2	0	0	both	1	2,3-BD	0	2	1	1	0	soap_lcfa,salt,metals	3	1
+GCF_002975205.1_ASM297520v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	5	0	none	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+MYb71	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	5	0	none	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+MYb177	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	3	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+MYb330	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	3	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+MYb331	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	3	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+MYb371	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	3	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+P3_G12	lab_plate	Actinoplanes	233.7	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	3	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002975405.1_ASM297540v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	2	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002975455.1_ASM297545v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	2	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979185.1_ASM297918v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	aerobic risk	1	1	2	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	3
+GCF_002979275.1_ASM297927v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	0	2	0	glpK_respiratory	0	acids only	1	2	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002979735.1_ASM297973v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	0	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002979835.1_ASM297983v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	2	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979855.1_ASM297985v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	2	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979915.1_ASM297991v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979925.1_ASM297992v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	2	2	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979955.1_ASM297995v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	0	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002979975.1_ASM297997v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	2	2	0	none	0	acids only	0	2	0	0	1	soap_lcfa,salt,metals	3	3
+GCF_002980155.1_ASM298015v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	aerobic risk	1	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+MSPm1	worm_collection	unassigned	0.0	no_taxonomy	0	uses_glycerol,ferments_pyruvate	1	1	0	0	aerobic risk	2	1	2	0	none	0	acids only	0	2	0	0	1	soap_lcfa,salt,metals	3	1
+MYb115	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	aerobic risk	1	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+MYb398	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+P1_B1	lab_plate	Macromonas	1640.3	clean	0	ferments_pyruvate	1	1	0	0	none	0	0	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P1_H2	lab_plate	Citrobacter	170.3	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+P2_B4	lab_plate	Enterobacter	224.5	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	3	aerobic risk	1	0	2	0	none	0	acids only	1	2	0	0	0	soap_lcfa,salt,metals	3	3
+P2_C11	lab_plate	Lysinibacillus	273.4	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	3	aerobic risk	1	0	2	0	none	0	acids only	1	2	0	0	0	soap_lcfa,salt,metals	3	3
+P2_C12	lab_plate	Pseudomonas	1474.6	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_D8	lab_plate	Ochrobactrum	74.2	clean	0	uses_glycerol,ferments_pyruvate	1	1	0	1	aerobic risk	2	2	2	0	none	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	1
+P2_G1	lab_plate	Pseudomonas	62.1	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+P2_G5	lab_plate	Pseudomonas	30.3	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+P3_B6	lab_plate	Pseudomonas	66.3	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P3_B8	lab_plate	Pseudomonas	37.9	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	2	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+GCF_002966795.1_ASM296679v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	2	3	1	0	none	0	acids only	0	3	0	0	5	soap_lcfa,salt,metals	3	3
+GCF_002966835.1_ASM296683v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002975195.1_ASM297519v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002975255.1_ASM297525v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002975275.1_ASM297527v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	2	6	1	0	none	0	acids only	0	3	0	0	1	soap_lcfa,salt,metals	3	2
+GCF_002975295.1_ASM297529v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002975435.1_ASM297543v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979315.1_ASM297931v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979335.1_ASM297933v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979375.1_ASM297937v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979395.1_ASM297939v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979555.1_ASM297955v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002979865.1_ASM297986v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979885.1_ASM297988v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002979985.1_ASM297998v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002980015.1_ASM298001v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002980025.1_ASM298002v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	6
+GCF_002980075.1_ASM298007v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002980105.1_ASM298010v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+GCF_002980135.1_ASM298013v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	aerobic risk	1	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+GCF_002980195.1_ASM298019v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	aerobic risk	1	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+GCF_002980215.1_ASM298021v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+MYb11	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+MYb186	worm_collection	unassigned	0.0	no_taxonomy	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	3	1	3	4	soap_lcfa,salt,metals	3	2
+MYb49	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+MYb541	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+P1_A3	lab_plate	Bacillus	242.9	genus_uncertain	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	aerobic risk	1	0	1	0	glpK_respiratory	0	acids only	1	1	0	0	0	soap_lcfa,salt,metals	3	3
+P1_G6	lab_plate	Achromobacter	338.0	clean	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	2	4	1	0	none	0	acids only	0	3	0	0	1	soap_lcfa,salt,metals	3	2
+P1_H12	lab_plate	Pseudomonas	141.2	clean	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	6
+P1_H5	lab_plate	Citrobacter	833.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P1_H6	lab_plate	Citrobacter	266.3	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P1_H9	lab_plate	Pseudomonas	920.9	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	1	soap_lcfa,salt,metals	3	3
+P2_A10	lab_plate	Enterobacter	418.6	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_A12	lab_plate	Enterobacter	117.0	clean	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_A7	lab_plate	Acinetobacter	28.1	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_A8	lab_plate	Kluyvera	359.6	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_A9	lab_plate	Kluyvera	262.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_B10	lab_plate	Pseudomonas	19.2	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_B12	lab_plate	Mesorhizobium	528.6	genus_uncertain	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+P2_B3	lab_plate	Kluyvera	755.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_B5	lab_plate	Pseudomonas	129.3	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	1	soap_lcfa,salt,metals	3	3
+P2_B7	lab_plate	Pseudomonas	19.8	weak	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_B8	lab_plate	Macromonas	40.0	clean	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_C6	lab_plate	Pseudomonas	49.6	clean	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+P2_C7	lab_plate	2-12-FULL-67-15	112.2	clean	0	uses_glycerol,ferments_pyruvate	1	1	0	0	none	0	1	1	0	none	0	acids only	0	1	0	0	1	soap_lcfa,salt,metals	3	3
+P2_D1	lab_plate	Citrobacter	1640.2	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	5	5	soap_lcfa,salt,metals	3	0
+P2_D2	lab_plate	Pseudomonas	24.3	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_E9	lab_plate	Gulosibacter	430.7	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	1	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P2_F5	lab_plate	Pseudomonas	138.8	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	3
+P2_G11	lab_plate	Citrobacter	357.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P2_G2	lab_plate	Pseudomonas	20.0	weak	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	5
+P2_G6	lab_plate	Agrobacterium	376.4	clean	0	ferments_pyruvate	1	1	0	0	none	0	2	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	4
+P2_G9	lab_plate	BIGb0383	384.6	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	3	1	4	4	soap_lcfa,salt,metals	3	1
+P2_H12	lab_plate	Citrobacter	943.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P2_H2	lab_plate	Anoxybacillaceae	25.7	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	1	0	1	0	glpK_respiratory	0	acids only	1	2	0	0	0	soap_lcfa,salt,metals	3	3
+P2_H4	lab_plate	Kluyvera	205.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P2_H5	lab_plate	Kluyvera	279.6	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P3_A1	lab_plate	Arsenophonus	582.8	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	5	soap_lcfa,salt,metals	3	0
+P3_B11	lab_plate	Mesorhizobium	19.3	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	4	2	1	0	both	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+P3_B7	lab_plate	Chryseobacterium	95.2	clean	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	1	soap_lcfa,salt,metals	3	3
+P3_D6	lab_plate	Mixta	13.1	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	1
+P3_D7	lab_plate	Macromonas	670.7	clean	0	ferments_pyruvate	1	1	0	1	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	1	soap_lcfa,salt,metals	3	3
+P3_E12	lab_plate	Ensifer	79.4	genus_uncertain	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	3	3	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+P3_G2	lab_plate	Haemophilus	92.7	clean	0	makes_D_lactate	0	0	0	1	aerobic risk	1	1	1	0	both	1	acids only	0	3	1	2	5	soap_lcfa,salt,metals	3	0
+BIGb0170	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	2	2	0	1	none	0	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002975235.1_ASM297523v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002975345.1_ASM297534v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002975375.1_ASM297537v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979215.1_ASM297921v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979295.1_ASM297929v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979415.1_ASM297941v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	aerobic risk	1	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979435.1_ASM297943v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979475.1_ASM297947v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979495.1_ASM297949v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	0
+GCF_002979515.1_ASM297951v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979595.1_ASM297959v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979655.1_ASM297965v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979665.1_ASM297966v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979695.1_ASM297969v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_002979755.1_ASM297975v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_002979795.1_ASM297979v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+GCF_009495805.1_ASM949580v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	aerobic risk	1	2	0	0	glpK_respiratory	0	acids only	1	2	0	0	1	soap_lcfa,salt,metals	3	2
+GCF_009496545.1_ASM949654v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	2	2	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+GCF_009496575.1_ASM949657v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+JUb44	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	none	0	1	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+MYb181	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	2	2	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+MYb25	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+MYb328	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+MYb58	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+P1_C11	lab_plate	Herbaspirillum	221.9	genus_uncertain	0	no_L_lactate_dh,uses_glycerol,ferments_pyruvate	1	1	1	2	aerobic risk	5	2	0	0	none	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	0
+P1_F3	lab_plate	Microbacterium	170.7	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	none	0	1	0	0	none	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P1_F5	lab_plate	Falsochrobactrum	92.8	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	1	0	0	both	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P1_F6	lab_plate	Ochrobactrum	65.2	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	0	0	both	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+P1_G5	lab_plate	Ochrobactrum	94.1	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	0	0	both	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+P2_B6	lab_plate	Paenarthrobacter	84.5	genus_uncertain	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P2_C10	lab_plate	Microbacterium	864.0	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+P2_C2	lab_plate	Cellulomonas	621.4	genus_uncertain	0	makes_D_lactate	0	0	0	3	none	0	0	0	0	both	1	acids only	0	2	1	1	0	soap_lcfa,salt,metals	3	1
+P2_E5	lab_plate	Ochrobactrum	93.7	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	0	0	both	0	acids only	0	3	0	0	0	soap_lcfa,salt,metals	3	2
+P2_E7	lab_plate	Chryseobacterium	19.3	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+P2_G12	lab_plate	Agrobacterium	68.9	clean	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	3	2	0	0	none	0	acids only	0	1	0	0	0	soap_lcfa,salt,metals	3	2
+P2_G8	lab_plate	Chishuiella	344.7	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	0	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	0
+P3_C2	lab_plate	Microbacterium	40.4	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+P3_D2	lab_plate	Microbacterium	150.5	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	1	0	0	glpK_respiratory	0	acids only	0	2	0	0	1	soap_lcfa,salt,metals	3	1
+P3_G6	lab_plate	Microbacterium	26.0	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	2	none	0	2	0	0	glpK_respiratory	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	2
+P3_G8	lab_plate	Mycobacterium	59.9	clean	0	makes_D_lactate	0	0	0	3	aerobic risk	1	2	0	0	glpK_respiratory	1	acids only	1	2	1	0	1	soap_lcfa,salt,metals	3	2
+P3_H4	lab_plate	Microbacterium	232.6	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	none	0	1	0	0	none	0	acids only	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P3_H6	lab_plate	Nitratireductor	50.8	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt,metals	3	0
+P2_C9	lab_plate	Enterobacter	69.0	clean	0	no_L_lactate_dh	3	3	2	2	aerobic risk	2	3	4	0	both	1	1,3-PDO	4	9	2	10	8	soap_lcfa,salt,metals	3	3
+CEent1	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate	0	0	0	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	0	4	5	soap_lcfa,salt,metals	3	1
+JUb66	worm_collection	unassigned	0.0	no_taxonomy	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	2	5	soap_lcfa,salt,metals	3	1
+P1_D2	lab_plate	Hydrogenophilus	279.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_D4	lab_plate	Hydrogenophilus	320.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_D5	lab_plate	Chania	13.2	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_D6	lab_plate	Hydrogenophilus	378.5	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_D8	lab_plate	Leclercia	408.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_E10	lab_plate	Enterobacter	934.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_E3	lab_plate	unassigned	0.0	no_taxonomy	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_E5	lab_plate	unassigned	0.0	no_taxonomy	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_E6	lab_plate	unassigned	0.0	no_taxonomy	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_E9	lab_plate	Hydrogenophilus	809.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_F11	lab_plate	Hydrogenophilus	513.5	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_F9	lab_plate	Hydrogenophilus	996.5	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_G1	lab_plate	Bacillus	1365.2	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_G10	lab_plate	Lelliottia	77.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	3	1	2	5	soap_lcfa,salt,metals	3	1
+P1_G2	lab_plate	Citrobacter	43.3	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_G4	lab_plate	Acinetobacter	594.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_G7	lab_plate	Erwinia	178.4	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P1_H1	lab_plate	Arsenophonus	66.3	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	1,3-PDO	4	4	1	4	5	soap_lcfa,salt,metals	3	0
+P1_H4	lab_plate	Corynebacterium	118.2	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	none	0	2	1	0	none	0	2,3-BD	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P2_B1	lab_plate	Aeromicrobium	1689.0	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	none	0	2	1	0	none	0	2,3-BD	0	2	0	0	0	soap_lcfa,salt,metals	3	1
+P2_B2	lab_plate	Corynebacterium	23.7	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	2	none	0	4	1	0	none	0	2,3-BD	0	2	0	0	0	soap_lcfa,salt,metals	3	3
+P2_C5	lab_plate	Cedecea	503.7	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	4	1	4	6	soap_lcfa,salt,metals	3	1
+P2_C8	lab_plate	Alcanivorax	1582.3	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P2_D6	lab_plate	Enterobacter	107.2	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P2_F6	lab_plate	Kluyvera	43.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P2_F7	lab_plate	Mixta	101.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P2_F8	lab_plate	Mixta	749.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt,metals	3	1
+P3_D10	lab_plate	Klebsiella	88.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	4	soap_lcfa,salt,metals	3	2
+P3_D11	lab_plate	Citrobacter	31.5	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_D12	lab_plate	Citrobacter	133.5	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E2	lab_plate	Citrobacter	765.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E3	lab_plate	Citrobacter	119.6	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E4	lab_plate	Citrobacter	94.1	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E5	lab_plate	Citrobacter	37.1	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E6	lab_plate	Buttiauxella	33.0	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_E7	lab_plate	Citrobacter	141.0	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_F1	lab_plate	Buttiauxella	229.3	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_F2	lab_plate	Buttiauxella	124.6	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_F3	lab_plate	Arsenophonus	93.7	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_F4	lab_plate	Buttiauxella	162.3	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_F5	lab_plate	Citrobacter	167.9	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_H10	lab_plate	Aneurinibacillus	131.1	clean	0	uses_glycerol,ferments_pyruvate	1	1	0	3	none	0	3	1	0	none	0	2,3-BD	0	2	0	0	0	soap_lcfa,salt,metals	3	3
+P3_H12	lab_plate	Citrobacter	68.7	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	4	5	soap_lcfa,salt,metals	3	2
+P3_H9	lab_plate	Aneurinibacillus	59.1	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	2	none	0	4	1	0	none	0	2,3-BD	0	2	0	0	0	soap_lcfa,salt,metals	3	3
+GCF_002979455.1_ASM297945v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	0	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+MYb264	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+MYb388	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	2	2	0	1	none	0	0	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+P1_A11	lab_plate	Arsenophonus	582.9	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	2	0	0	both	1	2,3-BD	0	3	1	1	0	soap_lcfa,salt,metals	3	1
+P1_A4	lab_plate	Erwinia	1582.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	3	6	soap_lcfa,salt,metals	3	2
+P1_B10	lab_plate	Arsenophonus	64.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	3	1	4	6	soap_lcfa,salt,metals	3	2
+P1_B9	lab_plate	Algoriphagus	17.0	weak	0	ferments_pyruvate	1	1	0	1	none	0	0	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+P1_C2	lab_plate	Citrobacter	136.6	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	1	0	soap_lcfa,salt,metals	3	1
+P1_C3	lab_plate	Enterobacter	349.4	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	3	1	4	6	soap_lcfa,salt,metals	3	2
+P1_C4	lab_plate	Citrobacter	113.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	1	0	soap_lcfa,salt,metals	3	1
+P1_C5	lab_plate	Citrobacter	889.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	3	1	4	6	soap_lcfa,salt,metals	3	2
+P2_D10	lab_plate	Erwinia	294.1	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	2	6	soap_lcfa,salt,metals	3	3
+P2_D12	lab_plate	Arsenophonus	1011.8	clean	0	no_L_lactate_dh	1	1	2	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	3	6	soap_lcfa,salt,metals	3	2
+P2_E1	lab_plate	Erwinia	24.1	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	3	1	4	6	soap_lcfa,salt,metals	3	2
+P2_E2	lab_plate	Rahnella	583.5	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	3	1	4	6	soap_lcfa,salt,metals	3	2
+P2_E6	lab_plate	Ewingella	59.9	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	2	6	soap_lcfa,salt,metals	3	3
+P2_F1	lab_plate	Bergeyella	604.1	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+P2_F12	lab_plate	Bergeyella	51.6	genus_uncertain	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+P2_F3	lab_plate	Bergeyella	841.4	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+P2_F4	lab_plate	Bergeyella	632.3	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	2
+P2_G3	lab_plate	Arsenophonus	601.1	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	3	6	soap_lcfa,salt,metals	3	2
+P2_H10	lab_plate	Chishuiella	17.8	weak	0	ferments_pyruvate	1	1	0	1	none	0	0	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+P2_H3	lab_plate	Chishuiella	48.7	clean	0	ferments_pyruvate	1	1	0	1	none	0	0	0	0	glpK_respiratory	0	2,3-BD	0	0	0	0	0	soap_lcfa,salt,metals	3	1
+P3_B10	lab_plate	Citrobacter	1380.8	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	2	6	soap_lcfa,salt,metals	3	3
+P3_C6	lab_plate	Arsenophonus	2060.9	clean	0	no_L_lactate_dh	1	1	2	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	3	6	soap_lcfa,salt,metals	3	2
+P3_D1	lab_plate	46-32	112.0	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	1	2	1	3	6	soap_lcfa,salt,metals	3	2
+P3_F8	lab_plate	Ewingella	26.5	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	2	1	0	0	both	1	2,3-BD	0	2	1	2	6	soap_lcfa,salt,metals	3	3
+P3_H2	lab_plate	Arsenophonus	1124.4	clean	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	0	0	both	1	2,3-BD	0	2	1	3	6	soap_lcfa,salt,metals	3	2
+MYb21	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	4	3	4	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+MYb396	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	4	3	4	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+MYb69	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	4	3	4	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+BIGb0172	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	4	3	3	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+GCF_002966815.1_ASM296681v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	uses_glycerol,ferments_pyruvate	1	1	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+GCF_002979225.1_ASM297922v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	1	0	both	0	acids only	0	1	0	0	0	salt,metals	2	1
+GCF_002979345.1_ASM297934v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	1	0	both	0	acids only	0	1	0	0	0	salt,metals	2	1
+GCF_002979815.1_ASM297981v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+GCF_002980175.2_ASM298017v2_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	1
+GCF_009496535.1_ASM949653v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+JUb19	worm_collection	unassigned	0.0	no_taxonomy	0	uses_glycerol,ferments_pyruvate	1	1	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+MYb10	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	1
+MYb158	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	1
+MYb191	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	1
+MYb382	worm_collection	unassigned	0.0	no_taxonomy	0	ferments_pyruvate	1	1	0	1	none	0	1	1	0	glpK_respiratory	0	acids only	0	0	0	0	0	salt,metals	2	1
+P1_C9	lab_plate	Acinetobacter	706.7	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	3	2	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	2
+P1_F4	lab_plate	Achromobacter	14.1	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	1
+P2_E11	lab_plate	Achromobacter	15.7	weak	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	2	4	1	0	none	0	acids only	0	3	0	0	5	soap_lcfa,metals	2	3
+P2_G4	lab_plate	Stenotrophomonas	39.5	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	2	1	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+P3_A3	lab_plate	Aneurinibacillus	628.3	clean	0	no_L_lactate_dh,ferments_pyruvate	1	1	1	1	none	0	0	1	0	glpK_respiratory	0	acids only	0	2	0	0	0	salt,metals	2	1
+P3_A4	lab_plate	Achromobacter	73.2	clean	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	2	4	1	0	none	0	acids only	0	3	0	0	5	soap_lcfa,metals	2	3
+P3_C12	lab_plate	Stenotrophomonas	40.2	clean	0	uses_glycerol,ferments_pyruvate	1	1	0	1	aerobic risk	3	1	1	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+P3_D8	lab_plate	Arsenophonus	11.0	weak	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	acids only	0	4	1	6	4	soap_lcfa,salt	2	0
+P3_E11	lab_plate	Variovorax	63.8	clean	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	1	aerobic risk	3	2	1	0	none	0	acids only	0	1	0	0	0	soap_lcfa,metals	2	2
+GCF_002975315.1_ASM297531v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	1	salt,metals	2	2
+GCF_002975335.1_ASM297533v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	3	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+GCF_002975395.1_ASM297539v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	3	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+GCF_002979235.1_ASM297923v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	1	salt,metals	2	2
+GCF_002979535.1_ASM297953v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	3	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+GCF_002979575.1_ASM297957v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	2	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt	2	1
+GCF_002979615.1_ASM297961v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	3	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+GCF_002979775.1_ASM297977v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	2	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt	2	1
+MYb379	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	aerobic risk	2	2	0	0	glpK_respiratory	0	acids only	0	1	0	0	0	salt,metals	2	2
+P1_E8	lab_plate	Brevundimonas	267.1	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	1	aerobic risk	1	3	0	0	none	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	1
+P2_D9	lab_plate	Anoxybacillus	516.9	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	both	1	acids only	0	2	1	1	1	salt,metals	2	3
+P3_A8	lab_plate	Mycobacterium	588.7	genus_uncertain	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	0	salt,metals	2	2
+P3_C5	lab_plate	Paenibacillus	42.9	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	2	salt,metals	2	3
+P3_F6	lab_plate	Chryseobacterium	57.1	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,metals	2	2
+P3_G11	lab_plate	Acinetobacter	14.8	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	1	none	0	2	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	soap_lcfa,salt	2	1
+P3_G9	lab_plate	Bacillus	203.6	clean	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	1	none	0	0	0	0	gldA_fermentative	0	acids only	0	2	0	0	0	soap_lcfa,metals	2	4
+P1_B3	lab_plate	Aneurinibacillus	903.2	clean	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	1	none	0	0	2	0	both	0	2,3-BD	1	2	0	0	0	salt,metals	2	3
+P1_B8	lab_plate	Aneurinibacillus	65.2	clean	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	2	none	0	0	2	0	both	0	2,3-BD	1	3	0	0	0	salt,metals	2	4
+P1_B11	lab_plate	Bacillus	203.5	clean	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	1	none	0	0	1	0	glpK_respiratory	0	2,3-BD	0	2	0	0	0	salt,metals	2	3
+P1_E7	lab_plate	Arsenophonus	760.4	genus_uncertain	0	no_L_lactate_dh	1	1	1	1	aerobic risk	1	1	1	0	both	1	2,3-BD	0	5	1	6	5	soap_lcfa,salt	2	1
+P1_F7	lab_plate	Bacillus	27.6	weak	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	1	none	0	0	1	0	glpK_respiratory	0	2,3-BD	0	2	0	0	0	salt,metals	2	2
+P3_F11	lab_plate	Bacillus	34.4	weak	0	makes_D_lactate,no_L_lactate_dh,ferments_pyruvate	0	0	1	1	none	0	0	1	0	glpK_respiratory	0	2,3-BD	0	2	0	0	0	salt,metals	2	2
+P2_D3	lab_plate	Paenibacillus	336.4	clean	0	no_L_lactate_dh	1	1	2	1	none	0	0	0	0	both	1	2,3-BD	0	2	1	1	0	salt,metals	2	1
+MYb595	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	2	2	1	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	2
+MYb596	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	2	0	1	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	3
+P3_A6	lab_plate	Massilia	2045.0	clean	0	uses_glycerol,ferments_pyruvate	1	1	0	0	none	0	1	1	0	none	0	acids only	0	2	0	0	0	soap_lcfa	1	1
+P3_D5	lab_plate	Hydrogenophilus	14.4	weak	0	ferments_pyruvate	1	1	0	0	none	0	1	1	0	glpK_respiratory	0	acids only	0	1	0	0	0	metals	1	2
+JUb134	worm_collection	unassigned	0.0	no_taxonomy	0	uses_glycerol,ferments_pyruvate	1	1	0	1	none	0	0	0	0	none	0	acids only	0	1	0	0	0	metals	1	4
+MYb592	worm_collection	unassigned	0.0	no_taxonomy	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	1	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	2
+P3_A10	lab_plate	Paenibacillus	63.2	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	0	metals	1	3
+P3_A9	lab_plate	Paenibacillus	29.9	weak	0	makes_D_lactate,no_L_lactate_dh	0	0	2	1	none	0	0	0	0	gldA_fermentative	1	acids only	0	2	1	1	0	metals	1	3
+P3_C11	lab_plate	Gluconobacter	31.8	weak	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	2	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	3
+P3_C9	lab_plate	Acetobacter	132.9	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	2	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	1
+P3_G7	lab_plate	Alkalibacterium	16.0	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	3	aerobic risk	4	3	0	0	none	0	acids only	0	0	0	0	0	metals	1	1
+P3_H7	lab_plate	Gluconobacter	150.2	clean	0	makes_D_lactate,ferments_pyruvate	0	0	0	0	aerobic risk	2	1	0	0	glpK_respiratory	0	acids only	0	0	0	0	0	metals	1	3
+GCF_002975115.1_ASM297511v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	4
+GCF_002975175.1_ASM297517v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	2	1	1	metals	1	3
+GCF_002976395.1_ASM297639v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	4
+GCF_002976415.1_ASM297641v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	4
+GCF_002976445.1_ASM297644v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	2	1	1	metals	1	3
+P1_A1	lab_plate	Bacillus	208.3	genus_uncertain	0	makes_D_lactate,no_L_lactate_dh	0	0	4	1	aerobic risk	1	0	3	0	both	1	2,3-BD	1	2	2	1	0	metals	1	3
+P1_A9	lab_plate	Bacillaceae	174.0	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	4
+P1_B4	lab_plate	Listeria	269.2	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	1	aerobic risk	1	0	3	0	both	1	2,3-BD	1	2	2	1	1	metals	1	3
+P1_C6	lab_plate	Aneurinibacillus	2513.4	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	3
+P1_H3	lab_plate	Giesbergeria	204.4	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	4
+P2_F9	lab_plate	Aneurinibacillus	1979.7	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	3
+P3_B4	lab_plate	Ureibacillus	331.0	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	5
+P3_B5	lab_plate	Bacillaceae	150.7	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	both	1	2,3-BD	1	2	1	1	0	metals	1	3
+P3_C10	lab_plate	Buttiauxella	14.8	weak	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	3
+P3_C4	lab_plate	Aneurinibacillus	116.6	genus_uncertain	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	3	1	1	0	metals	1	4
+P3_C8	lab_plate	Bacillaceae	142.3	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	3
+P3_F9	lab_plate	Archangium	10.2	weak	0	makes_D_lactate,no_L_lactate_dh	0	0	3	1	aerobic risk	1	0	3	0	glpK_respiratory	1	2,3-BD	1	2	1	1	0	metals	1	3
+P2_A5	lab_plate	Lactiplantibacillus	704.6	clean	0	no_L_lactate_dh,no_racemase	2	2	6	0	none	0	0	1	1	glpK_respiratory	1	2,3-BD	1	4	2	1	5	metals	1	1
+P1_F12	lab_plate	Leuconostoc	1103.3	clean	0	no_L_lactate_dh,uses_glycerol	4	4	1	0	none	0	0	0	0	none	1	2,3-BD	0	3	1	0	1	metals	1	0
+P1_H10	lab_plate	Cohnella	57.6	genus_uncertain	0	no_L_lactate_dh	1	1	2	1	none	0	0	0	0	both	1	2,3-BD	0	2	1	1	0	metals	1	1
+P3_A12	lab_plate	Fructobacillus	458.7	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	aerobic risk	1	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_A7	lab_plate	Bacillus	10.0	weak	0	makes_D_lactate,no_L_lactate_dh	0	0	3	0	aerobic risk	1	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_B1	lab_plate	Fructobacillus	1403.9	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	aerobic risk	1	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_B12	lab_plate	Lactococcus	569.9	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	none	0	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_B9	lab_plate	Paenibacillus	40.4	clean	0	no_L_lactate_dh	1	1	2	1	none	0	0	0	0	both	1	2,3-BD	0	2	1	1	0	metals	1	1
+P3_C1	lab_plate	Fructobacillus	521.9	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	aerobic risk	1	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_C3	lab_plate	Arctic96AD-7	884.2	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	none	0	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+P3_G10	lab_plate	Aneurinibacillus	78.3	clean	0	no_L_lactate_dh,uses_glycerol	3	3	1	0	aerobic risk	1	0	0	0	none	1	2,3-BD	1	2	1	0	1	metals	1	1
+P3_H11	lab_plate	Fructobacillus	500.5	clean	0	makes_D_lactate,no_L_lactate_dh	0	0	4	0	aerobic risk	1	0	0	0	glpK_respiratory	1	2,3-BD	0	3	1	1	1	metals	1	0
+GCF_002966775.1_ASM296677v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+GCF_002979705.1_ASM297970v1_genomic	reference_assembly	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_B2	lab_plate	Bacteria	592.6	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_C8	lab_plate	Enterobacteriaceae	55.3	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_D3	lab_plate	Raoultella	10.6	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_E2	lab_plate	unassigned	0.0	no_taxonomy	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_F8	lab_plate	Succinivibrio	13.4	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P1_G11	lab_plate	Bacteria	516.3	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_A2	lab_plate	Lysinibacillus	222.5	genus_uncertain	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_A6	lab_plate	Leclercia	38.4	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_B9	lab_plate	Bacilli	36.8	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_C1	lab_plate	Bacilli	15.3	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_E4	lab_plate	Cohnella	10.7	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_F10	lab_plate	Bacteria	139.5	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_G10	lab_plate	Haemophilus	44.8	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_H6	lab_plate	Bacillaceae	11.0	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_H8	lab_plate	Paenibacillus	87.1	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_H9	lab_plate	Staphylococcus	13.2	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_D4	lab_plate	Escherichia	12.0	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_D9	lab_plate	Cedecea	65.8	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_E1	lab_plate	Citrobacter	182.6	genus_uncertain	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_E9	lab_plate	Bacteria	1076.0	clean	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_G3	lab_plate	Luteimonas	11.0	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_G5	lab_plate	Lactococcus	10.5	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P3_H3	lab_plate	Achromobacter	12.2	weak	0	makes_D_lactate,uses_glycerol,ferments_pyruvate	0	0	0	0	none	0	0	0	0	none	0	acids only	0	0	0	0	0	none	0	0
+P2_H11	lab_plate	Bacillus	10.8	weak	0	makes_D_lactate,no_L_lactate_dh,uses_glycerol,ferments_pyruvate	0	0	1	0	none	0	0	1	0	none	0	2,3-BD	0	1	0	0	0	none	0	2
+P1_G8	lab_plate	Leuconostoc	505.3	clean	0	no_L_lactate_dh,uses_glycerol	4	4	1	0	none	0	0	0	0	none	1	2,3-BD	0	3	1	0	1	none	0	0
+P3_A5	lab_plate	Leuconostoc	696.4	clean	0	no_L_lactate_dh,uses_glycerol	3	3	1	0	aerobic risk	1	0	0	0	none	1	2,3-BD	0	3	1	0	0	none	0	0
+P3_C7	lab_plate	Rahnella	12.6	weak	0	makes_D_lactate	0	0	0	1	none	0	0	0	0	glpK_respiratory	1	2,3-BD	0	0	0	1	0	none	0	1
+P3_F7	lab_plate	Leuconostoc	277.1	clean	0	no_L_lactate_dh,uses_glycerol	3	3	1	0	aerobic risk	1	0	0	0	none	1	2,3-BD	0	3	1	0	0	none	0	0

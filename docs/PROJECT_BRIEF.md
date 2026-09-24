@@ -47,3 +47,14 @@ lactate dehydrogenases are lactate-consumption evidence, not production.
 5. **Carbon gate:** promising communities are confirmed using carbon balances
    and preferably labelled glycerol.
 
+## Panel governance
+
+`panel/pool_v5_panel.yaml` is the manually curated panel. Screening scripts report
+evidence but do not add or remove members automatically. Virulence/AMR homology calls are
+reviewed locus by locus because generic environmental homologs and incomplete systems
+produce too many incorrect automated calls. There is no lab-plate-only eligibility rule.
+
+Low-oxygen model results apply only to the acceptors actually present in the simulated
+medium. Nitrate or fumarate may improve redox balance while also enabling respiratory
+L-lactate oxidation, so net product retention must be measured in the exact proposed
+medium.

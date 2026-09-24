@@ -1,0 +1,6 @@
+genome	megan_genus	larA_diamond	larB	larC	larE	Lar_N_hmm_bits	LarA_C_hmm_bits	verdict	l_ldh	d_ldh
+GCF_002979275.1_ASM297927v1_genomic	(none)		52.7	46.8	37.2	37.4	0.0	divergent_LarA_superfamily_in_lar_locus	0	0
+P1_B3	Aneurinibacillus		55.4	47.7	38.8	39.5	0.0	divergent_LarA_superfamily_in_lar_locus	1	0
+P1_B8	Aneurinibacillus		55.4	48.8	38.4	42.7	0.0	divergent_LarA_superfamily_in_lar_locus	1	0
+P2_A5	Lactiplantibacillus	99.8	99.6	100.0	99.3	252.7	237.3	FULL_RACEMASE	2	1
+P3_G10	Weissella	52.1	51.9	41.5	59.2	232.8	200.5	FULL_RACEMASE	1	1

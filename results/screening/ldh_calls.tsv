@@ -1,0 +1,385 @@
+genome	genus	l_ldh_seq	d_ldh_seq	l_ldh_besthit_only	d_ldh_besthit_only	l_ldh_annotation	d_ldh_annotation	agrees_with_annotation	lldD_eats_L	dld_eats_D	lactate_oxidase	larA	lar_maturation	d_ldh_evidence	l_ldh_evidence
+BIGb0170		0	1	0	1	0	2	0	2	0	0	0	0	NMAINAIJ_01506:ldhA(54.0%,m175.0,rbh1)	
+BIGb0172		0	0	0	0	0	0	1	2	1	0	0	0		
+BIGb0393		0	1	0	1	0	1	1	1	1	0	0	0	MLEJPJDI_04057:ldhA(82.8%,m372.0,rbh1)	
+CEent1		0	1	0	1	0	0	0	1	1	0	0	0	FOPGMKCK_03237:ldhA(90.9%,m416.0,rbh1)	
+GCF_002966775.1_ASM296677v1_genomic		0	1	0	1	0	0	0	1	0	0	0	0	MIGMIKDG_03250:ldhA(52.7%,m160.0,rbh1)	
+GCF_002966795.1_ASM296679v1_genomic		0	0	0	0	1	0	0	1	0	0	0	0		
+GCF_002966815.1_ASM296681v1_genomic		0	1	0	1	0	1	1	2	1	0	0	0	CHBNGNFF_01223:ldhA(51.5%,m167.0,rbh1)	
+GCF_002966835.1_ASM296683v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	HDFLIAAL_03307:ldhA(52.1%,m158.0,rbh1)	
+GCF_002966855.1_ASM296685v1_genomic		0	1	0	1	0	1	1	1	1	0	0	0	DPJLONDF_02239:ldhA(79.9%,m355.0,rbh1)	
+GCF_002975115.1_ASM297511v1_genomic		3	0	3	0	3	0	1	2	0	0	0	0		FAGFFHNL_02742:ldh3(99.7%,m629.0,rbh1); FAGFFHNL_02201:ldh1(99.7%,m622.0,rbh1); FAGFFHNL_00770:ldh2(99.7%,m620.0,rbh1)
+GCF_002975175.1_ASM297517v1_genomic		3	0	3	0	3	0	1	3	0	0	0	0		LKGKEIDO_02318:ldh3(98.1%,m620.0,rbh1); LKGKEIDO_02772:ldh2(98.4%,m613.0,rbh1); LKGKEIDO_04227:ldh1(97.1%,m610.0,rbh1)
+GCF_002975195.1_ASM297519v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002975205.1_ASM297520v1_genomic		0	0	0	0	0	0	1	2	0	1	0	0		
+GCF_002975235.1_ASM297523v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002975255.1_ASM297525v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002975275.1_ASM297527v1_genomic		0	0	0	0	1	0	0	2	0	2	0	0		
+GCF_002975295.1_ASM297529v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	NGAKIOKA_04195:ldhA(52.7%,m160.0,rbh1)	
+GCF_002975315.1_ASM297531v1_genomic		2	0	2	0	2	0	1	1	0	0	0	0		DIKEINMC_05728:ldh3(61.8%,m412.0,rbh1); DIKEINMC_03041:ldh(52.5%,m325.0,rbh1)
+GCF_002975335.1_ASM297533v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002975345.1_ASM297534v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		PNMICGLL_01807:ldh(59.9%,m346.0,rbh1)
+GCF_002975375.1_ASM297537v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		OBEJDHML_00303:ldh(59.9%,m346.0,rbh1)
+GCF_002975395.1_ASM297539v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002975405.1_ASM297540v1_genomic		0	0	0	0	0	0	1	4	0	0	0	0		
+GCF_002975435.1_ASM297543v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002975455.1_ASM297545v1_genomic		0	0	0	0	0	0	1	4	0	0	0	0		
+GCF_002976395.1_ASM297639v1_genomic		3	0	3	0	3	0	1	2	0	0	0	0		NGMEGJAC_03690:ldh3(100.0%,m630.0,rbh1); NGMEGJAC_05581:ldh1(100.0%,m624.0,rbh1); NGMEGJAC_04402:ldh2(100.0%,m620.0,rbh1)
+GCF_002976415.1_ASM297641v1_genomic		3	0	3	0	3	0	1	2	0	0	0	0		EFJOIOCP_04446:ldh3(100.0%,m630.0,rbh1); EFJOIOCP_02790:ldh1(100.0%,m624.0,rbh1); EFJOIOCP_01049:ldh2(100.0%,m620.0,rbh1)
+GCF_002976445.1_ASM297644v1_genomic		3	0	3	0	3	0	1	3	0	0	0	0		EINPGGEC_02837:ldh3(96.8%,m615.0,rbh1); EINPGGEC_04915:ldh2(98.7%,m614.0,rbh1); EINPGGEC_02347:ldh1(97.1%,m611.0,rbh1)
+GCF_002979185.1_ASM297918v1_genomic		0	1	0	1	0	1	1	2	0	0	0	0	GFBFOMHA_01957:ldhA(55.1%,m175.0,rbh1)	
+GCF_002979215.1_ASM297921v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002979225.1_ASM297922v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979235.1_ASM297923v1_genomic		2	0	2	0	2	0	1	1	0	0	0	0		OOHIFMEC_05159:ldh3(61.8%,m412.0,rbh1); OOHIFMEC_03070:ldh(52.5%,m325.0,rbh1)
+GCF_002979275.1_ASM297927v1_genomic		0	0	0	0	0	0	1	2	0	0	0	3		
+GCF_002979295.1_ASM297929v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002979315.1_ASM297931v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979335.1_ASM297933v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979345.1_ASM297934v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979375.1_ASM297937v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979395.1_ASM297939v1_genomic		0	0	0	0	0	0	1	2	0	0	0	0		
+GCF_002979415.1_ASM297941v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		BFLGIJMF_02974:ldh(59.2%,m342.0,rbh1)
+GCF_002979435.1_ASM297943v1_genomic		1	0	1	0	0	0	0	2	0	2	0	0		DCJIBMAD_03733:ldh(58.9%,m340.0,rbh1)
+GCF_002979455.1_ASM297945v1_genomic		0	0	0	0	0	0	1	0	0	0	0	0		
+GCF_002979475.1_ASM297947v1_genomic		1	0	1	1	0	0	0	2	0	1	0	0	JACFGJAH_03398:ldhD(30.2%,m94.0,rbh0)	JACFGJAH_03504:ldh(59.9%,m345.0,rbh1)
+GCF_002979495.1_ASM297949v1_genomic		0	0	0	0	0	0	1	2	0	1	0	0		
+GCF_002979515.1_ASM297951v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		NJMNPOPF_00542:ldh(59.9%,m346.0,rbh1)
+GCF_002979535.1_ASM297953v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002979555.1_ASM297955v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	CJOFIOKP_03757:ldhA(52.7%,m160.0,rbh1)	
+GCF_002979575.1_ASM297957v1_genomic		0	0	0	0	0	0	1	1	0	0	0	0		
+GCF_002979595.1_ASM297959v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		ACIHFGGJ_02147:ldh(59.9%,m346.0,rbh1)
+GCF_002979615.1_ASM297961v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002979635.1_ASM297963v1_genomic		0	1	0	1	0	1	1	3	1	0	0	0	NGIJAEKG_03754:ldhA(99.7%,m461.0,rbh1)	
+GCF_002979655.1_ASM297965v1_genomic		1	0	1	0	0	0	0	1	0	0	0	0		FPOOHJKL_00886:ldh(59.9%,m345.0,rbh1)
+GCF_002979665.1_ASM297966v1_genomic		0	0	0	0	0	0	1	0	0	0	0	0		
+GCF_002979695.1_ASM297969v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		LKAOCNOI_01319:ldh(59.9%,m346.0,rbh1)
+GCF_002979705.1_ASM297970v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_002979735.1_ASM297973v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	JFDGJPLN_03040:ldhA(52.4%,m157.0,rbh1)	
+GCF_002979755.1_ASM297975v1_genomic		0	0	0	0	0	0	1	0	0	0	0	0		
+GCF_002979775.1_ASM297977v1_genomic		0	0	0	0	0	0	1	1	0	0	0	0		
+GCF_002979795.1_ASM297979v1_genomic		1	0	1	0	0	0	0	2	0	0	0	0		GPGGOGAN_01516:ldh(59.9%,m346.0,rbh1)
+GCF_002979815.1_ASM297981v1_genomic		0	0	0	0	0	0	1	3	0	0	0	0		
+GCF_002979835.1_ASM297983v1_genomic		0	0	0	0	0	0	1	4	0	0	0	0		
+GCF_002979855.1_ASM297985v1_genomic		0	0	0	0	0	0	1	4	0	0	0	0		
+GCF_002979865.1_ASM297986v1_genomic		0	0	0	0	0	0	1	3	0	0	0	0		
+GCF_002979885.1_ASM297988v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	JGHFNPHA_04492:ldhA(52.1%,m158.0,rbh1)	
+GCF_002979915.1_ASM297991v1_genomic		0	0	0	0	0	0	1	3	0	0	0	0		
+GCF_002979925.1_ASM297992v1_genomic		0	0	0	0	0	0	1	4	0	0	0	0		
+GCF_002979955.1_ASM297995v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	KINCIIIH_02802:ldhA(52.4%,m157.0,rbh1)	
+GCF_002979975.1_ASM297997v1_genomic		0	0	0	0	0	0	1	2	0	2	0	0		
+GCF_002979985.1_ASM297998v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	OKDDOGIM_04228:ldhA(52.1%,m158.0,rbh1)	
+GCF_002980015.1_ASM298001v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	ENGOGAGD_04815:ldhA(52.1%,m158.0,rbh1)	
+GCF_002980025.1_ASM298002v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	KAGDBMBC_00947:ldhA(52.7%,m160.0,rbh1)	
+GCF_002980055.1_ASM298005v1_genomic		0	1	0	1	0	1	1	3	1	0	0	0	KKOPCHHL_03780:ldhA(99.7%,m461.0,rbh1)	
+GCF_002980075.1_ASM298007v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	GCODLGFP_05284:ldhA(52.1%,m158.0,rbh1)	
+GCF_002980095.1_ASM298009v1_genomic		0	1	0	1	0	1	1	1	1	0	0	0	KILFABLD_00014:ldhA(82.0%,m356.0,rbh1)	
+GCF_002980105.1_ASM298010v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	PCKMPMED_05504:ldhA(52.1%,m158.0,rbh1)	
+GCF_002980135.1_ASM298013v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	JJKEEFNL_02510:ldhA(53.3%,m161.0,rbh1)	
+GCF_002980155.1_ASM298015v1_genomic		0	1	0	1	0	1	1	2	0	0	0	0	EHIBLLHB_02036:ldhA(51.7%,m153.0,rbh1)	
+GCF_002980175.2_ASM298017v2_genomic		0	0	0	0	0	0	1	1	1	1	0	0		
+GCF_002980195.1_ASM298019v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	AKPMADCE_00584:ldhA(53.3%,m161.0,rbh1)	
+GCF_002980215.1_ASM298021v1_genomic		0	1	0	1	0	1	1	1	0	0	0	0	BGAAJNGJ_05503:ldhA(52.1%,m158.0,rbh1)	
+GCF_009495805.1_ASM949580v1_genomic		1	0	1	0	0	0	0	2	0	2	0	0		KNIHGNLP_03147:ldh(47.6%,m285.0,rbh1)
+GCF_009496535.1_ASM949653v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_009496545.1_ASM949654v1_genomic		0	1	0	1	0	2	0	1	0	0	0	0	LCFHMOIJ_00140:ldhA(54.5%,m176.0,rbh1)	
+GCF_009496575.1_ASM949657v1_genomic		0	0	0	0	0	0	1	2	1	0	0	0		
+GCF_009496595.1_ASM949659v1_genomic		0	1	0	1	0	1	1	3	1	0	0	0	BHHCHGFH_03563:ldhA(99.7%,m461.0,rbh1)	
+JUb134		0	1	0	1	0	1	1	2	0	0	0	0	NDEHBHMN_02256:ldhA(53.2%,m173.0,rbh1)	
+JUb19		0	1	0	1	0	1	1	2	1	0	0	0	BAPGIFAH_02222:ldhA(51.5%,m171.0,rbh1)	
+JUb44		0	0	0	0	0	0	1	1	0	0	0	0		
+JUb66		1	1	1	1	1	1	1	1	1	0	0	0	BAICIHOI_00040:ldhA(93.9%,m423.0,rbh1)	BAICIHOI_00111:ldh2(69.0%,m442.0,rbh1)
+MSPm1		0	1	0	1	0	1	1	4	1	1	0	0	LFFNDCDH_02090:ldhA(52.1%,m166.0,rbh1)	
+MYb10		0	0	0	0	0	0	1	1	1	1	0	0		
+MYb11		0	1	0	1	0	1	1	1	0	0	0	0	NOMCOILC_03307:ldhA(52.1%,m158.0,rbh1)	
+MYb115		0	1	0	1	0	1	1	2	0	0	0	0	EOFKJDHJ_04538:ldhA(51.7%,m153.0,rbh1)	
+MYb121		0	1	0	1	0	1	1	1	1	0	0	0	IDEJOOOH_00014:ldhA(82.0%,m356.0,rbh1)	
+MYb158		0	0	0	0	0	0	1	1	1	1	0	0		
+MYb174		0	1	0	1	0	1	1	1	1	0	0	0	ELFHFFJB_01817:ldhA(89.4%,m410.0,rbh1)	
+MYb176		0	1	0	1	0	1	1	1	1	0	0	0	GAPJFNCP_01292:ldhA(89.4%,m410.0,rbh1)	
+MYb177		0	1	0	1	0	1	1	2	0	0	0	0	HPFABKJN_05299:ldhA(52.7%,m164.0,rbh1)	
+MYb181		0	1	0	1	0	2	0	1	0	0	0	0	IJLICMJH_01470:ldhA(54.5%,m176.0,rbh1)	
+MYb186		1	1	1	1	1	1	1	1	1	0	0	0	MPHMOIEO_00872:ldhA(89.9%,m407.0,rbh1)	MPHMOIEO_01183:ldh2(69.7%,m432.0,rbh1)
+MYb191		0	0	0	0	0	0	1	1	1	1	0	0		
+MYb21		0	0	0	0	0	0	1	2	1	0	0	0		
+MYb25		0	0	0	0	0	0	1	0	0	0	0	0		
+MYb264		0	0	0	0	0	0	1	1	0	0	0	0		
+MYb328		0	0	0	0	0	0	1	0	0	0	0	0		
+MYb330		0	1	0	1	0	1	1	2	0	0	0	0	FMLBEAIG_05158:ldhA(52.7%,m164.0,rbh1)	
+MYb331		0	1	0	1	0	1	1	2	0	0	0	0	EJCBEJKA_05126:ldhA(52.7%,m164.0,rbh1)	
+MYb371		0	1	0	1	0	1	1	2	0	0	0	0	JMLCHGGK_05259:ldhA(52.7%,m164.0,rbh1)	
+MYb375		0	1	0	1	0	1	1	1	1	0	0	0	NOEGBLFC_03516:ldhA(84.5%,m376.0,rbh1)	
+MYb379		0	0	0	0	0	0	1	2	0	0	0	0		
+MYb382		0	0	0	0	0	1	0	2	0	0	0	0		
+MYb388		0	1	0	1	0	2	0	1	0	0	0	0	FJKGBPHG_00624:ldhA(54.8%,m179.0,rbh1)	
+MYb396		0	0	0	0	0	0	1	2	1	0	0	0		
+MYb398		0	1	0	1	0	1	1	1	0	0	0	0	FNNOMECG_00198:ldhA(52.9%,m170.0,rbh1)	
+MYb416		0	1	0	1	0	1	1	1	1	0	0	0	DNICLGPH_05151:ldhA(84.1%,m371.0,rbh1)	
+MYb49		0	0	0	0	0	0	1	2	0	0	0	0		
+MYb535		0	1	0	1	0	1	1	1	1	0	0	0	OHGILKNJ_03849:ldhA(84.5%,m376.0,rbh1)	
+MYb541		0	1	0	1	0	1	1	1	0	0	0	0	PJKDBJHF_03065:ldhA(52.4%,m159.0,rbh1)	
+MYb58		0	0	0	0	0	0	1	2	1	0	0	0		
+MYb592		0	0	0	0	0	0	1	2	1	0	0	0		
+MYb595		0	0	0	0	0	0	1	1	1	0	0	0		
+MYb596		0	0	0	0	0	0	1	3	1	0	0	0		
+MYb69		0	0	0	0	0	0	1	2	1	0	0	0		
+MYb71		0	0	0	0	0	0	1	2	0	1	0	0		
+P1_A1	Bacillus	3	0	4	0	4	0	0	2	0	0	0	0		MBNKMGEK_02007:ldh3(99.4%,m627.0,rbh1); MBNKMGEK_00967:ldh1(100.0%,m624.0,rbh1); MBNKMGEK_04328:ldh2(99.7%,m618.0,rbh1); MBNKMGEK_04495:ldh1(80.9%,m539.0,rbh0)
+P1_A10	Raoultella	0	1	0	1	0	1	1	1	1	0	0	0	BGGIACJH_00333:ldhA(89.0%,m406.0,rbh1)	
+P1_A11	Rouxiella	1	1	1	1	1	1	1	1	1	0	0	0	HBJGHCCF_00504:ldhA(77.3%,m349.0,rbh1)	HBJGHCCF_02694:ldh1(40.1%,m217.0,rbh1)
+P1_A12	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	NNCKHBMJ_02314:ldhA(93.9%,m432.0,rbh1)	
+P1_A2	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	AJJDEDNH_02778:ldhA(93.9%,m432.0,rbh1)	
+P1_A3	Lysinibacillus	0	0	0	0	0	0	1	1	0	1	0	0		
+P1_A4	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	FGGOELEJ_04048:ldhA(78.4%,m349.0,rbh1)	FGGOELEJ_00467:ldh1(43.0%,m229.0,rbh1)
+P1_A7	Serratia	0	1	0	1	0	1	1	1	1	0	0	0	KGOJKEHJ_00202:ldhA(81.4%,m362.0,rbh1)	
+P1_A9	Bacillaceae	3	0	3	0	3	0	1	2	0	0	0	0		OCCDPDAO_04245:ldh3(98.1%,m624.0,rbh1); OCCDPDAO_03254:ldh1(99.0%,m619.0,rbh1); OCCDPDAO_04583:ldh2(99.0%,m617.0,rbh1)
+P1_B1	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	DKGFKPLI_02938:ldhA(51.1%,m153.0,rbh1)	
+P1_B10	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	MEPGAMCA_01516:ldhA(78.0%,m347.0,rbh1)	MEPGAMCA_02865:ldh1(43.0%,m229.0,rbh1)
+P1_B11	Bacillus	1	0	1	0	1	0	1	2	0	0	0	0		MHIAMECG_03321:ldh(99.4%,m629.0,rbh1)
+P1_B12	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	BKBDPBAP_02418:ldhA(93.9%,m432.0,rbh1)	
+P1_B2	Bacteria	0	0	0	0	0	0	1	0	0	0	0	0		
+P1_B3	Aneurinibacillus	1	0	1	0	1	0	1	2	0	0	0	3		BBFJKGGH_04870:ldh(99.1%,m624.0,rbh1)
+P1_B4	Ureibacillus	3	0	4	0	4	0	0	2	0	0	0	0		PKLBCIOL_04327:ldh3(99.4%,m627.0,rbh1); PKLBCIOL_03745:ldh1(99.7%,m622.0,rbh1); PKLBCIOL_05055:ldh2(99.7%,m618.0,rbh1); PKLBCIOL_03605:ldh1(81.5%,m538.0,rbh0)
+P1_B6	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	ODOCAPHA_02801:ldhA(93.9%,m432.0,rbh1)	
+P1_B7	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	OAECIDCC_01757:ldhA(93.9%,m432.0,rbh1)	
+P1_B8	Aneurinibacillus	1	0	1	0	1	0	1	2	0	0	0	3		MOOJMJEB_05189:ldh(99.7%,m627.0,rbh1)
+P1_B9	Chishuiella	0	1	0	1	0	1	1	1	0	0	0	0	OAMDDDKP_02139:ldhA(56.2%,m162.0,rbh1)	
+P1_C1	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	PJILOCCA_02713:ldhA(93.9%,m432.0,rbh1)	
+P1_C10	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	NLLLEJLF_00553:ldhA(93.9%,m432.0,rbh1)	
+P1_C11	Herbaspirillum	0	1	0	1	1	1	0	1	1	0	0	0	NIKMLBLH_01983:ldhA(48.0%,m123.0,rbh1)	
+P1_C12	Pantoea	0	1	0	1	0	1	1	2	1	0	0	0	FDLLJNEI_01114:ldhA(93.9%,m432.0,rbh1)	
+P1_C2	Rouxiella	1	1	1	1	1	1	1	1	1	0	0	0	NHKNEDAE_04801:ldhA(75.0%,m336.0,rbh1)	NHKNEDAE_01330:ldh1(40.7%,m212.0,rbh1)
+P1_C3	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	NIGCFCAP_03322:ldhA(78.0%,m347.0,rbh1)	NIGCFCAP_00134:ldh1(43.0%,m229.0,rbh1)
+P1_C4	Rouxiella	1	1	1	1	1	1	1	1	1	0	0	0	DEAPFBCC_04717:ldhA(75.0%,m336.0,rbh1)	DEAPFBCC_03997:ldh1(40.7%,m212.0,rbh1)
+P1_C5	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	EBEEIGHF_03811:ldhA(78.0%,m347.0,rbh1)	EBEEIGHF_00480:ldh1(43.0%,m229.0,rbh1)
+P1_C6	Aneurinibacillus	3	0	3	0	3	0	1	2	0	0	0	0		BHEGOBKO_01883:ldh3(99.1%,m626.0,rbh1); BHEGOBKO_00888:ldh1(100.0%,m624.0,rbh1); BHEGOBKO_05735:ldh2(99.4%,m615.0,rbh1)
+P1_C8	Enterobacteriaceae	0	0	0	0	0	0	1	0	0	0	0	0		
+P1_C9	Citrobacter	0	0	0	0	0	0	1	1	1	2	0	0		
+P1_D1	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	LEKOLBFH_02229:ldhA(93.9%,m432.0,rbh1)	
+P1_D10	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	AAFPMBHG_01166:ldhA(93.9%,m432.0,rbh1)	
+P1_D11	Pantoea	0	1	0	2	0	1	1	1	1	0	0	0	IFHBDIEI_00194:ldhA(83.2%,m381.0,rbh1); IFHBDIEI_01405:ldhD(30.6%,m0.0,rbh0)	
+P1_D2	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	FMLOMNHI_00588:ldhA(90.6%,m415.0,rbh1)	FMLOMNHI_00264:ldh2(66.8%,m432.0,rbh1)
+P1_D3	Raoultella	0	0	0	0	0	0	1	0	0	0	0	0		
+P1_D4	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	KCFNNEAJ_00229:ldhA(90.6%,m415.0,rbh1)	KCFNNEAJ_00553:ldh2(66.8%,m432.0,rbh1)
+P1_D5	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	CBKJJEJG_00872:ldhA(90.0%,m411.0,rbh1)	CBKJJEJG_05165:ldh2(67.1%,m428.0,rbh1)
+P1_D6	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	ILINHGBJ_00589:ldhA(90.6%,m415.0,rbh1)	ILINHGBJ_00265:ldh2(66.8%,m432.0,rbh1)
+P1_D8	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	PHKIIOII_01249:ldhA(90.0%,m411.0,rbh1)	PHKIIOII_00904:ldh2(67.1%,m428.0,rbh1)
+P1_D9	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	CLLMHNFB_02779:ldhA(93.9%,m432.0,rbh1)	
+P1_E10	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	JBLACJKK_03005:ldhA(90.3%,m415.0,rbh1)	JBLACJKK_01323:ldh2(67.1%,m430.0,rbh1)
+P1_E2		1	1	1	1	0	0	0	1	1	0	0	0	DOEOHLDP_00696:ldhA(91.2%,m423.0,rbh1)	DOEOHLDP_00962:ldh2(68.8%,m439.0,rbh1)
+P1_E3		1	1	1	1	1	1	1	1	1	0	0	0	ELKBEKKM_00666:ldhA(90.0%,m411.0,rbh1)	ELKBEKKM_01001:ldh2(67.4%,m431.0,rbh1)
+P1_E5		1	1	1	1	1	1	1	1	1	0	0	0	ANEFKNLA_00665:ldhA(90.0%,m411.0,rbh1)	ANEFKNLA_01000:ldh2(67.4%,m431.0,rbh1)
+P1_E6		1	1	1	1	1	1	1	1	1	0	0	0	KPKMJOKD_02662:ldhA(90.0%,m411.0,rbh1)	KPKMJOKD_01492:ldh2(67.4%,m431.0,rbh1)
+P1_E7	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	GMOGOFCH_00957:ldhA(90.0%,m411.0,rbh1)	GMOGOFCH_01592:ldh2(67.4%,m431.0,rbh1)
+P1_E8	Brevundimonas	0	0	0	0	0	0	1	2	1	0	0	0		
+P1_E9	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	FLNKOHFP_00198:ldhA(90.6%,m415.0,rbh1)	FLNKOHFP_00523:ldh2(66.8%,m432.0,rbh1)
+P1_F1	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	AFOLCCFP_01660:ldhA(93.9%,m432.0,rbh1)	
+P1_F11	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	LNBJDFJN_00589:ldhA(90.6%,m415.0,rbh1)	LNBJDFJN_00266:ldh2(66.8%,m432.0,rbh1)
+P1_F12	Leuconostoc	1	1	1	3	1	4	0	0	0	0	0	0	BPNFEDHH_01847:NA(95.2%,m385.0,rbh1); BPNFEDHH_01126:ldhD(36.7%,m20.0,rbh0); BPNFEDHH_01547:ldhD(31.0%,m57.0,rbh0)	BPNFEDHH_01670:ldh1(35.9%,m184.0,rbh1)
+P1_F2	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	HKFHAEKI_04563:ldhA(91.8%,m419.0,rbh1)	
+P1_F3	Microbacterium	0	0	0	0	0	0	1	2	0	0	0	0		
+P1_F4	Achromobacter	0	0	0	0	0	0	1	1	1	1	0	0		
+P1_F5	Ochrobactrum	0	0	0	0	0	0	1	2	1	0	0	0		
+P1_F6	Ochrobactrum	0	0	0	0	0	0	1	2	0	0	0	0		
+P1_F7	Raoultella	1	0	1	0	1	0	1	2	0	0	0	0		GPOEDKCD_02173:ldh(97.1%,m620.0,rbh1)
+P1_F8	Succinivibrio	0	0	0	0	0	0	1	0	0	0	0	0		
+P1_F9	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	IGBEAJCD_00198:ldhA(90.6%,m415.0,rbh1)	IGBEAJCD_00522:ldh2(66.8%,m432.0,rbh1)
+P1_G1	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	OEPAAPBN_02798:ldhA(90.6%,m415.0,rbh1)	OEPAAPBN_02219:ldh2(66.8%,m432.0,rbh1)
+P1_G10	Lelliottia	1	1	1	1	1	1	1	1	1	0	0	0	DJMKANHI_00890:ldhA(93.9%,m423.0,rbh1)	DJMKANHI_02001:ldh2(69.7%,m444.0,rbh1)
+P1_G11	Bacteria	0	0	0	0	0	0	1	0	0	0	0	0		
+P1_G12	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	KJGGLKMO_00708:ldhA(93.6%,m432.0,rbh1)	
+P1_G2	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	PPJFPHHH_00347:ldhA(90.0%,m411.0,rbh1)	PPJFPHHH_00693:ldh2(67.1%,m428.0,rbh1)
+P1_G3	Erwinia	0	1	0	2	0	1	1	1	1	0	0	0	IHANNKHC_03420:ldhA(82.3%,m357.0,rbh1); IHANNKHC_02619:ldhA(35.4%,m10.0,rbh0)	
+P1_G4	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	HLCMKGCD_01864:ldhA(90.6%,m415.0,rbh1)	HLCMKGCD_01112:ldh2(66.8%,m432.0,rbh1)
+P1_G5	Ochrobactrum	0	0	0	0	0	0	1	2	0	0	0	0		
+P1_G6	Achromobacter	0	0	0	0	1	0	0	2	0	1	0	0		
+P1_G7	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	AHKBEOIF_00198:ldhA(90.6%,m415.0,rbh1)	AHKBEOIF_02601:ldh2(66.8%,m432.0,rbh1)
+P1_G8	Leuconostoc	1	1	1	3	1	4	0	0	0	0	0	0	OBOBNBAC_01525:NA(95.2%,m385.0,rbh1); OBOBNBAC_00791:ldhD(36.7%,m20.0,rbh0); OBOBNBAC_01209:ldhD(30.7%,m55.0,rbh0)	OBOBNBAC_01611:ldh1(35.6%,m184.0,rbh1)
+P1_G9	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	IAELPNJJ_02226:ldhA(93.9%,m432.0,rbh1)	
+P1_H1	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	NEGNNCBJ_03382:ldhA(90.5%,m413.0,rbh1)	NEGNNCBJ_00568:ldh2(70.4%,m446.0,rbh1)
+P1_H10	Paenibacillus	2	1	2	1	2	1	1	1	0	0	0	0	CKKLOPCO_00477:ldhD(36.9%,m13.0,rbh1)	CKKLOPCO_02638:ldh3(60.5%,m412.0,rbh1); CKKLOPCO_00753:ldh(53.7%,m337.0,rbh1)
+P1_H11	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	NHGGOKFI_00301:ldhA(91.8%,m419.0,rbh1)	
+P1_H12	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	BDJLHDMK_00755:ldhA(52.4%,m158.0,rbh1)	
+P1_H2	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	KJKFBMED_00488:ldhA(52.9%,m170.0,rbh1)	
+P1_H3	Raoultella	3	0	3	0	3	0	1	2	0	0	0	0		PNJCJDOM_03100:ldh3(100.0%,m630.0,rbh1); PNJCJDOM_00866:ldh1(100.0%,m624.0,rbh1); PNJCJDOM_02511:ldh2(100.0%,m621.0,rbh1)
+P1_H4	Corynebacterium	0	0	0	0	0	0	1	3	0	0	0	0		
+P1_H5	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	PADFLEFM_04045:ldhA(90.2%,m413.0,rbh1)	PADFLEFM_03523:ldh2(69.4%,m441.0,rbh1)
+P1_H6	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	KNONJNLN_00298:ldhA(91.2%,m423.0,rbh1)	KNONJNLN_00031:ldh2(68.5%,m437.0,rbh1)
+P1_H7	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	HAJMIJPP_01376:ldhA(91.8%,m419.0,rbh1)	
+P1_H8	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	BDPDOBOL_00914:ldhA(91.8%,m420.0,rbh1)	
+P1_H9	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	CMLBCNBA_01666:ldhA(51.4%,m152.0,rbh1)	
+P2_A1	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	JBDKMCIM_02557:ldhA(91.8%,m419.0,rbh1)	
+P2_A10	Kluyvera	0	1	0	1	1	1	0	1	1	0	0	0	JPLGLHFE_01881:ldhA(91.2%,m423.0,rbh1)	
+P2_A11	Kluyvera	0	1	0	1	0	1	1	1	0	0	0	0	BBACCPMK_03160:ldhA(90.2%,m413.0,rbh1)	
+P2_A12	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	ABJDAGOK_04746:ldhA(52.4%,m159.0,rbh1)	
+P2_A2	Lysinibacillus	0	0	0	0	0	0	1	2	0	1	0	0		
+P2_A3	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	JCDJINHA_02076:ldhA(91.8%,m419.0,rbh1)	
+P2_A4	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	OOCKOHEF_01912:ldhA(92.4%,m427.0,rbh1)	
+P2_A5	Lactiplantibacillus	2	1	5	2	6	2	0	1	0	1	1	3	AIJAFFKC_02725:ldhD(100.0%,m373.0,rbh1); AIJAFFKC_01559:ldhD(42.7%,m5.0,rbh0)	AIJAFFKC_02120:ldh1(100.0%,m622.0,rbh1); AIJAFFKC_02528:ldh2(100.0%,m590.0,rbh1); AIJAFFKC_01191:ldh1(36.5%,m199.0,rbh0); AIJAFFKC_02878:ldh3(37.1%,m194.0,rbh0); AIJAFFKC_01713:ldh3(36.9%,m189.0,rbh0)
+P2_A6	Morganella	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_A7	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	INLAILOD_04421:ldhA(90.2%,m413.0,rbh1)	INLAILOD_00040:ldh2(69.4%,m441.0,rbh1)
+P2_A8	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	JNHOCJPF_01189:ldhA(91.2%,m423.0,rbh1)	JNHOCJPF_01665:ldh2(68.8%,m439.0,rbh1)
+P2_A9	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	KMOMIPJJ_02198:ldhA(91.2%,m423.0,rbh1)	KMOMIPJJ_01575:ldh2(68.8%,m439.0,rbh1)
+P2_B1	Corynebacterium	0	0	0	0	0	0	1	3	0	0	0	0		
+P2_B10	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	MJNJDKOL_02569:ldhA(53.0%,m159.0,rbh1)	
+P2_B12	Ochrobactrum	0	0	0	0	0	0	1	2	0	0	0	0		
+P2_B2	Corynebacterium	1	0	1	0	0	0	0	3	0	1	0	0		FADDGIEH_01475:ldh(69.0%,m424.0,rbh1)
+P2_B3	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	PGDFOCKL_00754:ldhA(91.2%,m423.0,rbh1)	PGDFOCKL_02969:ldh2(68.8%,m438.0,rbh1)
+P2_B4	Lysinibacillus	0	0	0	0	0	0	1	2	0	1	0	0		
+P2_B5	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	HIMHBMEA_00905:ldhA(51.7%,m158.0,rbh1)	
+P2_B6	Pseudomonas	1	0	1	0	0	0	0	2	0	0	0	0		PPNIJLAK_02439:ldh(59.6%,m350.0,rbh1)
+P2_B7	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	MIKNABKJ_03449:ldhA(52.1%,m158.0,rbh1)	
+P2_B8	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	FFJKFEGE_04295:ldhA(52.1%,m158.0,rbh1)	
+P2_B9	Bacilli	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_C1	Bacilli	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_C10	Microbacterium	1	0	1	0	0	0	0	2	0	1	0	0		JGCNIGKH_01351:ldh(58.9%,m340.0,rbh1)
+P2_C11	Lysinibacillus	0	0	0	0	0	0	1	2	0	1	0	0		
+P2_C12	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	NNJDKELM_02561:ldhA(52.0%,m158.0,rbh1)	
+P2_C2	Oerskovia	1	0	1	0	0	0	0	1	0	0	0	0		IIHBOHIA_02733:ldh(64.4%,m413.0,rbh1)
+P2_C4	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	FAMNLECB_01237:ldhA(91.8%,m419.0,rbh1)	
+P2_C5	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	GENGFPMF_00868:ldhA(90.0%,m409.0,rbh1)	GENGFPMF_01268:ldh2(70.4%,m438.0,rbh1)
+P2_C6	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	FJGNNABF_04288:ldhA(52.7%,m158.0,rbh1)	
+P2_C7	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	DAFGPGML_05286:ldhA(51.4%,m152.0,rbh1)	
+P2_C8	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	BNFABOPA_00664:ldhA(90.0%,m411.0,rbh1)	BNFABOPA_00869:ldh2(67.4%,m431.0,rbh1)
+P2_C9	Kluyvera	1	1	2	3	2	3	0	2	1	0	0	0	FBJPEJDI_02658:ldhA(91.2%,m423.0,rbh1); FBJPEJDI_00706:ldhA(90.5%,m413.0,rbh0); FBJPEJDI_06677:ldhA(52.9%,m170.0,rbh0)	FBJPEJDI_03895:ldh2(70.4%,m446.0,rbh1); FBJPEJDI_12820:ldh2(68.8%,m439.0,rbh0)
+P2_D1	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	HBDEPPFK_04027:ldhA(90.5%,m416.0,rbh1)	HBDEPPFK_01040:ldh2(70.0%,m442.0,rbh1)
+P2_D10	Ewingella	1	1	1	1	1	1	1	1	1	0	0	0	NDFFHNLG_00328:ldhA(77.1%,m345.0,rbh1)	NDFFHNLG_01450:ldh1(40.6%,m224.0,rbh1)
+P2_D12	Rahnella	1	1	1	1	2	1	0	1	1	0	0	0	JOLBCOOK_00601:ldhA(77.7%,m344.0,rbh1)	JOLBCOOK_01093:ldh1(44.6%,m158.0,rbh1)
+P2_D2	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	KBEMGPGI_02204:ldhA(53.0%,m159.0,rbh1)	
+P2_D3	Paenibacillus	2	1	2	1	2	1	1	1	0	0	0	0	BMPNHEGF_01232:ldhD(37.5%,m16.0,rbh1)	BMPNHEGF_03026:ldh3(60.8%,m415.0,rbh1); BMPNHEGF_03861:ldh(53.9%,m334.0,rbh1)
+P2_D4	Enterobacter	0	1	0	1	0	1	1	1	1	0	0	0	EOLJMFIJ_01168:ldhA(91.8%,m419.0,rbh1)	
+P2_D5	Pantoea	0	1	0	2	0	1	1	1	1	0	0	0	NAIGPMMC_01317:ldhA(83.2%,m381.0,rbh1); NAIGPMMC_00365:ldhD(30.6%,m0.0,rbh0)	
+P2_D6	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	GLKBLDLD_04219:ldhA(89.7%,m404.0,rbh1)	GLKBLDLD_00282:ldh2(68.7%,m424.0,rbh1)
+P2_D8	Ochrobactrum	0	0	0	0	0	1	0	2	0	1	0	0		
+P2_D9	Fictibacillus	2	0	2	0	2	0	1	1	0	0	0	0		EIOIGFPH_01380:ldh2(75.4%,m492.0,rbh1); EIOIGFPH_02621:ldh2(73.5%,m487.0,rbh1)
+P2_E1	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	JAIIJNMD_03806:ldhA(78.0%,m347.0,rbh1)	JAIIJNMD_00817:ldh1(43.0%,m229.0,rbh1)
+P2_E11	Achromobacter	0	0	0	0	1	0	0	1	0	0	0	0		
+P2_E2	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	AJIDEMLO_03808:ldhA(78.0%,m347.0,rbh1)	AJIDEMLO_00816:ldh1(43.0%,m229.0,rbh1)
+P2_E3	Escherichia	0	1	0	1	0	1	1	3	1	0	0	0	OECJEMDF_04302:ldhA(99.7%,m461.0,rbh1)	
+P2_E4	Paenibacillus	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_E5	Ochrobactrum	0	0	0	0	0	0	1	2	1	0	0	0		
+P2_E6	Ewingella	1	1	1	1	1	1	1	1	1	0	0	0	BLJCNGLK_00588:ldhA(77.1%,m345.0,rbh1)	BLJCNGLK_01571:ldh1(40.6%,m224.0,rbh1)
+P2_E7	Chryseobacterium	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_E9	Leucobacter	0	0	0	0	0	0	1	1	1	0	0	0		
+P2_F1	Chryseobacterium	0	0	0	0	0	0	1	1	0	0	0	0		
+P2_F10	Bacteria	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_F11	Citrobacter	0	1	0	1	0	1	1	2	1	0	0	0	PLHLHKII_00120:ldhA(93.9%,m432.0,rbh1)	
+P2_F12	Chryseobacterium	0	0	0	0	0	0	1	1	0	0	0	0		
+P2_F2	Rouxiella	0	1	0	1	0	1	1	1	1	0	0	0	GBIGEBHN_00156:ldhA(76.3%,m345.0,rbh1)	
+P2_F3	Chryseobacterium	0	0	0	0	0	0	1	1	0	0	0	0		
+P2_F4	Chryseobacterium	0	0	0	0	0	0	1	1	0	0	0	0		
+P2_F5	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	HIDOJEND_04617:ldhA(51.7%,m151.0,rbh1)	
+P2_F6	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	CHKIOLCH_02904:ldhA(90.0%,m411.0,rbh1)	CHKIOLCH_01351:ldh2(67.4%,m431.0,rbh1)
+P2_F7	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	BIIGPKPN_03222:ldhA(90.0%,m411.0,rbh1)	BIIGPKPN_01593:ldh2(67.4%,m431.0,rbh1)
+P2_F8	Raoultella	1	1	1	1	1	1	1	1	1	0	0	0	CHAHLOFJ_03525:ldhA(90.0%,m411.0,rbh1)	CHAHLOFJ_00710:ldh2(67.4%,m431.0,rbh1)
+P2_F9	Aneurinibacillus	3	0	3	0	3	0	1	2	0	0	0	0		MMFFGEPD_02133:ldh3(99.1%,m626.0,rbh1); MMFFGEPD_00887:ldh1(100.0%,m624.0,rbh1); MMFFGEPD_05783:ldh2(99.4%,m615.0,rbh1)
+P2_G1	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	JMBLBONH_03454:ldhA(49.8%,m155.0,rbh1)	
+P2_G10	Kosakonia	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_G11	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	AGEMALEB_04047:ldhA(90.2%,m413.0,rbh1)	AGEMALEB_03526:ldh2(69.4%,m441.0,rbh1)
+P2_G12	Agrobacterium	0	0	0	0	1	0	0	2	1	0	0	0		
+P2_G2	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	EAKEAOEO_02850:ldhA(52.7%,m158.0,rbh1)	
+P2_G3	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	FLLGKAGK_03183:ldhA(77.4%,m348.0,rbh1)	FLLGKAGK_00608:ldh1(41.1%,m221.0,rbh1)
+P2_G4	Stenotrophomonas	0	0	0	0	0	0	1	2	1	0	0	0		
+P2_G5	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	IMIFKKBA_01222:ldhA(50.8%,m152.0,rbh1)	
+P2_G6	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	KDCCPHIK_01533:ldhA(52.7%,m161.0,rbh1)	
+P2_G7	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	DPBBEEMP_00915:ldhA(91.8%,m420.0,rbh1)	
+P2_G8	Chishuiella	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_G9	BIGb0383	1	1	1	1	1	1	1	1	1	0	0	0	KEHDBFFF_02799:ldhA(89.0%,m404.0,rbh1)	KEHDBFFF_03355:ldh2(70.0%,m435.0,rbh1)
+P2_H1	Citrobacter	0	1	0	1	0	1	1	1	1	0	0	0	COFEIBIM_01416:ldhA(93.9%,m433.0,rbh1)	
+P2_H10	Chishuiella	0	1	0	1	0	1	1	1	0	0	0	0	JNALCGBH_03157:ldhA(56.2%,m162.0,rbh1)	
+P2_H11	Bacillus	1	0	1	0	1	0	1	1	0	0	0	0		NCMLNJJH_00442:ldh(99.4%,m634.0,rbh1)
+P2_H12	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	GJPHKOMG_04213:ldhA(90.2%,m413.0,rbh1)	GJPHKOMG_03684:ldh2(69.4%,m441.0,rbh1)
+P2_H2	Bacillaceae	0	0	0	0	0	0	1	2	0	1	0	0		
+P2_H3	Chishuiella	0	1	0	1	0	1	1	1	0	0	0	0	BPCOMFEE_03139:ldhA(56.2%,m162.0,rbh1)	
+P2_H4	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	BKGIMBKM_00719:ldhA(91.2%,m423.0,rbh1)	BKGIMBKM_00985:ldh2(68.8%,m439.0,rbh1)
+P2_H5	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	KAINJKLF_00744:ldhA(91.2%,m423.0,rbh1)	KAINJKLF_01010:ldh2(68.8%,m439.0,rbh1)
+P2_H6	Bacillaceae	0	0	0	0	0	0	1	0	0	0	0	0		
+P2_H8	Paenibacillus	3	0	4	0	0	0	0	2	0	0	0	0		ADIHNMLF_03108:ldh3(99.1%,m625.0,rbh1); ADIHNMLF_00718:ldh1(99.7%,m622.0,rbh1); ADIHNMLF_05306:ldh2(99.7%,m620.0,rbh1); ADIHNMLF_04038:ldh1(80.9%,m539.0,rbh0)
+P2_H9	Staphylococcus	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_A1	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	GLGKCDKF_04089:ldhA(90.2%,m413.0,rbh1)	GLGKCDKF_03650:ldh2(69.4%,m441.0,rbh1)
+P3_A10	Paenibacillus	2	0	2	0	2	0	1	1	0	0	0	0		HBJIPAMK_02309:ldh3(62.1%,m416.0,rbh1); HBJIPAMK_04733:ldh(52.5%,m325.0,rbh1)
+P3_A11	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	BMIGEFGA_01910:ldhA(92.4%,m427.0,rbh1)	
+P3_A12	Lactococcus	3	0	4	0	4	0	0	1	1	1	0	0		GMKJHAEL_01334:ldh1(100.0%,m625.0,rbh1); GMKJHAEL_00689:ldh3(99.7%,m623.0,rbh1); GMKJHAEL_00105:ldh2(100.0%,m603.0,rbh1); GMKJHAEL_00036:ldh(35.8%,m182.0,rbh0)
+P3_A3	Staphylococcus	1	1	1	1	1	1	1	1	0	0	0	0	AGLDBDBL_02487:ldhD(45.2%,m27.0,rbh1)	AGLDBDBL_01984:ldh(75.1%,m467.0,rbh1)
+P3_A4	Achromobacter	0	0	0	0	1	0	0	1	0	0	0	0		
+P3_A5	Leuconostoc	1	1	1	2	1	3	0	0	1	0	0	0	HDEPOKEG_02105:NA(92.1%,m375.0,rbh1); HDEPOKEG_01905:ldhD(35.1%,m7.0,rbh0)	HDEPOKEG_01881:ldh1(40.3%,m204.0,rbh1)
+P3_A6	Pseudomonas	0	1	0	1	0	1	1	1	0	1	0	0	PKPHJCPK_04253:ldhA(54.6%,m174.0,rbh1)	
+P3_A7	Lactococcus	2	0	3	0	3	0	0	1	1	1	0	0		CINDAOLP_00527:ldh3(99.7%,m623.0,rbh1); CINDAOLP_02470:ldh2(100.0%,m603.0,rbh1); CINDAOLP_01077:ldh(35.8%,m182.0,rbh0)
+P3_A8	Paenibacillus	2	0	2	0	2	0	1	1	0	0	0	0		LAMEPOGC_05249:ldh3(61.8%,m414.0,rbh1); LAMEPOGC_01096:ldh(52.2%,m326.0,rbh1)
+P3_A9	Paenibacillus	2	0	2	0	2	0	1	1	0	0	0	0		IEIDKBMP_04316:ldh3(62.1%,m416.0,rbh1); IEIDKBMP_01130:ldh(52.5%,m325.0,rbh1)
+P3_B1	Lactococcus	3	0	4	0	4	0	0	1	1	1	0	0		HABNMBOG_01335:ldh1(100.0%,m625.0,rbh1); HABNMBOG_00689:ldh3(99.7%,m623.0,rbh1); HABNMBOG_00105:ldh2(100.0%,m603.0,rbh1); HABNMBOG_00036:ldh(35.8%,m182.0,rbh0)
+P3_B10	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	IFLNNNCA_00730:ldhA(77.7%,m345.0,rbh1)	IFLNNNCA_01158:ldh1(41.3%,m228.0,rbh1)
+P3_B11	Ochrobactrum	0	0	0	0	0	0	1	2	0	0	0	0		
+P3_B12	Lactococcus	3	0	4	0	4	0	0	1	0	1	0	0		FGFGBCHD_01174:ldh1(100.0%,m625.0,rbh1); FGFGBCHD_00648:ldh3(99.7%,m623.0,rbh1); FGFGBCHD_00439:ldh2(99.7%,m601.0,rbh1); FGFGBCHD_00507:ldh(35.8%,m182.0,rbh0)
+P3_B3	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	KONNABIK_00915:ldhA(91.8%,m420.0,rbh1)	
+P3_B4	Ureibacillus	3	0	3	0	3	0	1	2	0	0	0	0		IMMFLOJA_05286:ldh3(99.4%,m627.0,rbh1); IMMFLOJA_00707:ldh1(99.7%,m622.0,rbh1); IMMFLOJA_05774:ldh2(100.0%,m620.0,rbh1)
+P3_B5	Bacillaceae	3	0	3	0	3	0	1	2	0	0	0	0		LMKPPEFF_04851:ldh3(98.4%,m624.0,rbh1); LMKPPEFF_01842:ldh1(99.0%,m619.0,rbh1); LMKPPEFF_04526:ldh2(99.4%,m617.0,rbh1)
+P3_B6	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	CHODLKBH_01788:ldhA(52.0%,m158.0,rbh1)	
+P3_B7	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	OLICOKOP_05472:ldhA(51.4%,m152.0,rbh1)	
+P3_B8	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	CDEELBGE_00487:ldhA(52.9%,m170.0,rbh1)	
+P3_B9	Paenibacillus	2	1	2	1	2	1	1	1	0	0	0	0	JEAPCMCJ_00143:ldhD(36.9%,m13.0,rbh1)	JEAPCMCJ_01331:ldh3(60.5%,m412.0,rbh1); JEAPCMCJ_00750:ldh(53.7%,m337.0,rbh1)
+P3_C1	Lactococcus	3	0	4	0	4	0	0	1	1	1	0	0		JPAIHIEJ_01308:ldh1(100.0%,m625.0,rbh1); JPAIHIEJ_00689:ldh3(99.7%,m623.0,rbh1); JPAIHIEJ_00105:ldh2(100.0%,m603.0,rbh1); JPAIHIEJ_00036:ldh(35.8%,m182.0,rbh0)
+P3_C10	Buttiauxella	3	0	3	0	3	0	1	2	0	0	0	0		DEICAJGL_00486:ldh3(99.1%,m626.0,rbh1); DEICAJGL_04152:ldh1(100.0%,m624.0,rbh1); DEICAJGL_05794:ldh2(99.4%,m615.0,rbh1)
+P3_C11	Gluconobacter	0	0	0	0	0	0	1	2	1	0	0	0		
+P3_C12	Stenotrophomonas	0	1	0	1	0	1	1	2	1	0	0	0	APDOGDBM_01549:ldhA(53.0%,m169.0,rbh1)	
+P3_C2	Microbacterium	1	0	1	0	0	0	0	2	0	1	0	0		JDLLKACB_01351:ldh(58.9%,m340.0,rbh1)
+P3_C3	Lactococcus	3	0	4	0	4	0	0	1	0	1	0	0		POJMIMBI_01437:ldh1(100.0%,m625.0,rbh1); POJMIMBI_02145:ldh3(99.7%,m623.0,rbh1); POJMIMBI_00103:ldh2(99.7%,m601.0,rbh1); POJMIMBI_00035:ldh(35.8%,m182.0,rbh0)
+P3_C4	Paenibacillus	3	0	3	0	3	0	1	2	0	0	0	0		ACBEEBDG_02760:ldh3(99.1%,m626.0,rbh1); ACBEEBDG_00397:ldh1(100.0%,m624.0,rbh1); ACBEEBDG_07200:ldh2(99.4%,m615.0,rbh1)
+P3_C5	Paenibacillus	2	0	2	0	2	0	1	1	0	0	0	0		BDJHCADA_05761:ldh3(62.0%,m414.0,rbh1); BDJHCADA_00567:ldh(51.6%,m322.0,rbh1)
+P3_C6	Rahnella	1	1	1	1	2	1	0	1	1	0	0	0	KOGIMMEG_00694:ldhA(77.7%,m344.0,rbh1)	KOGIMMEG_01464:ldh1(44.6%,m158.0,rbh1)
+P3_C7	Rahnella	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_C8	Bacillaceae	3	0	3	0	3	0	1	2	0	0	0	0		BCBOFKEN_02471:ldh3(99.1%,m626.0,rbh1); BCBOFKEN_00887:ldh1(100.0%,m624.0,rbh1); BCBOFKEN_05753:ldh2(99.4%,m615.0,rbh1)
+P3_C9	Gluconobacter	0	0	0	0	0	0	1	1	1	0	0	0		
+P3_D1	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	BCGFCMMN_04528:ldhA(77.9%,m346.0,rbh1)	BCGFCMMN_00297:ldh1(42.7%,m225.0,rbh1)
+P3_D10	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	IBKDNLAB_02155:ldhA(89.7%,m404.0,rbh1)	IBKDNLAB_02105:ldh2(68.7%,m424.0,rbh1)
+P3_D11	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	DHGAMNON_04201:ldhA(89.7%,m404.0,rbh1)	DHGAMNON_00667:ldh2(68.7%,m424.0,rbh1)
+P3_D12	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	HPMACMOJ_03994:ldhA(89.7%,m404.0,rbh1)	HPMACMOJ_00765:ldh2(68.7%,m424.0,rbh1)
+P3_D2	Microbacterium	1	0	1	0	0	0	0	2	0	0	0	0		HCFLCFEL_02921:ldh(56.2%,m321.0,rbh1)
+P3_D4	Escherichia	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_D5	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	INPGCAOG_01668:ldhA(51.7%,m151.0,rbh1)	
+P3_D6	Pseudomonas	0	1	0	1	0	1	1	1	0	0	0	0	EPIHPHGO_01797:ldhA(52.6%,m167.0,rbh1)	
+P3_D7	Pseudomonas	0	1	0	1	0	1	1	2	0	0	0	0	NGNGCJLB_04870:ldhA(52.0%,m159.0,rbh1)	
+P3_D8	Kluyvera	1	1	1	1	1	1	1	1	1	0	0	0	DGFHBEEI_01577:ldhA(91.2%,m423.0,rbh1)	DGFHBEEI_04087:ldh2(69.8%,m373.0,rbh1)
+P3_D9	Raoultella	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_E1	Klebsiella	1	1	1	1	0	0	0	1	1	0	0	0	FCNNFFFK_03910:ldhA(89.7%,m404.0,rbh1)	FCNNFFFK_00145:ldh2(68.7%,m424.0,rbh1)
+P3_E10	Pantoea	0	1	0	1	0	1	1	1	1	0	0	0	CIOKGNMK_00975:ldhA(82.6%,m373.0,rbh1)	
+P3_E11	Variovorax	0	0	0	0	1	0	0	2	0	0	0	0		
+P3_E12	Pseudochrobactrum	0	0	0	0	0	0	1	2	1	0	0	0		
+P3_E2	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	LPBMLPGA_04116:ldhA(89.7%,m404.0,rbh1)	LPBMLPGA_00765:ldh2(68.7%,m424.0,rbh1)
+P3_E3	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	HFOGEKGL_04121:ldhA(89.7%,m404.0,rbh1)	HFOGEKGL_00765:ldh2(68.7%,m424.0,rbh1)
+P3_E4	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	JIDABBPD_03974:ldhA(89.7%,m404.0,rbh1)	JIDABBPD_00282:ldh2(68.7%,m424.0,rbh1)
+P3_E5	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	KJFBBDIC_03915:ldhA(89.7%,m404.0,rbh1)	KJFBBDIC_00283:ldh2(68.7%,m424.0,rbh1)
+P3_E6	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	JBNEIAPJ_03751:ldhA(89.7%,m404.0,rbh1)	JBNEIAPJ_00282:ldh2(68.7%,m424.0,rbh1)
+P3_E7	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	AKICLFMH_03674:ldhA(89.7%,m404.0,rbh1)	AKICLFMH_00765:ldh2(68.7%,m424.0,rbh1)
+P3_E8	Pantoea	0	1	0	1	0	1	1	1	1	0	0	0	PINHENFL_01410:ldhA(82.6%,m373.0,rbh1)	
+P3_E9	Bacteria	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_F1	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	MJGOLPNL_03975:ldhA(89.7%,m404.0,rbh1)	MJGOLPNL_00145:ldh2(68.7%,m424.0,rbh1)
+P3_F11	Bacillus	1	0	1	0	1	0	1	2	0	0	0	0		GDKLPKPP_02402:ldh(97.1%,m620.0,rbh1)
+P3_F2	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	LEFBIAIE_04129:ldhA(89.7%,m404.0,rbh1)	LEFBIAIE_00283:ldh2(68.7%,m424.0,rbh1)
+P3_F3	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	AMNEOACL_04064:ldhA(89.7%,m404.0,rbh1)	AMNEOACL_00765:ldh2(68.7%,m424.0,rbh1)
+P3_F4	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	MENDJOIC_03812:ldhA(89.7%,m404.0,rbh1)	MENDJOIC_00765:ldh2(68.7%,m424.0,rbh1)
+P3_F5	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	FEKDKJII_03979:ldhA(89.7%,m404.0,rbh1)	FEKDKJII_00282:ldh2(68.7%,m424.0,rbh1)
+P3_F6	Chryseobacterium	0	0	0	0	0	0	1	1	0	0	0	0		
+P3_F7	Leuconostoc	1	2	1	2	1	3	0	0	1	1	0	0	BEGKMLNO_00554:NA(92.1%,m372.0,rbh1); BEGKMLNO_01278:ldhD(33.9%,m7.0,rbh1)	BEGKMLNO_01306:ldh1(39.6%,m202.0,rbh1)
+P3_F8	Ewingella	1	1	1	1	1	1	1	1	1	0	0	0	PALJNNCD_04400:ldhA(77.7%,m345.0,rbh1)	PALJNNCD_00610:ldh1(41.3%,m228.0,rbh1)
+P3_F9	Rahnella	3	0	3	0	3	0	1	2	0	0	0	0		PMHHGFME_03547:ldh3(99.1%,m626.0,rbh1); PMHHGFME_02398:ldh1(100.0%,m624.0,rbh1); PMHHGFME_03331:ldh2(99.4%,m615.0,rbh1)
+P3_G1	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	GNFGEFAM_01280:ldhA(92.4%,m427.0,rbh1)	
+P3_G10	Weissella	1	1	1	1	1	3	0	0	1	2	1	3	NIGKGLAM_01967:NA(70.1%,m253.0,rbh1)	NIGKGLAM_00108:ldh3(37.0%,m187.0,rbh1)
+P3_G11	Paenarthrobacter	0	0	0	0	0	0	1	1	0	0	0	0		
+P3_G12	Brevibacterium	0	0	0	0	0	0	1	3	0	0	0	0		
+P3_G2	Lelliottia	0	0	0	0	0	0	1	1	1	0	0	0		
+P3_G3	Stenotrophomonas	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_G5	Lactococcus	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_G6	Microbacterium	1	0	1	0	0	0	0	2	0	1	0	0		ACHFPADA_01371:ldh(58.6%,m338.0,rbh1)
+P3_G7	Arctic96AD-7	0	0	0	0	0	0	1	1	0	2	0	0		
+P3_G8	Rhodococcus	1	0	1	0	0	0	0	2	0	3	0	0		MAJGOJGM_03425:ldh(47.6%,m285.0,rbh1)
+P3_G9	Paenibacillus	1	0	1	0	1	0	1	1	0	0	0	0		FAFGDGMC_03128:ldh3(56.2%,m375.0,rbh1)
+P3_H10	Corynebacterium	1	1	1	1	0	1	0	3	0	1	0	0	JBJMFAEO_04126:ldhA(56.2%,m162.0,rbh1)	JBJMFAEO_01632:ldh(68.7%,m421.0,rbh1)
+P3_H11	Lactococcus	3	0	4	0	4	0	0	1	1	1	0	0		FBBCLEJG_01308:ldh1(100.0%,m625.0,rbh1); FBBCLEJG_00616:ldh3(99.7%,m623.0,rbh1); FBBCLEJG_00449:ldh2(100.0%,m603.0,rbh1); FBBCLEJG_00518:ldh(35.8%,m182.0,rbh0)
+P3_H12	Klebsiella	1	1	1	1	1	1	1	1	1	0	0	0	LFDOAIHK_03915:ldhA(89.7%,m404.0,rbh1)	LFDOAIHK_00283:ldh2(68.7%,m424.0,rbh1)
+P3_H2	Rahnella	1	1	1	1	1	1	1	1	1	0	0	0	GECGAMMM_04988:ldhA(77.4%,m348.0,rbh1)	GECGAMMM_00608:ldh1(41.1%,m221.0,rbh1)
+P3_H3	Pseudomonas	0	0	0	0	0	0	1	0	0	0	0	0		
+P3_H4	Microbacterium	0	0	0	0	0	0	1	2	0	0	0	0		
+P3_H5	Lelliottia	0	1	0	1	0	1	1	1	1	0	0	0	GLKHGKOO_01729:ldhA(92.4%,m427.0,rbh1)	
+P3_H6	Ochrobactrum	0	0	0	0	0	0	1	2	0	0	0	0		
+P3_H7	Gluconobacter	0	0	0	0	0	0	1	2	1	0	0	0		
+P3_H9	Corynebacterium	1	0	1	0	0	0	0	3	0	1	0	0		JFFHLBGI_01554:ldh(68.7%,m421.0,rbh1)

@@ -1,0 +1,17 @@
+genome	cluster	cluster_size	distinctness	distinctness_trustworthy	assembly_contigs	assembly_length	assembly_caveat	kegg_orthologs	amino_acids_complete	amino_acids_incomplete	vitamins_complete	vitamins_made	makes_B12	accessory_traits
+P3_G8	12	1	0.5972	1	157	7533829	-	1904	18	Phe,Tyr	6	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,pyridoxine_B6,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,fumarate_respiration,hydrogenase,superoxide_dismutase,urease
+P3_C3	9	1	0.5892	0	41	2578820	short_assembly	1273	19	Phe	1	folate_B9	0	cytochrome_bd_high_affinity,fumarate_respiration,superoxide_dismutase
+P2_C2	5	1	0.5607	1	35	4606789	-	1481	17	Asn,Phe,Tyr	3	niacin_B3,pantothenate_B5,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,nitrate_respiration,superoxide_dismutase
+P2_B6	3	1	0.5552	0	20	3996214	short_assembly	1420	17	Asn,Phe,Tyr	2	folate_B9,niacin_B3	0	catalase,cellulose_biofilm,cytochrome_bd_high_affinity,superoxide_dismutase
+P2_C10	4	1	0.5429	0	11	3879594	short_assembly	1424	17	Asn,Phe,Tyr	4	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2	0	catalase,cellulose_biofilm,cytochrome_bd_high_affinity,superoxide_dismutase
+P3_D2	11	1	0.5354	0	26	4038991	short_assembly	1466	17	Asn,Phe,Tyr	4	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2	0	catalase,cellulose_biofilm,cytochrome_bd_high_affinity,fumarate_respiration,superoxide_dismutase
+P3_G9	13	1	0.46	1	62	7136564	-	1935	15	Asp,Lys,Phe,Ser,Tyr	6	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cellulose_biofilm,superoxide_dismutase,urease
+P2_D9	6	1	0.4588	1	84	4938880	-	1875	17	Phe,Ser,Tyr	4	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,fumarate_respiration,superoxide_dismutase
+P1_B11	2	1	0.453	0	48	4300512	short_assembly	2055	17	Phe,Ser,Tyr	5	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,thiamine_B1	0	catalase,cytochrome_bd_high_affinity,nitrate_respiration,superoxide_dismutase,urease
+P3_C5	10	1	0.451	1	69	7187451	-	1971	15	Asp,Lys,Phe,Ser,Tyr	5	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,fumarate_respiration,superoxide_dismutase
+P1_B8	0	2	0.4419	1	41	6003786	-	2187	17	Phe,Ser,Tyr	6	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,superoxide_dismutase,urease
+P3_A8	7	1	0.4399	1	48	6963890	-	1975	15	Asp,Lys,Phe,Ser,Tyr	4	folate_B9,niacin_B3,pantothenate_B5,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,nitrate_respiration,superoxide_dismutase,urease
+P3_F11	1	2	0.4383	0	22	3699953	short_assembly	1937	16	Asp,Phe,Ser,Tyr	5	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,superoxide_dismutase
+P3_A9	8	1	0.4376	1	33	6914384	-	1996	16	Asp,Phe,Ser,Tyr	5	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,superoxide_dismutase,urease
+P1_F7	1	2	0.4374	0	29	3861699	short_assembly	1943	16	Asp,Phe,Ser,Tyr	5	folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,superoxide_dismutase
+P1_B3	0	2	0.4368	1	31	5292517	-	2090	17	Phe,Ser,Tyr	6	biotin_B7,folate_B9,niacin_B3,pantothenate_B5,riboflavin_B2,thiamine_B1	0	b12_dependent_enzymes,catalase,cytochrome_bd_high_affinity,superoxide_dismutase,urease
