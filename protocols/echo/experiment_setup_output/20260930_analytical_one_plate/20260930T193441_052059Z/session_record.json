@@ -1,0 +1,32 @@
+{
+  "run": "20260930",
+  "assembly_datetime": null,
+  "incubation_temperature_C": null,
+  "shaking_and_seal": null,
+  "culture_medium_batch": null,
+  "incubation_duration_h": 48,
+  "echo_report_path": null,
+  "echo_warnings": null,
+  "od_reader_file": null,
+  "assay_mix_prepared_at": null,
+  "assay_reaction_started_at": null,
+  "acid_stop_at": null,
+  "prompt_read_at": null,
+  "delayed_read_at": null,
+  "storage_between_reads": null,
+  "assay_reader_files": [],
+  "source_rows": [
+    "A",
+    "B"
+  ],
+  "excluded_source_wells": [
+    "A4"
+  ],
+  "source_split": "Culture replicates 1-3: A; 4-6: B. All 294 uses B4.",
+  "sample_preparation": "5 uL supernatant + 10 uL fresh crude-glycerol screen medium",
+  "standard_matrix": "water or full-strength fresh screen medium",
+  "spike_stock_matrix": "full-strength fresh screen medium",
+  "spike_added_mM_before_reagents": 3,
+  "viaflo_head": 384,
+  "viaflo_active_tip_pattern_and_clearance_checked": null
+}

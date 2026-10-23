@@ -1,0 +1,13 @@
+log_destination,candidate_plate,path,exceptions,exact_matches,all_rows_match
+Destination[2],1,bayesian_ei,71,66,False
+Destination[2],2,max_diversity,71,71,True
+Destination[2],3,bayesian_posterior_mean,71,38,False
+Destination[2],4,random,71,38,False
+Destination[3],1,bayesian_ei,966,693,False
+Destination[3],2,max_diversity,966,502,False
+Destination[3],3,bayesian_posterior_mean,966,966,True
+Destination[3],4,random,966,483,False
+Destination[4],1,bayesian_ei,1142,719,False
+Destination[4],2,max_diversity,1142,587,False
+Destination[4],3,bayesian_posterior_mean,1142,664,False
+Destination[4],4,random,1142,1142,True

@@ -1,0 +1,31 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"Learning microbial community","textShapes":3}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Research question","textShapes":7}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Genome screening defined the selected strain panel","textShapes":3}
+{"kind":"chart","id":"ch/kvq90vu1","slide":3,"name":"Chart","chartType":"bar","bbox":[76,168,1126,410]}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Lactate production and consumption in the strain screen","textShapes":3}
+{"kind":"table","id":"tb/gvyd4vud","slide":4,"name":"Tabelle 6","rows":4,"cols":2,"preview":"Sequence evidence | Meaning for selection","bbox":[70,182,1140,327]}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"The species panel","textShapes":3}
+{"kind":"table","id":"tb/8bm5cnad","slide":5,"name":"Tabelle 6","rows":5,"cols":3,"preview":"Stage | Strains | Reason for the difference","bbox":[70,176,1140,370]}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Community assembly and measurement","textShapes":3}
+{"kind":"table","id":"tb/3uh4nud4","slide":6,"name":"Tabelle 6","rows":6,"cols":2,"preview":"Step | Implementation","bbox":[70,168,1140,380]}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Incubation: oxygen supply and a 48h endpoint","textShapes":7}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Three rounds expanded the intended community space","textShapes":3}
+{"kind":"table","id":"tb/503u1oze","slide":8,"name":"Tabelle 7","rows":4,"cols":4,"preview":"Readout date | Plates | Compositions in the round | Active species","bbox":[70,193,1140,288]}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"September 4 produced candidates supported by all three wells","textShapes":3}
+{"kind":"chart","id":"ch/xkryl4na","slide":9,"name":"Chart","chartType":"bar","bbox":[76,168,1126,410]}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"The candidate evidence still needs biological validation","textShapes":6}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Four acquisition paths test different selection rules","textShapes":3}
+{"kind":"table","id":"tb/grmho3uh","slide":11,"name":"Tabelle 6","rows":5,"cols":3,"preview":"Plate | Path | Selection criterion","bbox":[70,174,1140,382]}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"The latest models have separate acquisition histories","textShapes":3}
+{"kind":"table","id":"tb/436xgru1","slide":12,"name":"Tabelle 6","rows":4,"cols":3,"preview":"Training data | EI model | Posterior-mean model","bbox":[70,194,1140,303]}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Predicted rankings barely matched the next measurements","textShapes":4}
+{"kind":"chart","id":"ch/va9cby1k","slide":13,"name":"Chart","chartType":"bar","bbox":[76,205,1126,375]}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"September 11 measurements are close to the edge reference","textShapes":3}
+{"kind":"chart","id":"ch/x8rid8b2","slide":14,"name":"Chart","chartType":"bar","bbox":[76,168,1126,410]}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Latest-round triplicates show little agreement","textShapes":4}
+{"kind":"chart","id":"ch/cnq1sve9","slide":15,"name":"Chart","chartType":"bar","bbox":[76,202,1126,379]}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Next experiment and discussion","textShapes":6}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"Appendix: the top standards respond on all four plates","textShapes":3}
+{"kind":"chart","id":"ch/l47m1c3u","slide":17,"name":"Chart","chartType":"line","bbox":[76,168,1126,410]}

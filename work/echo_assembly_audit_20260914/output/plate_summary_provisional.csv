@@ -1,0 +1,5 @@
+plate,path,planned_transfers,reported_zero_transfers,affected_wells,unflagged_wells,unchanged_triplicates,same_reduced_triplicates,split_triplicates,all_empty_triplicates,empty_wells,inferred_nonempty_compositions
+1,bayesian_ei,1692,0,0,306,102,0,0,0,0,102
+2,max_diversity,1884,71,71,235,50,2,50,0,0,156
+3,bayesian_posterior_mean,1677,966,299,7,0,2,100,0,7,97
+4,random,1791,1142,304,2,0,61,38,3,11,49

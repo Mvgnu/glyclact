@@ -1,0 +1,317 @@
+  P2_A11: drive path unavailable, using the local panel copy
+  MYb174: drive path unavailable, using the local panel copy
+  MYb176: drive path unavailable, using the local panel copy
+  P1_G3: drive path unavailable, using the local panel copy
+  P3_E10: drive path unavailable, using the local panel copy
+  P3_E8: drive path unavailable, using the local panel copy
+  P1_G12: drive path unavailable, using the local panel copy
+  P1_A12: drive path unavailable, using the local panel copy
+  P1_A2: drive path unavailable, using the local panel copy
+  P1_B12: drive path unavailable, using the local panel copy
+  P1_B6: drive path unavailable, using the local panel copy
+  P1_B7: drive path unavailable, using the local panel copy
+  P1_C1: drive path unavailable, using the local panel copy
+  P1_C10: drive path unavailable, using the local panel copy
+  P1_C12: drive path unavailable, using the local panel copy
+  P1_D1: drive path unavailable, using the local panel copy
+  P1_D10: drive path unavailable, using the local panel copy
+  P1_D9: drive path unavailable, using the local panel copy
+  P1_F1: drive path unavailable, using the local panel copy
+  P1_G9: drive path unavailable, using the local panel copy
+  P2_F11: drive path unavailable, using the local panel copy
+  MYb375: drive path unavailable, using the local panel copy
+  MYb416: drive path unavailable, using the local panel copy
+  MYb535: drive path unavailable, using the local panel copy
+  P1_A10: drive path unavailable, using the local panel copy
+  P1_D11: drive path unavailable, using the local panel copy
+  P1_F2: drive path unavailable, using the local panel copy
+  P1_H11: drive path unavailable, using the local panel copy
+  P1_H7: drive path unavailable, using the local panel copy
+  P1_H8: drive path unavailable, using the local panel copy
+  P2_A1: drive path unavailable, using the local panel copy
+  P2_A3: drive path unavailable, using the local panel copy
+  P2_A4: drive path unavailable, using the local panel copy
+  P2_C4: drive path unavailable, using the local panel copy
+  P2_D4: drive path unavailable, using the local panel copy
+  P2_D5: drive path unavailable, using the local panel copy
+  P2_G7: drive path unavailable, using the local panel copy
+  P3_A11: drive path unavailable, using the local panel copy
+  P3_B3: drive path unavailable, using the local panel copy
+  P3_G1: drive path unavailable, using the local panel copy
+  P3_H5: drive path unavailable, using the local panel copy
+  BIGb0393: drive path unavailable, using the local panel copy
+  MYb121: drive path unavailable, using the local panel copy
+  P1_A7: drive path unavailable, using the local panel copy
+  P2_F2: drive path unavailable, using the local panel copy
+45 assemblies across genera: Citrobacter, Enterobacter, Erwinia, Kluyvera, Lelliottia, Pantoea, Raoultella, Rouxiella, Serratia
+  Citrobacter: tax id 544
+  Enterobacter: tax id 547
+  Erwinia: tax id 551
+  Kluyvera: tax id 579
+  Lelliottia: tax id 1330545
+  Pantoea: tax id 53335
+  Raoultella: could not resolve to a bacterial genus tax id; skipping
+  Rouxiella: tax id 1565532
+  Serratia: tax id 613
+  Kluyvera: curated reference set covers 7 species
+  Kluyvera: searching all 7 species, unfiltered and uncapped
+  Kluyvera: searched 7/7
+  Erwinia: curated reference set covers 26 species
+  Erwinia: searching all 26 species, unfiltered and uncapped
+  Erwinia: searched 26/26
+  P1_G3: MEGAN's family row says Enterobacteriaceae (99.97%), which disagrees with the family of genus Erwinia; trying it first
+  P1_G3: no species match in Erwinia; escalating to family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  P1_G3: no species match in Erwinia; escalating to family Erwiniaceae (1903409)
+  Erwiniaceae: curated reference set covers 90 species
+  Erwiniaceae: searching all 90 species, unfiltered and uncapped
+  Erwiniaceae: searched 40/90
+  Erwiniaceae: searched 80/90
+  Erwiniaceae: searched 90/90
+  Pantoea: curated reference set covers 36 species
+  Pantoea: searching all 36 species, unfiltered and uncapped
+  Pantoea: searched 36/36
+  P3_E10: MEGAN's family row says Enterobacteriaceae (99.97%), which disagrees with the family of genus Pantoea; trying it first
+  P3_E10: no species match in Pantoea; escalating to family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  P3_E10: no species match in Pantoea; escalating to family Erwiniaceae (1903409)
+  Erwiniaceae: curated reference set covers 90 species
+  Erwiniaceae: searching all 90 species, unfiltered and uncapped
+  Erwiniaceae: searched 40/90
+  Erwiniaceae: searched 80/90
+  Erwiniaceae: searched 90/90
+  Pantoea: curated reference set covers 36 species
+  Pantoea: searching all 36 species, unfiltered and uncapped
+  Pantoea: searched 36/36
+  P3_E8: MEGAN's family row says Enterobacteriaceae (99.97%), which disagrees with the family of genus Pantoea; trying it first
+  P3_E8: no species match in Pantoea; escalating to family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  P3_E8: no species match in Pantoea; escalating to family Erwiniaceae (1903409)
+  Erwiniaceae: curated reference set covers 90 species
+  Erwiniaceae: searching all 90 species, unfiltered and uncapped
+  Erwiniaceae: searched 40/90
+  Erwiniaceae: searched 80/90
+  Erwiniaceae: searched 90/90
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Pantoea: curated reference set covers 36 species
+  Pantoea: searching all 36 species, unfiltered and uncapped
+  Pantoea: searched 36/36
+  P1_C12: MEGAN's family row says Enterobacteriaceae (99.89%), which disagrees with the family of genus Pantoea; trying it first
+  P1_C12: no species match in Pantoea; escalating to family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Citrobacter: curated reference set covers 21 species
+  Citrobacter: searching all 21 species, unfiltered and uncapped
+  Citrobacter: searched 21/21
+  Pantoea: curated reference set covers 36 species
+  Pantoea: searching all 36 species, unfiltered and uncapped
+  Pantoea: searched 36/36
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Enterobacter: curated reference set covers 28 species
+  Enterobacter: searching all 28 species, unfiltered and uncapped
+  Enterobacter: searched 28/28
+  Pantoea: curated reference set covers 36 species
+  Pantoea: searching all 36 species, unfiltered and uncapped
+  Pantoea: searched 36/36
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Lelliottia: curated reference set covers 5 species
+  Lelliottia: searching all 5 species, unfiltered and uncapped
+  Lelliottia: searched 5/5
+  Serratia: curated reference set covers 25 species
+  Serratia: searching all 25 species, unfiltered and uncapped
+  Serratia: searched 25/25
+  Rouxiella: curated reference set covers 4 species
+  Rouxiella: sparse, scanning genus grouped by species
+  Rouxiella: expanded to 5 species
+  Rouxiella: searching all 5 species, unfiltered and uncapped
+  Rouxiella: searched 5/5
+
+P2_A11   Kluyvera         -> Kluyvera ascorbata                 ANI   96.884  aln   0.878  [species_match] via genus:Kluyvera
+         next best: Kluyvera chengduensis at 94.051%
+MYb174                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+MYb176                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_G3    Erwinia          -> Pantoea coffeiphila                ANI   84.568  aln  0.7233  [no_species_match] via family:Erwiniaceae
+         next best: Erwinia aphidicola at 81.925%
+P3_E10   Pantoea          -> Pantoea rwandensis                 ANI   89.415  aln   0.798  [no_species_match] via genus:Pantoea
+         next best: Pantoea rodasii at 86.484%
+P3_E8    Pantoea          -> Pantoea rwandensis                 ANI   89.441  aln   0.795  [no_species_match] via genus:Pantoea
+         next best: Pantoea rodasii at 86.519%
+P1_G12   Citrobacter      -> Citrobacter freundii               ANI    98.92  aln   0.907  [species_match] via genus:Citrobacter
+         next best: Citrobacter portucalensis at 94.573%
+P1_A12   Citrobacter      -> Citrobacter braakii                ANI   98.988  aln  0.9477  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.372%
+P1_A2    Citrobacter      -> Citrobacter braakii                ANI    99.01  aln  0.9448  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.328%
+P1_B12   Citrobacter      -> Citrobacter braakii                ANI   99.019  aln  0.9465  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.382%
+P1_B6    Citrobacter      -> Citrobacter braakii                ANI   99.014  aln  0.9436  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.347%
+P1_B7    Citrobacter      -> Citrobacter braakii                ANI   99.019  aln   0.944  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.336%
+P1_C1    Citrobacter      -> Citrobacter braakii                ANI   99.028  aln  0.9448  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.386%
+P1_C10   Citrobacter      -> Citrobacter braakii                ANI   99.043  aln   0.919  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.339%
+P1_C12   Pantoea          -> Citrobacter braakii                ANI   99.012  aln  0.9413  [species_match] via family:Enterobacteriaceae
+         next best: Citrobacter europaeus at 93.332%
+P1_D1    Citrobacter      -> Citrobacter braakii                ANI   99.023  aln  0.9472  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.353%
+P1_D10   Citrobacter      -> Citrobacter braakii                ANI   99.024  aln  0.9395  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.243%
+P1_D9    Citrobacter      -> Citrobacter braakii                ANI   99.011  aln  0.9466  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.376%
+P1_F1    Citrobacter      -> Citrobacter braakii                ANI    99.01  aln  0.9486  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.312%
+P1_G9    Citrobacter      -> Citrobacter braakii                ANI   99.032  aln  0.9466  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.374%
+P2_F11   Citrobacter      -> Citrobacter braakii                ANI   99.012  aln   0.946  [species_match] via genus:Citrobacter
+         next best: Citrobacter europaeus at 93.399%
+MYb375                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+MYb416                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+MYb535                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_A10   Raoultella       ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_D11   Pantoea          -> Pantoea pleuroti                   ANI   98.628  aln  0.9316  [species_match] via genus:Pantoea
+         next best: Pantoea agglomerans at 97.405%
+P1_F2    Enterobacter     -> Enterobacter ludwigii              ANI   98.758  aln  0.9237  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.798%
+P1_H11   Enterobacter     -> Enterobacter ludwigii              ANI   98.777  aln  0.9521  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.86%
+P1_H7    Enterobacter     -> Enterobacter ludwigii              ANI   98.761  aln  0.9214  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.836%
+P1_H8    Lelliottia       -> Lelliottia nimipressuralis         ANI   98.104  aln  0.9266  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.14%
+P2_A1    Enterobacter     -> Enterobacter ludwigii              ANI   98.742  aln  0.9249  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.874%
+P2_A3    Enterobacter     -> Enterobacter ludwigii              ANI   98.757  aln  0.9227  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.867%
+P2_A4    Lelliottia       -> Lelliottia nimipressuralis         ANI   98.185  aln  0.9597  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.134%
+P2_C4    Enterobacter     -> Enterobacter ludwigii              ANI   98.747  aln  0.9541  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.862%
+P2_D4    Enterobacter     -> Enterobacter ludwigii              ANI   98.706  aln  0.9257  [species_match] via genus:Enterobacter
+         next best: Enterobacter asburiae at 88.844%
+P2_D5    Pantoea          -> Pantoea pleuroti                   ANI   98.692  aln  0.9278  [species_match] via genus:Pantoea
+         next best: Pantoea agglomerans at 97.395%
+P2_G7    Lelliottia       -> Lelliottia nimipressuralis         ANI     98.1  aln  0.9252  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.179%
+P3_A11   Lelliottia       -> Lelliottia nimipressuralis         ANI   98.178  aln  0.9532  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.152%
+P3_B3    Lelliottia       -> Lelliottia nimipressuralis         ANI   98.129  aln  0.9245  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.118%
+P3_G1    Lelliottia       -> Lelliottia nimipressuralis         ANI    98.17  aln  0.9538  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.114%
+P3_H5    Lelliottia       -> Lelliottia nimipressuralis         ANI   98.184  aln  0.9498  [species_match] via genus:Lelliottia
+         next best: Lelliottia wanjuensis at 91.104%
+BIGb0393                  ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+MYb121                    ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_A7    Serratia         -> Serratia plymuthica                ANI   96.348  aln  0.9022  [species_match] via genus:Serratia
+         next best: Serratia inhibens at 94.106%
+P2_F2    Rouxiella        -> Rouxiella chamberiensis            ANI   98.835  aln  0.9481  [species_match] via genus:Rouxiella
+         next best: Rouxiella badensis at 82.725%
+Traceback (most recent call last):
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 820, in <module>
+    main()
+    ~~~~^^
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 816, in main
+    print(f"\nwrote {identity_path}")
+                     ^^^^^^^^^^^^^
+NameError: name 'identity_path' is not defined. Did you mean: 'identity_rows'?

@@ -1,0 +1,5 @@
+Source Strategy,Destination Plate Name,unique_communities,destination_wells,min_community_size,median_community_size,max_community_size,exact_repeat_wells,maxdiv_backfill_wells
+bayesian_ei,community_20260902_bayesian_ei,102,306,2,6.0,10,0,0
+bayesian_posterior_mean,community_20260902_posterior_mean,102,306,2,5.0,11,0,0
+max_diversity_repeat,community_20260902_maxdiv_repeat,102,306,1,5.0,12,162,144
+random,community_20260902_random,102,306,2,6.0,10,0,0

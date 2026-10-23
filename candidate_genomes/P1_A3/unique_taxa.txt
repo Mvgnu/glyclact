@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Bacillales
+Bacillaceae|Planococcaceae
+Bacillus|Lysinibacillus

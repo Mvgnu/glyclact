@@ -1,23 +1,13 @@
+# Local research snapshot: include bench data, genomes, models and analyses.
+# Tracking does not authorize publication or an automatic remote push.
+# Exclude machine-specific caches, dependencies, credentials and OS metadata.
 .venv/
-candidate_genomes/*
-!candidate_genomes/README.md
-models/
-comets_runs/
-taxonomy_work/
-results/*.parquet
-
-references/
-
+venv/
+node_modules
 __pycache__/
-comets/*
-!comets/README.md
-work/
-
-# Public-facing scope: pre-experimental research and candidate decisions only.
-# Bench records, Echo source ODs/picklists, reader files and acquisition models
-# stay local, including copies embedded in notebooks and output snapshots.
-/protocols/
-*.log
+*.pyc
+.pytest_cache/
 .DS_Store
+._*
 .env
 .env.*

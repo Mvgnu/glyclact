@@ -1,0 +1,59 @@
+{
+  "run": "20260930",
+  "purpose": "analytical_diagnostic",
+  "od_readings": {
+    "256": 0.62,
+    "75": 0.34,
+    "269": 0.08,
+    "294": 1.17,
+    "275": 1.28,
+    "41": 0.44,
+    "158": 0.52,
+    "145": 0.48,
+    "200": 0.25,
+    "196": 0.11,
+    "291": 0.18,
+    "264": 0.55
+  },
+  "layout_seed": 20260923,
+  "source_rows": [
+    "A",
+    "B"
+  ],
+  "excluded_source_wells": [
+    "A4"
+  ],
+  "source_volume_uL_per_usable_well": 50,
+  "source_split": "Culture replicates 1-3: A; 4-6: B. All 294 uses B4.",
+  "culture_conditions": 15,
+  "independent_culture_replicates": 6,
+  "medium_controls": 6,
+  "assay_wells": 294,
+  "status": "Echo ready: A/B split, A4 unused. Minimum calculated source remainder 48.650 uL.",
+  "echo_ready": true,
+  "models_fitted": false,
+  "updates_acquisition_done": false,
+  "training_eligible": false,
+  "total_ejected_uL": 11.25,
+  "files": {
+    "RUNBOOK_20260923_analytical.md": "47200ac60bff04b2922f80d943acbc01aaafe4b989b46b5cf7282546e90dd890",
+    "RUN_NOTES.md": "5f9cc2803352c19c56ede9c932fc0074dc979aac94ef44feddcbe2b7b0c63682",
+    "adaptive_run.py": "7a880cb8305f16e92be9b889d632fd4c1983c6d8e026aa1b24aa434250fa372f",
+    "analytical_round_20260923.py": "349407412e52034ed0a282cd2ee729a3fc46a85c7eb18eb22f2202530d53fd16",
+    "analytical_round_20260930.py": "e487a9949dc651191e4b2bf23e4603361e06dce8a4d446243d0e67c491c53ac3",
+    "plate-1_aliquot_preparation_20260930.csv": "c5f6f454e9849fcb2190cc71d68c82a153766aef4eaa5953830e31a096f36940",
+    "plate-1_assay_design_20260930.csv": "5bc19401e1a7b2e0f5ed3fa4bd402d89f657f4ee87e61656ec1d3fba4dd1e0f3",
+    "plate-1_assay_map.png": "71e5c9f15becfce14da984130adc964273b3b0002bb78dc363c4e1ae4f5ec269",
+    "plate-1_assay_readings.csv": "05175e983c496da186d85a865a240a03aeaff43cd84bed0db97cde90abed4aaf",
+    "plate-1_culture_design_20260930.csv": "350e25741f4303d8e85034ac99e9fa0803bd5279d72e94d771829d229609d3e4",
+    "plate-1_culture_map.png": "41c0685a15fe93a50c0ccad410adfe24b10c0db345afc7483ac42bb2bd9a0800",
+    "plate-1_echo_picklist_20260930_analytical.csv": "6357dee1efa1994105e79eda50a262180288030bc6f3ee8fab2ecc500dc6c329",
+    "plate-1_endpoint_OD600_and_harvest.csv": "0d7fc2f686df3ee47f6d8cd9290cf4c4f6d93e1602201ad69f836588b71440b9",
+    "plate-1_sample_budget_20260930.csv": "2cd699838603ab1ea86b3b41676e9dee24dedb7737c1451f0c40e9ceda345bb9",
+    "plate-1_source_demand_20260930.csv": "0b9c9dd5c7d5bef0071a32b52c5de7de8ded425992d5acdd5ae640942150d3f9",
+    "plate-1_source_plan_20260930.csv": "6d3c7dc2f72f0c44e941819a16492b005ebcb5e38d70c28f411e9c831769e430",
+    "plate-1_transfer_audit_20260930.csv": "002f39d1fed1c88d1191e36204207be288bc95fa5475b736836311aefab62abe",
+    "plate-1_well_audit_20260930.csv": "6d09d2edc0997385815c684c0bb221a980b255e3338d65688bc839bb950d188e",
+    "session_record.json": "cf3d453276f03aa743327db0f10efd0cf4ff8ada5252f7346241e1098de3e09a"
+  }
+}

@@ -1,0 +1,63 @@
+# COMETS configuration for the glycerol -> lactate community landscape.
+#
+# Separate from pipeline/config/config.yaml, which is set up for the GLV_ML species pool.
+# The species ids here are the model filenames in glycerol_lactate_community/models.
+
+comets_simulation:
+  comets_home: third_party/comets_2.12.5
+  java_home: /opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home
+
+  # Historical only: the community design came from the now-retired
+  # design_communities.py, not from the current manual pool-v5 panel or pipeline sampler.
+  # so the target/size/sampling keys below are unused for design. target_species is still
+  # read by run_batch for its diagnostic columns and is set per row in the manifest.
+  target_species: P1_B3
+  restrict_to_target_species: false
+  min_community_size: 1
+  max_community_size: 11
+  n_communities_per_size: 0
+  replicates: 1
+
+  initial_biomass: 0.001
+  # 500 cycles x 0.1 h = 50 h, which is well past glycerol exhaustion for a 20 mmol batch
+  # at these growth rates. Single batch, no dilution: the end state is the measurement.
+  max_cycles: 500
+  time_step: 0.1
+  max_space_biomass: 100.0
+  batch_dilution: false
+  dilution_factor: 100
+  dilution_time: 24.0
+  min_biomass: 1.0e-10
+
+  exchange_style: Monod Style
+  default_vmax: 10.0
+  default_km: 5.0
+  default_hill: 1.0
+  optimizer: GLOP
+  objective_style: MAX_OBJECTIVE_MIN_TOTAL
+
+  # Oxygen is held static: a shaken flask replenishes it, so it must not deplete. This
+  # makes every run fully aerobic. It therefore cannot reproduce the microaerobic optimum
+  # at O2/glycerol ~ 0.5 (OVERFLOW_TRIGGERS.md) -- that lever is a per-model uptake Vmax,
+  # not a medium concentration, and is deliberately out of scope for this pass.
+  static_media:
+    - o2_e
+
+  open_all_exchanges: true
+  harmonize_exchange_metabolites: true
+
+  max_workers: 3
+  sim_timeout_seconds: 1800
+
+  write_flux_log: false
+  # Per-species biomass per cycle is the primary output; the total-biomass log already
+  # carries one column per species, which is what the composition labels are built from.
+  total_biomass_log_rate: 1
+  write_biomass_log: false
+  # Glycerol consumed is determinate and worth having, so the media log is on -- but at a
+  # coarse rate, because 7168 simulations x 500 cycles of full media would be large and the
+  # product columns it also enables are degenerate and not the point of this design.
+  write_media_log: true
+  media_log_rate: 50
+  product_labels: false
+  substrate_metabolite: glyc_e

@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Aneurinibacillales|Lactobacillales|Staphylococcales
+Aneurinibacillaceae|Gemellaceae|Staphylococcaceae|Streptococcaceae
+Aneurinibacillus|Gemella|Staphylococcus|Streptococcus

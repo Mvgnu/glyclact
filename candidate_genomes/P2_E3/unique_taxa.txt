@@ -1,0 +1,6 @@
+Bacteria
+Bacteroidota|Proteobacteria
+Bacteroidia|Gammaproteobacteria
+Enterobacterales|Flavobacteriales
+Enterobacteriaceae|Flavobacteriaceae|Pasteurellaceae
+Escherichia|Flavobacterium|Haemophilus

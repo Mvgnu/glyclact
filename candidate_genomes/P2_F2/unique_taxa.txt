@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Burkholderiales|Enterobacterales|Pseudomonadales
+Burkholderiaceae|Enterobacteriaceae|Pseudomonadaceae
+Cedecea|Dickeya|Erwinia|Mangrovibacter|Mycetohabitans|Pectobacterium|Rouxiella|Serratia

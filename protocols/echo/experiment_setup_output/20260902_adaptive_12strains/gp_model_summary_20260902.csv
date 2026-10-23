@@ -1,0 +1,2 @@
+n_training_communities,length_scale,signal_variance_standardized,noise_variance_standardized,log_marginal_likelihood,loo_rmse_absorbance,loo_mae_absorbance,loo_pearson,loo_spearman,active_species_count,excluded_species,edge_blank_median,training_response,readout_file,previous_design_file
+102.0,0.35,1.0,0.01,-144.2450892633409,0.026211307692689142,0.01357167503229343,-0.002626934490430105,0.188358127090784,12,296,0.1045,triplicate median absorbance minus edge-blank median,Karl_20260830_201548_MAGNUS_ABS-Lactate-assay-rerun.csv,community_design_20260828_13strains.csv

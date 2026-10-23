@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Firmicutes|Proteobacteria|SAR324
+Actinomycetia|Bacilli|SAR324
+Lactobacillales|SAR324|Streptomycetales
+Lactobacillaceae|NAC60-12|Streptococcaceae|Streptomycetaceae
+Arctic96AD-7|Lactococcus|Streptomyces

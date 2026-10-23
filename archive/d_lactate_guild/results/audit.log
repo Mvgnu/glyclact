@@ -1,0 +1,374 @@
+=== BIGb0393
+    element-unbalanced 5, charge-unbalanced 519, free-lunch none
+    growth glycerol aer/ana 0.5613/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== MYb121
+    element-unbalanced 4, charge-unbalanced 486, free-lunch none
+    growth glycerol aer/ana 0.5636/0.1949   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/1.0
+=== MYb174
+    element-unbalanced 3, charge-unbalanced 444, free-lunch none
+    growth glycerol aer/ana 0.5458/0.1839   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== MYb176
+    element-unbalanced 4, charge-unbalanced 443, free-lunch none
+    growth glycerol aer/ana 0.5458/0.1839   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== MYb375
+    element-unbalanced 4, charge-unbalanced 512, free-lunch none
+    growth glycerol aer/ana 0.5639/0.1954   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== MYb416
+    element-unbalanced 3, charge-unbalanced 468, free-lunch none
+    growth glycerol aer/ana 0.5639/0.0886   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.8148
+=== MYb535
+    element-unbalanced 2, charge-unbalanced 427, free-lunch none
+    growth glycerol aer/ana 0.5714/0.1848   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/1.0
+=== P1_A10
+    element-unbalanced 4, charge-unbalanced 499, free-lunch none
+    growth glycerol aer/ana 0.5546/0.2139   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_A12
+    element-unbalanced 5, charge-unbalanced 458, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_A2
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_A7
+    element-unbalanced 2, charge-unbalanced 405, free-lunch none
+    growth glycerol aer/ana 0.5472/0.3775   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_B11
+    element-unbalanced 3, charge-unbalanced 376, free-lunch none
+    growth glycerol aer/ana 0.1287/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha
+    max lactate_L per glycerol aer/ana: 1.0/0.125
+=== P1_B12
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_B3
+    element-unbalanced 2, charge-unbalanced 410, free-lunch none
+    growth glycerol aer/ana 0.1170/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.3333
+=== P1_B6
+    element-unbalanced 5, charge-unbalanced 455, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_B7
+    element-unbalanced 5, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_C1
+    element-unbalanced 2, charge-unbalanced 389, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_C10
+    element-unbalanced 4, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5655/0.2108   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_C12
+    element-unbalanced 5, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_D1
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_D10
+    element-unbalanced 5, charge-unbalanced 461, free-lunch none
+    growth glycerol aer/ana 0.5532/0.1860   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_D11
+    element-unbalanced 4, charge-unbalanced 461, free-lunch none
+    growth glycerol aer/ana 0.5608/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_D9
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_F1
+    element-unbalanced 2, charge-unbalanced 378, free-lunch none
+    growth glycerol aer/ana 0.5212/0.1704   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_F2
+    element-unbalanced 5, charge-unbalanced 462, free-lunch none
+    growth glycerol aer/ana 0.5491/0.2139   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_G12
+    element-unbalanced 3, charge-unbalanced 470, free-lunch none
+    growth glycerol aer/ana 0.5541/0.1864   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_G3
+    element-unbalanced 4, charge-unbalanced 479, free-lunch none
+    growth glycerol aer/ana 0.5528/0.1852   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/1.0
+=== P1_G9
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_H11
+    element-unbalanced 5, charge-unbalanced 456, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_H7
+    element-unbalanced 5, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5491/0.2223   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P1_H8
+    element-unbalanced 5, charge-unbalanced 468, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_A1
+    element-unbalanced 6, charge-unbalanced 461, free-lunch none
+    growth glycerol aer/ana 0.7031/0.2139   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_A11
+    element-unbalanced 5, charge-unbalanced 432, free-lunch none
+    growth glycerol aer/ana 0.3809/0.0796   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_A3
+    element-unbalanced 5, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5491/0.2223   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_A4
+    element-unbalanced 4, charge-unbalanced 460, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_A5
+    element-unbalanced 2, charge-unbalanced 320, free-lunch none
+    growth glycerol aer/ana 0.1890/0.0389   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, etoh, pyr, for, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.05
+=== P2_C2
+    element-unbalanced 4, charge-unbalanced 477, free-lunch none
+    growth glycerol aer/ana 0.1195/0.0772   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.4
+=== P2_C4
+    element-unbalanced 2, charge-unbalanced 396, free-lunch none
+    growth glycerol aer/ana 0.5491/0.2053   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_D12
+    element-unbalanced 5, charge-unbalanced 463, free-lunch none
+    growth glycerol aer/ana 0.5641/0.1954   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_D4
+    element-unbalanced 5, charge-unbalanced 457, free-lunch none
+    growth glycerol aer/ana 0.5491/0.2223   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_D5
+    element-unbalanced 4, charge-unbalanced 460, free-lunch none
+    growth glycerol aer/ana 0.5608/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_E7
+    element-unbalanced 4, charge-unbalanced 450, free-lunch none
+    growth glycerol aer/ana 0.6041/0.1252   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: none
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_E9
+    element-unbalanced 1, charge-unbalanced 360, free-lunch none
+    growth glycerol aer/ana 0.0000/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, etoh, for, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_F11
+    element-unbalanced 2, charge-unbalanced 389, free-lunch none
+    growth glycerol aer/ana 0.5549/0.1871   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_F2
+    element-unbalanced 2, charge-unbalanced 451, free-lunch none
+    growth glycerol aer/ana 0.5625/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: none
+    max lactate_L per glycerol aer/ana: 1.0/1.0
+=== P2_G7
+    element-unbalanced 5, charge-unbalanced 468, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_G8
+    element-unbalanced 4, charge-unbalanced 474, free-lunch none
+    growth glycerol aer/ana 0.4027/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P2_G9
+    element-unbalanced 5, charge-unbalanced 442, free-lunch none
+    growth glycerol aer/ana 0.5514/0.1847   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_A11
+    element-unbalanced 4, charge-unbalanced 460, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_A8
+    element-unbalanced 5, charge-unbalanced 503, free-lunch none
+    growth glycerol aer/ana 0.1810/0.0545   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha
+    max lactate_L per glycerol aer/ana: 1.0/0.3333
+=== P3_B12
+    element-unbalanced 4, charge-unbalanced 267, free-lunch none
+    growth glycerol aer/ana 0.1785/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__L, lac__D, dha, etoh, succ, pyr, 13ppd
+    max lactate_L per glycerol aer/ana: nan/nan
+=== P3_B3
+    element-unbalanced 5, charge-unbalanced 468, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_C11
+    element-unbalanced 3, charge-unbalanced 400, free-lunch none
+    growth glycerol aer/ana 0.1274/0.0323   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.5
+=== P3_E10
+    element-unbalanced 4, charge-unbalanced 526, free-lunch none
+    growth glycerol aer/ana 0.5619/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_E8
+    element-unbalanced 4, charge-unbalanced 526, free-lunch none
+    growth glycerol aer/ana 0.5619/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_F11
+    element-unbalanced 1, charge-unbalanced 232, free-lunch none
+    growth glycerol aer/ana 0.1201/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.0
+=== P3_F8
+    element-unbalanced 4, charge-unbalanced 437, free-lunch none
+    growth glycerol aer/ana 0.5660/0.1971   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_G1
+    element-unbalanced 4, charge-unbalanced 460, free-lunch none
+    growth glycerol aer/ana 0.5491/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_G12
+    element-unbalanced 2, charge-unbalanced 526, free-lunch none
+    growth glycerol aer/ana 0.2108/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, etoh, 13ppd
+    max lactate_L per glycerol aer/ana: 0.6667/0.25
+=== P3_G8
+    element-unbalanced 4, charge-unbalanced 555, free-lunch none
+    growth glycerol aer/ana 0.2170/0.0606   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: lac__D, dha, etoh, for, 13ppd
+    max lactate_L per glycerol aer/ana: 1.0/0.1694
+=== P3_G9
+    element-unbalanced 4, charge-unbalanced 424, free-lunch none
+    growth glycerol aer/ana 0.0000/0.0000   no-carbon aer 0.0000
+    missing carbon-source exchanges: EX_dha_e
+    absent product exchanges: dha, succ, 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+=== P3_H5
+    element-unbalanced 5, charge-unbalanced 458, free-lunch none
+    growth glycerol aer/ana 0.5484/0.1868   no-carbon aer 0.0000
+    missing carbon-source exchanges: none
+    absent product exchanges: 13ppd
+    max lactate_L per glycerol aer/ana: 0.0/0.0
+
+wrote results/d_guild/model_gate.tsv

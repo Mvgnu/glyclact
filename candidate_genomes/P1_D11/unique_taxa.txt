@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Burkholderiales|Enterobacterales
+Enterobacteriaceae
+Cedecea|Citrobacter|Leclercia|Pantoea|Raoultella

@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Succinivibrionaceae
+Arsenophonus|Enterobacter|Succinivibrio

@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales|Pseudomonadales
+Enterobacteriaceae|Pseudomonadaceae|Succinivibrionaceae
+Buttiauxella|Enterobacter|Leclercia|Pseudomonas|Succinivibrio

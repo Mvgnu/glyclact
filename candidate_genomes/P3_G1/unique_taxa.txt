@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria
+Bacilli|Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae
+Leclercia|Lelliottia

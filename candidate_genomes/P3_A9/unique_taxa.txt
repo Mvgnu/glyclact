@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Paenibacillales|Staphylococcales
+Paenibacillaceae|Staphylococcaceae
+Paenibacillus|Staphylococcus

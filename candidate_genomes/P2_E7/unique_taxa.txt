@@ -1,0 +1,6 @@
+Bacteria
+Bacteroidota|Firmicutes|Proteobacteria
+Bacteroidia|Gammaproteobacteria
+Cytophagales|Enterobacterales|Flavobacteriales
+Enterobacteriaceae|Flavobacteriaceae|Weeksellaceae
+Chryseobacterium|Citrobacter|Klebsiella

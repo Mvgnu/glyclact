@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Vibrionaceae
+Ewingella|Vibrio|Xenorhabdus

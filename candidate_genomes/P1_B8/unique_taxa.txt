@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria
+Bacilli|Gammaproteobacteria
+Aneurinibacillales|Bacillales|Pseudomonadales
+Aneurinibacillaceae|Bacillaceae|Pseudomonadaceae
+Aneurinibacillus|Pseudomonas

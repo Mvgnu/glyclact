@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Firmicutes|Proteobacteria
+Actinomycetia|Bacilli|Gammaproteobacteria
+Bacillales|Lactobacillales|Mycobacteriales|Paenibacillales|Pseudomonadales
+Bacillaceae|Lactobacillaceae|Mycobacteriaceae|Paenibacillaceae|Saccharospirillaceae
+Bacillus|Gynuella|Lapidilactobacillus|Rhodococcus

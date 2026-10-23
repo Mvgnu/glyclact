@@ -1,0 +1,7 @@
+  P1_A10: drive path unavailable, using the local panel copy
+1 assemblies across genera: Raoultella
+  Raoultella: could not resolve to a bacterial genus tax id; skipping
+
+P1_A10   Raoultella       ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+
+wrote results/d_guild/strain_identity.tsv

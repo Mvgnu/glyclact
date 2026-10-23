@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+P2_A5~AIJAFFKC_00690  -          LarA_C               PF21113.3    5.4e-69  237.3   0.1     1e-68  236.5   0.1   1.5   1   0   0   1   1   1   1 -
+P3_G10~NIGKGLAM_01610 -          LarA_C               PF21113.3    1.2e-57  200.5   1.0   2.3e-57  199.6   1.0   1.4   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      references/ldh_panel/PF21113.hmm
+# Target file:     /private/tmp/claude-501/-Users-magnusohle-cursorprojects-ratzke-glycerol-lactate-community/a905f62c-f749-445f-a11e-9a64601ca61e/scratchpad/ldh_work/all_proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout /private/tmp/claude-501/-Users-magnusohle-cursorprojects-ratzke-glycerol-lactate-community/a905f62c-f749-445f-a11e-9a64601ca61e/scratchpad/ldh_work/larA_PF21113.tbl -E 1e-5 --cpu 4 references/ldh_panel/PF21113.hmm /private/tmp/claude-501/-Users-magnusohle-cursorprojects-ratzke-glycerol-lactate-community/a905f62c-f749-445f-a11e-9a64601ca61e/scratchpad/ldh_work/all_proteins.faa 
+# Current dir:     /Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community
+# Date:            Mon Aug  3 13:51:49 2026
+# [ok]

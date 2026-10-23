@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Proteobacteria
+Actinomycetia|Gammaproteobacteria
+Actinomycetales|Enterobacterales|Mycobacteriales
+Enterobacteriaceae|Microbacteriaceae|Micrococcaceae|Mycobacteriaceae
+Citrobacter|Klebsiella|Leucobacter|Rhodococcus

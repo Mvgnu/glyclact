@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota
+Actinomycetia
+Actinomycetales|Mycobacteriales
+Cellulomonadaceae|Micromonosporaceae
+Cellulomonas|Cellulosimicrobium|Isoptericola|Micromonospora|Oerskovia|Sanguibacter

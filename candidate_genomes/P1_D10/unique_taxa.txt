@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria
+Alphaproteobacteria|Bacilli|Gammaproteobacteria
+Acetobacterales|Bacillales|Burkholderiales|Enterobacterales|Pseudomonadales|UBA6729
+Acetobacteraceae|Bacillaceae|Cellvibrionaceae|Enterobacteriaceae|Pseudomonadaceae|Succinivibrionaceae|UBA6729|Vibrionaceae
+Arsenophonus|Atlantibacter|Buttiauxella|Citrobacter|Enterobacter|Enterovibrio|Erwinia|Escherichia|Kluyvera|Komagataeibacter|Kosakonia|Leclercia|Lelliottia|LSJC7|Mixta|Phytobacter|Pseudomonas|Raoultella|Regiella|Sodalis|Succinivibrio|Trabulsiella|UBA5868|UBA6729|Vibrio|Yersinia

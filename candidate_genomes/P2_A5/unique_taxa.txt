@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Spirochaetota
+Bacilli|Spirochaetia
+Lactobacillales|Staphylococcales
+Lactobacillaceae|Salinicoccaceae
+Lactiplantibacillus|Salinicoccus

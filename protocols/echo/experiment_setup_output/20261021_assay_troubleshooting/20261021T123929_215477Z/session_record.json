@@ -1,0 +1,52 @@
+{
+  "run": "20261021",
+  "status": "planned; not evidence of execution",
+  "assembly_datetime": null,
+  "actual_incubation_duration_h": null,
+  "planned_incubation_duration_h": 48,
+  "incubation_temperature_C": null,
+  "shaking": null,
+  "seal_product": null,
+  "seal_gas_permeability": null,
+  "seal_changed_from_previous_run": null,
+  "culture_medium_batch": null,
+  "strain_stock_ids": {
+    "41": null,
+    "200": null,
+    "196": null
+  },
+  "strain_196_origin": "original stock (user confirmed)",
+  "od_reading_dilution_factor": 10,
+  "echo_report_path": null,
+  "echo_warnings": null,
+  "source_plate_name": "396",
+  "source_load_uL_per_well": 50,
+  "source_diluent": "screen medium without glycerol",
+  "endpoint_od_file": null,
+  "lactate_stock_id": null,
+  "standard_prepared_at": null,
+  "standard_concentrations_mM_before_reagents": [
+    0,
+    3,
+    6,
+    12
+  ],
+  "standard_matrices": [
+    "water",
+    "full-strength fresh crude-glycerol screen medium"
+  ],
+  "spike_stock_mM": 12,
+  "spike_stock_matrix": "full-strength fresh crude-glycerol screen medium",
+  "spike_added_mM_before_reagents": 3,
+  "spike_added_mM_final": 1,
+  "sample_preparation": "5 uL supernatant + 10 uL fresh crude-glycerol screen medium",
+  "spike_preparation": "5 uL supernatant + 3.75 uL 12mM medium stock + 6.25 uL matched medium blank",
+  "assay_mix_prepared_at": null,
+  "assay_reaction_duration_min_planned": 60,
+  "assay_timing_file": "assay_timing_blocks.csv",
+  "assay_reader_files": [],
+  "actual_spike_recipe": null,
+  "pH_check_method": null,
+  "pH_aliquot_volume_budget_confirmed": null,
+  "viaflo_active_tip_pattern_and_offset_clearance_checked": null
+}

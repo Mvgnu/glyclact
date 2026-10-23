@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Bacteroidota
+Actinomycetia|Bacteroidia
+Flavobacteriales|Mycobacteriales
+Flavobacteriaceae|Mycobacteriaceae|Weeksellaceae
+Chishuiella|Rhodococcus

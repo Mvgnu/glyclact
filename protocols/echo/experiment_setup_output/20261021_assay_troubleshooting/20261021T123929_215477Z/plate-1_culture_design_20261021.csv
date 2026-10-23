@@ -1,0 +1,31 @@
+sample_id,condition_id,members,community_size,culture_replicate,culture_well,condition_role,run_label,acquisition_strategy,training_eligible,media_prefill_uL,strain_196_stock
+20261021_M06_R1,M06,41,1,1,B2,monoculture,20261021,none,False,50.0,
+20261021_M09_R1,M09,200,1,1,B3,monoculture,20261021,none,False,50.0,
+20261021_M10_R1,M10,196,1,1,B4,monoculture,20261021,none,False,50.0,original stock
+20261021_C01_R1,C01,41|200|196,3,1,B5,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_BLANK_R1,BLANK,,0,1,B6,medium_control,20261021,none,False,50.0,
+20261021_M09_R2,M09,200,1,2,D2,monoculture,20261021,none,False,50.0,
+20261021_M10_R2,M10,196,1,2,D3,monoculture,20261021,none,False,50.0,original stock
+20261021_C01_R2,C01,41|200|196,3,2,D4,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_BLANK_R2,BLANK,,0,2,D5,medium_control,20261021,none,False,50.0,
+20261021_M06_R2,M06,41,1,2,D6,monoculture,20261021,none,False,50.0,
+20261021_M10_R3,M10,196,1,3,F2,monoculture,20261021,none,False,50.0,original stock
+20261021_C01_R3,C01,41|200|196,3,3,F3,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_BLANK_R3,BLANK,,0,3,F4,medium_control,20261021,none,False,50.0,
+20261021_M06_R3,M06,41,1,3,F5,monoculture,20261021,none,False,50.0,
+20261021_M09_R3,M09,200,1,3,F6,monoculture,20261021,none,False,50.0,
+20261021_C01_R4,C01,41|200|196,3,4,H2,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_BLANK_R4,BLANK,,0,4,H3,medium_control,20261021,none,False,50.0,
+20261021_M06_R4,M06,41,1,4,H4,monoculture,20261021,none,False,50.0,
+20261021_M09_R4,M09,200,1,4,H5,monoculture,20261021,none,False,50.0,
+20261021_M10_R4,M10,196,1,4,H6,monoculture,20261021,none,False,50.0,original stock
+20261021_BLANK_R5,BLANK,,0,5,J2,medium_control,20261021,none,False,50.0,
+20261021_M06_R5,M06,41,1,5,J3,monoculture,20261021,none,False,50.0,
+20261021_M09_R5,M09,200,1,5,J4,monoculture,20261021,none,False,50.0,
+20261021_M10_R5,M10,196,1,5,J5,monoculture,20261021,none,False,50.0,original stock
+20261021_C01_R5,C01,41|200|196,3,5,J6,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_M06_R6,M06,41,1,6,L2,monoculture,20261021,none,False,50.0,
+20261021_M09_R6,M09,200,1,6,L3,monoculture,20261021,none,False,50.0,
+20261021_M10_R6,M10,196,1,6,L4,monoculture,20261021,none,False,50.0,original stock
+20261021_C01_R6,C01,41|200|196,3,6,L5,candidate_repeat,20261021,none,False,50.0,original stock
+20261021_BLANK_R6,BLANK,,0,6,L6,medium_control,20261021,none,False,50.0,

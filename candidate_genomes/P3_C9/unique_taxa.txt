@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Alphaproteobacteria
+Acetobacterales|Sphingomonadales
+Acetobacteraceae|Sphingomonadaceae
+Acetobacter|Gluconobacter|Sphingomonas

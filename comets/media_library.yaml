@@ -1,0 +1,122 @@
+# Media for the glycerol -> lactate community landscape.
+#
+# Two deliberate departures from pipeline/comets_simulation/media_library.yaml:
+#
+# 1. **No nitrate.** Ammonium supplies nitrogen; nitrate doubles as a respiratory electron
+#    acceptor and lets a model respire its way around any oxygen limitation, which made
+#    every earlier oxygen conclusion meaningless (OVERFLOW_TRIGGERS.md).
+# 2. **No free protons.** The generic library opens h_e at 1000. These reconstructions carry
+#    232-555 charge-unbalanced reactions each, and unbounded H+ *uptake* lets that
+#    imbalance act as a free electron source: it inflated growth ~20% for the
+#    Enterobacteriaceae members and pinned six models at an identical, artificial mu of
+#    0.7031. Since this design is about **community composition**, a 20% growth artifact in
+#    one clade would distort exactly the thing being measured.
+#
+# Oxygen is static: a shaken flask replenishes it continuously, so it should not deplete.
+# Note this makes every run fully aerobic and therefore cannot show the microaerobic
+# optimum at O2/glycerol ~= 0.5 -- that lever lives in per-model uptake Vmax, not in the
+# medium, and is left for a follow-up.
+
+background_medium:
+  water_charge:
+    h2o_e: 1000.0
+    co2_e: 1000.0
+  salts:
+    ca2_e: 1000.0
+    cl_e: 1000.0
+    k_e: 1000.0
+    mg2_e: 1000.0
+    na1_e: 1000.0
+  trace_metals:
+    cobalt2_e: 1000.0
+    cu2_e: 1000.0
+    fe2_e: 1000.0
+    fe3_e: 1000.0
+    mn2_e: 1000.0
+    mobd_e: 1000.0
+    ni2_e: 1000.0
+    sel_e: 1000.0
+    slnt_e: 1000.0
+    tungs_e: 1000.0
+    zn2_e: 1000.0
+
+media_definitions:
+  # Baseline: glycerol minimal. 20 mmol glycerol = 60 mmol carbon.
+  glycerol_minimal:
+    carbon: {glyc_e: 20.0}
+    nitrogen: {nh4_e: 18.7}
+    phosphate: {pi_e: 100.0}
+    sulfate: {so4_e: 100.0}
+    oxygen: {o2_e: 100.0}
+
+  # Glucose co-feed at ~5% of glycerol carbon: 60 mmol C x 0.05 = 3 mmol C = 0.5 mmol
+  # glucose. Small on purpose -- the hypothesis (H3) is that it acts as an FBP signal to
+  # activate LDH and as a repressor of pyruvate oxidase, not as a carbon source. Note FBA
+  # cannot represent either mechanism, so in simulation this is only a small carbon
+  # addition; the medium arm exists so the bench comparison has a matching in-silico arm.
+  glycerol_glucose:
+    carbon: {glyc_e: 20.0, glc__D_e: 0.5}
+    nitrogen: {nh4_e: 18.7}
+    phosphate: {pi_e: 100.0}
+    sulfate: {so4_e: 100.0}
+    oxygen: {o2_e: 100.0}
+
+  # Yeast extract stand-in: 20 amino acids at a trace 0.5 mmol each, which is the form the
+  # provisioning hypothesis (H5) actually predicts -- precursors, not bulk carbon. Capped
+  # low deliberately: at 1000 the models eat amino acids as the carbon source and growth
+  # reads an order of magnitude high, which measures nothing about supplementation.
+  glycerol_yeast_extract:
+    carbon: {glyc_e: 20.0}
+    nitrogen: {nh4_e: 18.7}
+    phosphate: {pi_e: 100.0}
+    sulfate: {so4_e: 100.0}
+    oxygen: {o2_e: 100.0}
+    amino_acids:
+      ala__L_e: 0.5
+      arg__L_e: 0.5
+      asn__L_e: 0.5
+      asp__L_e: 0.5
+      cys__L_e: 0.5
+      gln__L_e: 0.5
+      glu__L_e: 0.5
+      gly_e: 0.5
+      his__L_e: 0.5
+      ile__L_e: 0.5
+      leu__L_e: 0.5
+      lys__L_e: 0.5
+      met__L_e: 0.5
+      phe__L_e: 0.5
+      pro__L_e: 0.5
+      ser__L_e: 0.5
+      thr__L_e: 0.5
+      trp__L_e: 0.5
+      tyr__L_e: 0.5
+      val__L_e: 0.5
+
+  glycerol_glucose_yeast_extract:
+    carbon: {glyc_e: 20.0, glc__D_e: 0.5}
+    nitrogen: {nh4_e: 18.7}
+    phosphate: {pi_e: 100.0}
+    sulfate: {so4_e: 100.0}
+    oxygen: {o2_e: 100.0}
+    amino_acids:
+      ala__L_e: 0.5
+      arg__L_e: 0.5
+      asn__L_e: 0.5
+      asp__L_e: 0.5
+      cys__L_e: 0.5
+      gln__L_e: 0.5
+      glu__L_e: 0.5
+      gly_e: 0.5
+      his__L_e: 0.5
+      ile__L_e: 0.5
+      leu__L_e: 0.5
+      lys__L_e: 0.5
+      met__L_e: 0.5
+      phe__L_e: 0.5
+      pro__L_e: 0.5
+      ser__L_e: 0.5
+      thr__L_e: 0.5
+      trp__L_e: 0.5
+      tyr__L_e: 0.5
+      val__L_e: 0.5

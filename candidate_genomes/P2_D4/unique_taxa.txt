@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Proteobacteria
+Actinomycetia|Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Succinivibrionaceae
+Enterobacter|Succinivibrio

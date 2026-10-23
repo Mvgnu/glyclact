@@ -1,0 +1,10 @@
+run_label,plate,path,planned_transfers,reported_transfers,zero_transfers,complete_match
+20260828,1,max_diversity,1971,1971,0,True
+20260902,1,bayesian_ei,1800,1800,150,True
+20260902,3,bayesian_posterior_mean,1626,1626,546,True
+20260902,2,max_diversity,1704,1704,196,True
+20260902,4,random,1905,1905,1414,True
+20260909,1,bayesian_ei,1692,1692,0,True
+20260909,2,max_diversity,1884,1884,71,True
+20260909,3,bayesian_posterior_mean,1677,1677,966,True
+20260909,4,random,1791,1791,1142,True

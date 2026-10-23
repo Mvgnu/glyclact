@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Succinivibrionaceae
+Citrobacter|Erwinia|Leclercia|Succinivibrio

@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Vibrionaceae
+Enterobacter|Leclercia|Lelliottia|Mixta|Vibrio|Xenorhabdus

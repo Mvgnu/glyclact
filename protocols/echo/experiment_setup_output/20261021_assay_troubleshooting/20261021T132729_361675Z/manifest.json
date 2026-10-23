@@ -1,0 +1,59 @@
+{
+  "run": "20261021",
+  "purpose": "assay_troubleshooting",
+  "od_readings": {
+    "41": 0.77,
+    "200": 0.25,
+    "196": 0.1
+  },
+  "layout": "5 conditions cyclically rotated across columns 2-6; rows B/D/F/H/J/L",
+  "source_wells": {
+    "41": "A1",
+    "200": "A2",
+    "196": "A3"
+  },
+  "condition_members": {
+    "M06": "41",
+    "M09": "200",
+    "M10": "196",
+    "C01": "41|200|196",
+    "BLANK": ""
+  },
+  "culture_wells": 30,
+  "inoculated_wells": 24,
+  "medium_controls": 6,
+  "assay_wells": 104,
+  "status": "Echo ready; inspect the source survey and save the execution report.",
+  "echo_ready": true,
+  "models_fitted": false,
+  "updates_acquisition_done": false,
+  "training_eligible": false,
+  "target_member_OD600_uL": 0.1,
+  "target_working_OD600": 1.2,
+  "droplet_nL": 25,
+  "source_dead_volume_allowance_uL": 15,
+  "stock_origin": {
+    "41": "record stock ID",
+    "200": "record stock ID",
+    "196": "original stock; replacement for poorly growing personal stock"
+  },
+  "files": {
+    "RUNBOOK_20260923_analytical.md": "d41220051f4a22b1bfea4de2a57339ca500c70a9abb699ff15ac703a4938debb",
+    "adaptive_run.py": "4bd4ac7b8097f2ac0e737cb22661b0ddbe06c2670793349d6c850d98d9101adb",
+    "analytical_round_20260923.py": "349407412e52034ed0a282cd2ee729a3fc46a85c7eb18eb22f2202530d53fd16",
+    "analytical_round_20261021.py": "ccbb9e6717d8e5f88394cae44840e0c0376453c12cd032d70f37ec3a61994f64",
+    "assay_timing_blocks.csv": "13d776a3940bc00d140c5cc4b6ff3ce3089b2d78d2111aa6757f9e98118d00b6",
+    "pH_checks_separate_aliquots.csv": "68aa481c11d186e22e91aa1e2aa7641feb9dece3f915e60dec812c9e51ca7afd",
+    "plate-1_assay_design_20261021.csv": "fded6c36336dda853e4e62bc530ea418e5cfdcf5adf35f3a7dd4c69024297779",
+    "plate-1_assay_readings.csv": "cc21e0afa19eb6c865c83ff06545375d92e3d5de00a982e12f9a849a434d1304",
+    "plate-1_culture_design_20261021.csv": "88cc49e1876c160c399b915b1c7602b6920ac58ebcb871517c767c63ab9fdbf3",
+    "plate-1_echo_picklist_20261021_diagnostic.csv": "8c13301e906aa694ff3e8108d191ab4f528d4576a9ab41403300f344860dee47",
+    "plate-1_endpoint_OD600_and_harvest.csv": "17389cda17c712ae921e0a0ad8da294fcd1837dfa7403c96fa2d21a7d450665b",
+    "plate-1_sample_budget_20261021.csv": "253592110c767033f7c07751478aeb5bd7d6ef8595f9d3bd17fb95ec7896ee9e",
+    "plate-1_source_demand_20261021.csv": "7ce9d62f24a724399814ed7f027c932d793094a91e468b28691e167805d946f5",
+    "plate-1_source_plan_20261021.csv": "dc44a4401022d85004cbfa5f742f9b2dc7777c321d60fa0ee10782e3565ba2ca",
+    "plate-1_transfer_audit_20261021.csv": "5980a9779122a0b9b744106e71366b99ec84fb318fe8e09e52dd9e92264156f1",
+    "plate-1_well_audit_20261021.csv": "91c4d8e61e6db6f6d53e6fc921fa1eda33b44797061450ac761d6e6bfb192c43",
+    "session_record.json": "105dfde406f65b820b4330cb4f63e3b5097491fde845e0a20b7b0563d80e542c"
+  }
+}

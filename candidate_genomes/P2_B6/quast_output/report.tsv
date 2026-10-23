@@ -1,0 +1,23 @@
+Assembly	pilon_final
+# contigs (>= 0 bp)	20
+# contigs (>= 1000 bp)	19
+# contigs (>= 5000 bp)	15
+# contigs (>= 10000 bp)	15
+# contigs (>= 25000 bp)	15
+# contigs (>= 50000 bp)	14
+Total length (>= 0 bp)	3996214
+Total length (>= 1000 bp)	3995435
+Total length (>= 5000 bp)	3989496
+Total length (>= 10000 bp)	3989496
+Total length (>= 25000 bp)	3989496
+Total length (>= 50000 bp)	3945355
+# contigs	20
+Largest contig	733631
+Total length	3996214
+GC (%)	69.41
+N50	624444
+N90	98687
+auN	462400.4
+L50	3
+L90	11
+# N's per 100 kbp	0.00

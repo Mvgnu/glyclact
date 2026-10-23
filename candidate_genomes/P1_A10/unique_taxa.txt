@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria|Spirochaetota
+Gammaproteobacteria|Spirochaetia
+Enterobacterales|Treponematales
+Enterobacteriaceae|UBA8932
+Klebsiella|Leclercia|LSJC7|Mixta|Raoultella|UBA8932

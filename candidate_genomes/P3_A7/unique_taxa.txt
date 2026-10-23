@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria
+Bacilli|Gammaproteobacteria
+Bacillales|Lactobacillales|Pseudomonadales
+Bacillaceae|Lactobacillaceae|Moraxellaceae|Streptococcaceae
+Bacillus|Fructobacillus|Lactococcus|Psychrobacter

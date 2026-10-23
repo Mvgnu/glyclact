@@ -1,0 +1,109 @@
+  MYb121: drive path unavailable, using the local panel copy
+  MYb375: drive path unavailable, using the local panel copy
+  MYb416: drive path unavailable, using the local panel copy
+  MYb535: drive path unavailable, using the local panel copy
+  BIGb0393: drive path unavailable, using the local panel copy
+5 assemblies across genera: none
+  MYb121: no MEGAN taxonomy; searching fallback family Enterobacterales (91347)
+  Enterobacterales: curated reference set covers 568 species
+  Enterobacterales: searching all 568 species, unfiltered and uncapped
+  Enterobacterales: searched 40/568
+  Enterobacterales: searched 80/568
+  Enterobacterales: searched 120/568
+  Enterobacterales: searched 160/568
+  Enterobacterales: searched 200/568
+  Enterobacterales: searched 240/568
+  Enterobacterales: searched 280/568
+  Enterobacterales: searched 320/568
+  Enterobacterales: searched 360/568
+  Enterobacterales: searched 400/568
+  Enterobacterales: searched 440/568
+  Enterobacterales: searched 480/568
+  Enterobacterales: searched 520/568
+  Enterobacterales: searched 560/568
+  Enterobacterales: searched 568/568
+  MYb375: no MEGAN taxonomy; searching fallback family Enterobacterales (91347)
+  Enterobacterales: curated reference set covers 568 species
+  Enterobacterales: searching all 568 species, unfiltered and uncapped
+  Enterobacterales: searched 40/568
+  Enterobacterales: searched 80/568
+  Enterobacterales: searched 120/568
+  Enterobacterales: searched 160/568
+  Enterobacterales: searched 200/568
+  Enterobacterales: searched 240/568
+  Enterobacterales: searched 280/568
+  Enterobacterales: searched 320/568
+  Enterobacterales: searched 360/568
+  Enterobacterales: searched 400/568
+  Enterobacterales: searched 440/568
+  Enterobacterales: searched 480/568
+  Enterobacterales: searched 520/568
+  Enterobacterales: searched 560/568
+  Enterobacterales: searched 568/568
+  MYb416: no MEGAN taxonomy; searching fallback family Enterobacterales (91347)
+  Enterobacterales: curated reference set covers 568 species
+  Enterobacterales: searching all 568 species, unfiltered and uncapped
+  Enterobacterales: searched 40/568
+  Enterobacterales: searched 80/568
+  Enterobacterales: searched 120/568
+  Enterobacterales: searched 160/568
+  Enterobacterales: searched 200/568
+  Enterobacterales: searched 240/568
+  Enterobacterales: searched 280/568
+  Enterobacterales: searched 320/568
+  Enterobacterales: searched 360/568
+  Enterobacterales: searched 400/568
+  Enterobacterales: searched 440/568
+  Enterobacterales: searched 480/568
+  Enterobacterales: searched 520/568
+  Enterobacterales: searched 560/568
+  Enterobacterales: searched 568/568
+  MYb535: no MEGAN taxonomy; searching fallback family Enterobacterales (91347)
+  Enterobacterales: curated reference set covers 568 species
+  Enterobacterales: searching all 568 species, unfiltered and uncapped
+  Enterobacterales: searched 40/568
+  Enterobacterales: searched 80/568
+  Enterobacterales: searched 120/568
+  Enterobacterales: searched 160/568
+  Enterobacterales: searched 200/568
+  Enterobacterales: searched 240/568
+  Enterobacterales: searched 280/568
+  Enterobacterales: searched 320/568
+  Enterobacterales: searched 360/568
+  Enterobacterales: searched 400/568
+  Enterobacterales: searched 440/568
+  Enterobacterales: searched 480/568
+  Enterobacterales: searched 520/568
+  Enterobacterales: searched 560/568
+  Enterobacterales: searched 568/568
+  BIGb0393: no MEGAN taxonomy; searching fallback family Enterobacterales (91347)
+  Enterobacterales: curated reference set covers 568 species
+  Enterobacterales: searching all 568 species, unfiltered and uncapped
+  Enterobacterales: searched 40/568
+  Enterobacterales: searched 80/568
+  Enterobacterales: searched 120/568
+  Enterobacterales: searched 160/568
+  Enterobacterales: searched 200/568
+  Enterobacterales: searched 240/568
+  Enterobacterales: searched 280/568
+  Enterobacterales: searched 320/568
+  Enterobacterales: searched 360/568
+  Enterobacterales: searched 400/568
+  Enterobacterales: searched 440/568
+  Enterobacterales: searched 480/568
+  Enterobacterales: searched 520/568
+  Enterobacterales: searched 560/568
+  Enterobacterales: searched 568/568
+
+MYb121                    -> Erwinia billingiae                 ANI   97.682  aln  0.9253  [species_match] via fallback-family:Enterobacterales
+         next best: Erwinia typographi at 84.217%
+MYb375                    -> Erwinia rhapontici                 ANI   96.584  aln  0.9194  [species_match] via fallback-family:Enterobacterales
+         next best: Erwinia sorbitola at 85.687%
+MYb416                    -> Erwinia rhapontici                 ANI   98.551  aln   0.892  [species_match] via fallback-family:Enterobacterales
+         next best: Erwinia sorbitola at 85.634%
+MYb535                    -> Erwinia rhapontici                 ANI   96.487  aln   0.908  [species_match] via fallback-family:Enterobacterales
+         next best: Erwinia sorbitola at 85.655%
+BIGb0393                  -> Pantoea nemavictus                 ANI    100.0  aln  0.9994  [strain_level_match] via fallback-family:Enterobacterales
+         next best: Pantoea trifolii at 89.299%
+
+wrote results/d_guild/strain_identity.tsv

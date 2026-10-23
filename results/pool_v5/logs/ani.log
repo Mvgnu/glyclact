@@ -1,0 +1,189 @@
+36 assemblies across genera: Aneurinibacillus, Bacillaceae, Bacillus, Buttiauxella, Fictibacillus, Lactococcus, Microbacterium, Oerskovia, Paenibacillus, Pseudomonas, Raoultella, Rhodococcus, Ureibacillus
+  Aneurinibacillus: tax id 55079
+  Bacillaceae: could not resolve to a bacterial genus tax id; skipping
+  Bacillus: tax id 1386
+  Buttiauxella: tax id 82976
+  Fictibacillus: tax id 1329200
+  Lactococcus: tax id 1357
+  Microbacterium: tax id 33882
+  Oerskovia: tax id 162491
+  Paenibacillus: tax id 44249
+  Pseudomonas: tax id 286
+  Raoultella: could not resolve to a bacterial genus tax id; skipping
+  Rhodococcus: tax id 1827
+  Ureibacillus: tax id 160795
+  Bacillus: curated reference set covers 132 species
+  Bacillus: searching all 132 species, unfiltered and uncapped
+  Bacillus: searched 40/132
+  Bacillus: searched 80/132
+  Bacillus: searched 120/132
+  Bacillus: searched 132/132
+  Bacillus: curated reference set covers 132 species
+  Bacillus: searching all 132 species, unfiltered and uncapped
+  Bacillus: searched 40/132
+  Bacillus: searched 80/132
+  Bacillus: searched 120/132
+  Bacillus: searched 132/132
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_B3: MEGAN's family row says Bacillaceae (99.98%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_B3: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Ureibacillus: curated reference set covers 14 species
+  Ureibacillus: searching all 14 species, unfiltered and uncapped
+  Ureibacillus: searched 14/14
+  P1_B4: MEGAN's family row says Bacillaceae (99.93%), which disagrees with the family of genus Ureibacillus; trying it first
+  P1_B4: no species match in Ureibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_B8: MEGAN's family row says Bacillaceae (99.97%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_B8: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_C6: MEGAN's family row says Bacillaceae (99.98%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_C6: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Pseudomonas: curated reference set covers 392 species
+  Pseudomonas: searching all 392 species, unfiltered and uncapped
+  Pseudomonas: searched 40/392
+  Pseudomonas: searched 80/392
+  Pseudomonas: searched 120/392
+  Pseudomonas: searched 160/392
+  Pseudomonas: searched 200/392
+  Pseudomonas: searched 240/392
+  Pseudomonas: searched 280/392
+  Pseudomonas: searched 320/392
+  Pseudomonas: searched 360/392
+  Pseudomonas: searched 392/392
+  P2_B6: no species match in Pseudomonas; escalating to family Pseudomonadaceae (135621)
+  Pseudomonadaceae: curated reference set covers 480 species
+  Pseudomonadaceae: searching all 480 species, unfiltered and uncapped
+  Pseudomonadaceae: searched 40/480
+  Pseudomonadaceae: searched 80/480
+  Pseudomonadaceae: searched 120/480
+  Pseudomonadaceae: searched 160/480
+  Pseudomonadaceae: searched 200/480
+  Pseudomonadaceae: searched 240/480
+  Pseudomonadaceae: searched 280/480
+  Pseudomonadaceae: searched 320/480
+  Pseudomonadaceae: searched 360/480
+  Pseudomonadaceae: searched 400/480
+  Pseudomonadaceae: searched 440/480
+  Pseudomonadaceae: searched 480/480
+  Microbacterium: curated reference set covers 184 species
+  Microbacterium: searching all 184 species, unfiltered and uncapped
+  Microbacterium: searched 40/184
+  Microbacterium: searched 80/184
+  Microbacterium: searched 120/184
+Traceback (most recent call last):
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 856, in <module>
+    main()
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 772, in main
+    hits = search_references(genus, genus_tax_ids[genus], assembly, options, length, gc)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 577, in search_references
+    hits.extend(best_hits(mapper, metadata, assembly, options.threads))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 601, in best_hits
+    for hit in mapper.query_draft(fasta_contigs(assembly), threads=threads):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pyfastani/_fastani.pyx", line 1087, in pyfastani._fastani.Mapper.query_draft
+  File "pyfastani/_fastani.pyx", line 1117, in pyfastani._fastani.Mapper.query_draft
+  File "pyfastani/_fastani.pyx", line 1019, in pyfastani._fastani.Mapper._query_draft
+  File "pyfastani/_fastani.pyx", line 1020, in pyfastani._fastani.Mapper._query_draft
+  File "/Users/magnusohle/cursorprojects/ratzke/glycerol_lactate_community/identify_strains.py", line 227, in fasta_contigs
+    with path.open("rb") as handle:
+         ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Volumes/T7 Shield/STRAIN_LIBRARY_SEQ_PROCCSSED_DATA/assmebled_and_proccessed_genomes/P2_C10/spades_assembled/pilon.fasta'

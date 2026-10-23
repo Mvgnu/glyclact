@@ -1,0 +1,576 @@
+36 assemblies across genera: Aneurinibacillus, Bacillaceae, Bacillus, Buttiauxella, Fictibacillus, Lactococcus, Microbacterium, Oerskovia, Paenibacillus, Pseudomonas, Raoultella, Rhodococcus, Ureibacillus
+  Aneurinibacillus: tax id 55079
+  Bacillaceae: could not resolve to a bacterial genus tax id; skipping
+  Bacillus: tax id 1386
+  Buttiauxella: tax id 82976
+  Fictibacillus: tax id 1329200
+  Lactococcus: tax id 1357
+  Microbacterium: tax id 33882
+  Oerskovia: tax id 162491
+  Paenibacillus: tax id 44249
+  Pseudomonas: tax id 286
+  Raoultella: could not resolve to a bacterial genus tax id; skipping
+  Rhodococcus: tax id 1827
+  Ureibacillus: tax id 160795
+  Bacillus: curated reference set covers 132 species
+  Bacillus: searching all 132 species, unfiltered and uncapped
+  Bacillus: searched 40/132
+  Bacillus: searched 80/132
+  Bacillus: searched 120/132
+  Bacillus: searched 132/132
+  Bacillus: curated reference set covers 132 species
+  Bacillus: searching all 132 species, unfiltered and uncapped
+  Bacillus: searched 40/132
+  Bacillus: searched 80/132
+  Bacillus: searched 120/132
+  Bacillus: searched 132/132
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_B3: MEGAN's family row says Bacillaceae (99.98%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_B3: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Ureibacillus: curated reference set covers 14 species
+  Ureibacillus: searching all 14 species, unfiltered and uncapped
+  Ureibacillus: searched 14/14
+  P1_B4: MEGAN's family row says Bacillaceae (99.93%), which disagrees with the family of genus Ureibacillus; trying it first
+  P1_B4: no species match in Ureibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_B8: MEGAN's family row says Bacillaceae (99.97%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_B8: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P1_C6: MEGAN's family row says Bacillaceae (99.98%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P1_C6: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Pseudomonas: curated reference set covers 392 species
+  Pseudomonas: searching all 392 species, unfiltered and uncapped
+  Pseudomonas: searched 40/392
+  Pseudomonas: searched 80/392
+  Pseudomonas: searched 120/392
+  Pseudomonas: searched 160/392
+  Pseudomonas: searched 200/392
+  Pseudomonas: searched 240/392
+  Pseudomonas: searched 280/392
+  Pseudomonas: searched 320/392
+  Pseudomonas: searched 360/392
+  Pseudomonas: searched 392/392
+  P2_B6: no species match in Pseudomonas; escalating to family Pseudomonadaceae (135621)
+  Pseudomonadaceae: curated reference set covers 480 species
+  Pseudomonadaceae: searching all 480 species, unfiltered and uncapped
+  Pseudomonadaceae: searched 40/480
+  Pseudomonadaceae: searched 80/480
+  Pseudomonadaceae: searched 120/480
+  Pseudomonadaceae: searched 160/480
+  Pseudomonadaceae: searched 200/480
+  Pseudomonadaceae: searched 240/480
+  Pseudomonadaceae: searched 280/480
+  Pseudomonadaceae: searched 320/480
+  Pseudomonadaceae: searched 360/480
+  Pseudomonadaceae: searched 400/480
+  Pseudomonadaceae: searched 440/480
+  Pseudomonadaceae: searched 480/480
+  Microbacterium: curated reference set covers 184 species
+  Microbacterium: searching all 184 species, unfiltered and uncapped
+  Microbacterium: searched 40/184
+  Microbacterium: searched 80/184
+  Microbacterium: searched 120/184
+  Microbacterium: searched 160/184
+  Microbacterium: searched 184/184
+  P2_C10: no species match in Microbacterium; escalating to family Microbacteriaceae (85023)
+  Microbacteriaceae: curated reference set covers 531 species
+  Microbacteriaceae: searching all 531 species, unfiltered and uncapped
+  Microbacteriaceae: searched 40/531
+  Microbacteriaceae: searched 80/531
+  Microbacteriaceae: searched 120/531
+  Microbacteriaceae: searched 160/531
+  Microbacteriaceae: searched 200/531
+  Microbacteriaceae: searched 240/531
+  Microbacteriaceae: searched 280/531
+  Microbacteriaceae: searched 320/531
+  Microbacteriaceae: searched 360/531
+  Microbacteriaceae: searched 400/531
+  Microbacteriaceae: searched 440/531
+  Microbacteriaceae: searched 480/531
+  Microbacteriaceae: searched 520/531
+  Microbacteriaceae: searched 531/531
+  Oerskovia: curated reference set covers 9 species
+  Oerskovia: searching all 9 species, unfiltered and uncapped
+  Oerskovia: searched 9/9
+  Fictibacillus: curated reference set covers 16 species
+  Fictibacillus: searching all 16 species, unfiltered and uncapped
+  Fictibacillus: searched 16/16
+  P2_D9: MEGAN's family row says Bacillaceae (99.25%), which disagrees with the family of genus Fictibacillus; trying it first
+  P2_D9: no species match in Fictibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  P2_D9: no species match in Fictibacillus; escalating to family Fictibacillaceae (3120697)
+  Fictibacillaceae: curated reference set covers 20 species
+  Fictibacillaceae: searching all 20 species, unfiltered and uncapped
+  Fictibacillaceae: searched 20/20
+  Aneurinibacillus: curated reference set covers 9 species
+  Aneurinibacillus: searching all 9 species, unfiltered and uncapped
+  Aneurinibacillus: searched 9/9
+  P2_F9: MEGAN's family row says Bacillaceae (99.98%), which disagrees with the family of genus Aneurinibacillus; trying it first
+  P2_F9: no species match in Aneurinibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Ureibacillus: curated reference set covers 14 species
+  Ureibacillus: searching all 14 species, unfiltered and uncapped
+  Ureibacillus: searched 14/14
+  P3_B4: MEGAN's family row says Bacillaceae (99.77%), which disagrees with the family of genus Ureibacillus; trying it first
+  P3_B4: no species match in Ureibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Buttiauxella: curated reference set covers 9 species
+  Buttiauxella: searching all 9 species, unfiltered and uncapped
+  Buttiauxella: searched 9/9
+  P3_C10: MEGAN's family row says Bacillaceae (99.89%), which disagrees with the family of genus Buttiauxella; trying it first
+  P3_C10: no species match in Buttiauxella; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Microbacterium: curated reference set covers 184 species
+  Microbacterium: searching all 184 species, unfiltered and uncapped
+  Microbacterium: searched 40/184
+  Microbacterium: searched 80/184
+  Microbacterium: searched 120/184
+  Microbacterium: searched 160/184
+  Microbacterium: searched 184/184
+  P3_C2: no species match in Microbacterium; escalating to family Microbacteriaceae (85023)
+  Microbacteriaceae: curated reference set covers 531 species
+  Microbacteriaceae: searching all 531 species, unfiltered and uncapped
+  Microbacteriaceae: searched 40/531
+  Microbacteriaceae: searched 80/531
+  Microbacteriaceae: searched 120/531
+  Microbacteriaceae: searched 160/531
+  Microbacteriaceae: searched 200/531
+  Microbacteriaceae: searched 240/531
+  Microbacteriaceae: searched 280/531
+  Microbacteriaceae: searched 320/531
+  Microbacteriaceae: searched 360/531
+  Microbacteriaceae: searched 400/531
+  Microbacteriaceae: searched 440/531
+  Microbacteriaceae: searched 480/531
+  Microbacteriaceae: searched 520/531
+  Microbacteriaceae: searched 531/531
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  P3_C4: MEGAN's family row says Bacillaceae (76.01%), which disagrees with the family of genus Paenibacillus; trying it first
+  P3_C4: no species match in Paenibacillus; escalating to family Bacillaceae (186817)
+  Bacillaceae: curated reference set covers 768 species
+  Bacillaceae: searching all 768 species, unfiltered and uncapped
+  Bacillaceae: searched 40/768
+  Bacillaceae: searched 80/768
+  Bacillaceae: searched 120/768
+  Bacillaceae: searched 160/768
+  Bacillaceae: searched 200/768
+  Bacillaceae: searched 240/768
+  Bacillaceae: searched 280/768
+  Bacillaceae: searched 320/768
+  Bacillaceae: searched 360/768
+  Bacillaceae: searched 400/768
+  Bacillaceae: searched 440/768
+  Bacillaceae: searched 480/768
+  Bacillaceae: searched 520/768
+  Bacillaceae: searched 560/768
+  Bacillaceae: searched 600/768
+  Bacillaceae: searched 640/768
+  Bacillaceae: searched 680/768
+  Bacillaceae: searched 720/768
+  Bacillaceae: searched 760/768
+  Bacillaceae: searched 768/768
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  Microbacterium: curated reference set covers 184 species
+  Microbacterium: searching all 184 species, unfiltered and uncapped
+  Microbacterium: searched 40/184
+  Microbacterium: searched 80/184
+  Microbacterium: searched 120/184
+  Microbacterium: searched 160/184
+  Microbacterium: searched 184/184
+  P3_D2: no species match in Microbacterium; escalating to family Microbacteriaceae (85023)
+  Microbacteriaceae: curated reference set covers 531 species
+  Microbacteriaceae: searching all 531 species, unfiltered and uncapped
+  Microbacteriaceae: searched 40/531
+  Microbacteriaceae: searched 80/531
+  Microbacteriaceae: searched 120/531
+  Microbacteriaceae: searched 160/531
+  Microbacteriaceae: searched 200/531
+  Microbacteriaceae: searched 240/531
+  Microbacteriaceae: searched 280/531
+  Microbacteriaceae: searched 320/531
+  Microbacteriaceae: searched 360/531
+  Microbacteriaceae: searched 400/531
+  Microbacteriaceae: searched 440/531
+  Microbacteriaceae: searched 480/531
+  Microbacteriaceae: searched 520/531
+  Microbacteriaceae: searched 531/531
+  Bacillus: curated reference set covers 132 species
+  Bacillus: searching all 132 species, unfiltered and uncapped
+  Bacillus: searched 40/132
+  Bacillus: searched 80/132
+  Bacillus: searched 120/132
+  Bacillus: searched 132/132
+  Microbacterium: curated reference set covers 184 species
+  Microbacterium: searching all 184 species, unfiltered and uncapped
+  Microbacterium: searched 40/184
+  Microbacterium: searched 80/184
+  Microbacterium: searched 120/184
+  Microbacterium: searched 160/184
+  Microbacterium: searched 184/184
+  P3_G6: no species match in Microbacterium; escalating to family Microbacteriaceae (85023)
+  Microbacteriaceae: curated reference set covers 531 species
+  Microbacteriaceae: searching all 531 species, unfiltered and uncapped
+  Microbacteriaceae: searched 40/531
+  Microbacteriaceae: searched 80/531
+  Microbacteriaceae: searched 120/531
+  Microbacteriaceae: searched 160/531
+  Microbacteriaceae: searched 200/531
+  Microbacteriaceae: searched 240/531
+  Microbacteriaceae: searched 280/531
+  Microbacteriaceae: searched 320/531
+  Microbacteriaceae: searched 360/531
+  Microbacteriaceae: searched 400/531
+  Microbacteriaceae: searched 440/531
+  Microbacteriaceae: searched 480/531
+  Microbacteriaceae: searched 520/531
+  Microbacteriaceae: searched 531/531
+  Rhodococcus: curated reference set covers 49 species
+  Rhodococcus: searching all 49 species, unfiltered and uncapped
+  Rhodococcus: searched 40/49
+  Rhodococcus: searched 49/49
+  Paenibacillus: curated reference set covers 329 species
+  Paenibacillus: searching all 329 species, unfiltered and uncapped
+  Paenibacillus: searched 40/329
+  Paenibacillus: searched 80/329
+  Paenibacillus: searched 120/329
+  Paenibacillus: searched 160/329
+  Paenibacillus: searched 200/329
+  Paenibacillus: searched 240/329
+  Paenibacillus: searched 280/329
+  Paenibacillus: searched 320/329
+  Paenibacillus: searched 329/329
+  P3_G9: no species match in Paenibacillus; escalating to family Paenibacillaceae (186822)
+  Paenibacillaceae: curated reference set covers 436 species
+  Paenibacillaceae: searching all 436 species, unfiltered and uncapped
+  Paenibacillaceae: searched 40/436
+  Paenibacillaceae: searched 80/436
+  Paenibacillaceae: searched 120/436
+  Paenibacillaceae: searched 160/436
+  Paenibacillaceae: searched 200/436
+  Paenibacillaceae: searched 240/436
+  Paenibacillaceae: searched 280/436
+  Paenibacillaceae: searched 320/436
+  Paenibacillaceae: searched 360/436
+  Paenibacillaceae: searched 400/436
+  Paenibacillaceae: searched 436/436
+  Lactococcus: curated reference set covers 15 species
+  Lactococcus: searching all 15 species, unfiltered and uncapped
+  Lactococcus: searched 15/15
+
+P1_A1    Bacillus         -> Bacillus bombysepticus             ANI   98.255  aln  0.8704  [species_match] via genus:Bacillus
+         next best: Bacillus cereus at 97.041%
+P1_A9    Bacillaceae      ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_B11   Bacillus         -> Bacillus velezensis                ANI    98.81  aln  0.8729  [species_match] via genus:Bacillus
+         next best: Bacillus amyloliquefaciens at 98.789%
+P1_B3    Aneurinibacillus -> Priestia aryabhattai               ANI   99.474  aln  0.9417  [species_match] via family:Bacillaceae
+         next best: Priestia megaterium at 95.096%
+P1_B4    Ureibacillus     -> Bacillus thuringiensis             ANI   96.941  aln  0.8317  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 96.103%
+P1_B8    Aneurinibacillus -> Priestia megaterium                ANI   96.315  aln  0.8267  [species_match] via family:Bacillaceae
+         next best: Priestia aryabhattai at 95.276%
+P1_C6    Aneurinibacillus -> Bacillus bombysepticus             ANI   98.203  aln  0.8751  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 97.071%
+P1_F7    Raoultella       ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P1_H3    Raoultella       ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P2_B6    Pseudomonas      ->                                    ANI      n/a  aln     n/a  [no_ani_hit] via n/a
+P2_C10   Microbacterium   -> Microbacterium umsixpiens          ANI   87.321  aln  0.6786  [no_species_match] via genus:Microbacterium
+         next best: Microbacterium maritypicum at 87.179%
+P2_C2    Oerskovia        -> Oerskovia merdavium                ANI   98.513  aln  0.8967  [species_match] via genus:Oerskovia
+         next best: Oerskovia enterophila at 94.442%
+P2_D9    Fictibacillus    -> Niallia tiangongensis              ANI   89.616  aln  0.7944  [no_species_match] via family:Bacillaceae
+         next best: Niallia hominis at 88.662%
+P2_F9    Aneurinibacillus -> Bacillus bombysepticus             ANI   98.263  aln  0.8701  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 97.065%
+P3_A10   Paenibacillus    -> Paenibacillus taichungensis        ANI   98.542  aln  0.9377  [species_match] via genus:Paenibacillus
+         next best: Paenibacillus marchantiae at 95.111%
+P3_A12   Lactococcus      -> Lactococcus lactis                 ANI    98.25  aln  0.8244  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.362%
+P3_A7    Lactococcus      -> Lactococcus lactis                 ANI   98.279  aln  0.8222  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.506%
+P3_A8    Paenibacillus    -> Paenibacillus amylolyticus         ANI   95.367  aln  0.8868  [species_match] via genus:Paenibacillus
+         next best: Paenibacillus xylanexedens at 94.992%
+P3_A9    Paenibacillus    -> Paenibacillus taichungensis        ANI   98.571  aln   0.935  [species_match] via genus:Paenibacillus
+         next best: Paenibacillus marchantiae at 95.137%
+P3_B1    Lactococcus      -> Lactococcus lactis                 ANI   98.356  aln  0.8149  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.457%
+P3_B12   Lactococcus      -> Lactococcus lactis                 ANI   98.233  aln  0.8331  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.341%
+P3_B4    Ureibacillus     -> Bacillus thuringiensis             ANI   96.305  aln  0.8498  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 95.907%
+P3_B5    Bacillaceae      ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P3_C1    Lactococcus      -> Lactococcus lactis                 ANI   98.339  aln  0.8157  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.329%
+P3_C10   Buttiauxella     -> Bacillus bombysepticus             ANI   98.275  aln  0.8631  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 97.006%
+P3_C2    Microbacterium   -> Microbacterium maritypicum         ANI   87.241  aln  0.7195  [no_species_match] via genus:Microbacterium
+         next best: Microbacterium umsixpiens at 87.21%
+P3_C3    Lactococcus      -> Lactococcus lactis                 ANI   98.226  aln  0.8224  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.458%
+P3_C4    Paenibacillus    -> Bacillus bombysepticus             ANI   98.269  aln  0.6667  [species_match] via family:Bacillaceae
+         next best: Bacillus cereus at 97.023%
+P3_C5    Paenibacillus    -> Paenibacillus odorifer             ANI   97.124  aln  0.8947  [species_match] via genus:Paenibacillus
+         next best: Paenibacillus etheri at 86.16%
+P3_C8    Bacillaceae      ->                                    ANI      n/a  aln     n/a  [no_reference_set] via n/a
+P3_D2    Microbacterium   -> Microbacterium forte               ANI   92.199  aln  0.7997  [genus_match_species_unresolved] via genus:Microbacterium
+         next best: Microbacterium phyllosphaerae at 86.815%
+P3_F11   Bacillus         -> Bacillus altitudinis               ANI   98.172  aln  0.9485  [species_match] via genus:Bacillus
+         next best: Bacillus aerius at 98.111%
+P3_G6    Microbacterium   -> Microbacterium umsixpiens          ANI   87.303  aln  0.6793  [no_species_match] via genus:Microbacterium
+         next best: Microbacterium maritypicum at 87.245%
+P3_G8    Rhodococcus      -> Rhodococcus erythropolis           ANI     98.3  aln  0.8108  [species_match] via genus:Rhodococcus
+         next best: Rhodococcus qingshengii at 95.206%
+P3_G9    Paenibacillus    -> Paenibacillus lupini               ANI   94.326  aln  0.8126  [genus_match_species_unresolved] via genus:Paenibacillus
+         next best: Paenibacillus catalpae at 83.832%
+P3_H11   Lactococcus      -> Lactococcus lactis                 ANI   98.373  aln  0.8138  [species_match] via genus:Lactococcus
+         next best: Lactococcus cremoris at 87.427%
+
+wrote results/pool_v5/identity/strain_identity.tsv

@@ -1,0 +1,4 @@
+lab_marking,Source Well,OD600_reading_at_1_to_10,actual_culture_OD600,dilution_factor,culture_uL_for_working_prep,diluent_uL_for_working_prep,working_source_OD600,source_load_uL,stock_origin,source_plate_name,diluent
+41,A1,,,,,,,50.0,record stock ID,396,screen medium without glycerol
+200,A2,,,,,,,50.0,record stock ID,396,screen medium without glycerol
+196,A3,,,,,,,50.0,original stock; replacement for poorly growing personal stock,396,screen medium without glycerol

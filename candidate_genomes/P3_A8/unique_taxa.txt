@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Firmicutes
+Actinomycetia|Bacilli
+Mycobacteriales|Paenibacillales
+Mycobacteriaceae|Paenibacillaceae
+Mycobacterium|Paenibacillus

@@ -1,0 +1,103 @@
+{
+  "source_hashes": {
+    "protocols/echo/transfer_logs/2026-08-28/Protocol 1 28-08-26.epr__1787930780_Exceptions.csv": "8863dae5886289f8638145da2db61298dc1804584d905ae4d99fb97f77ac2139",
+    "protocols/echo/transfer_logs/2026-09-09/Protocol 09-09-26.epr__1788993144_Exceptions.csv": "c1ea3a4df8c6b3ad258b01422d65a736a3530af11403e7fe08e21440cb30e6ca",
+    "protocols/echo/experiment_setup_output/source_plate_map_20260828_13strains.csv": "647fa58e4c4ee04738b7cd736d0d4ff4cd4672d223c22fd9ad50ad9bb4818873",
+    "protocols/echo/experiment_setup_output/community_design_20260828_13strains.csv": "30215be73988f295ee5626d14198613f30ceef44569f4de4b8cf334b9bd161d7",
+    "protocols/echo/experiment_setup_output/echo_picklist_20260828_13strains.csv": "f3a4125cb0598fc6dc2b5df8efefdbf0f266959590b0e7f67f663cf378878489",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/community_design_all_plates_20260902.csv": "7635751f4c0ca78468d3de37c932c5e8d007e030c0c5c6b99f0289a51524c0e6",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/source_plate_map_and_dilution_20260902.csv": "d02738c720c815cc0fbdc5f39ba2e583bd9c8509ac8b667abd5d46348ba8346b",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/design.csv": "f9138e7ae5036babac4a3b79ac9dba4b4e4eee282e85be2e48a962cb30923ab8",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/source_plan.csv": "9f4d3c188ca086ae3797edff3ed07536e40e6ad25a98f052776f173b37b5f130",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_bayesian_ei-plate-1.csv": "40f06b2e38ba5348aa5963e1f3f1eebe20d2eff8123ab5a1065738e85854c9f4",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_maxdiv_repeat-plate-2.csv": "5180684b3cb10d176a19b698fc6416010bf9039ca96865a9edfbd499618bc92d",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_posterior_mean-plate-3.csv": "81a996bd0aa5808dbbab7808456313021c318966115d4115ac3596f24e6fdd59",
+    "protocols/echo/experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_random-plate-4.csv": "c3222b26cf534b9870db24bc3495a2224e3d8a2c511bc38ee7dd37611fd6df7e",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-1_echo_picklist_20260909_bayesian_ei.csv": "aca63b4a4d856d0607254d0c8ff6fdfa7ab61d627f306a6ac468f03ff1a28362",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-2_echo_picklist_20260909_max_diversity.csv": "6354449bc38f6171c6b71d7e1ada67ec9128b0d93440491173bde297b120c67d",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-3_echo_picklist_20260909_bayesian_posterior_mean.csv": "caaa6e6d05f650c9485846a381603aff99a5ba6e373afd9326ec0ef715d62979",
+    "protocols/echo/experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-4_echo_picklist_20260909_random.csv": "c47159371331f646e3a393af072352aded0cc0999556347b041f8ab9a867693b",
+    "protocols/echo/readout/Karl_20260830_201548_MAGNUS_ABS-Lactate-assay-rerun.csv": "8e0499d6013c6f1cd6e738da23d49dbc1d13cdb08e0e8dfc67ed596473968496",
+    "protocols/echo/readout/04-09/Karl_20260904_220017_MAGNUS_ABS-Lactate-assay-rerun.csv": "7048deb2cdc236eafb6b35938d32e57089ff4f350551b22804b3dec3ece66b99",
+    "protocols/echo/readout/04-09/Karl_20260904_221030_MAGNUS_ABS-Lactate-assay-rerun.csv": "a12e0bb48e18e601dccea7be30f21024905749a523d34b6805d2c12cada2fd09",
+    "protocols/echo/readout/04-09/Karl_20260904_221716_MAGNUS_ABS-Lactate-assay-rerun.csv": "5c6e77ff4af77ec2f7e21f8c5bf07bfd35b6c3eceb5dbceb259127f78ecb65d1",
+    "protocols/echo/readout/04-09/Karl_20260904_222759_MAGNUS_ABS-Lactate-assay-rerun.csv": "39b1340e2a30a59daec71dcd3b4588cedc84296c499a0994e1543eef0aabc812",
+    "protocols/echo/readout/11-09/Karl_20260911_233338_MAGNUS_ABS-Lactate-assay-rerun.csv": "0efd8d1f19f43e73a6df95f1f95f3047afec1c9918a0cbdef0cf402fb002af31",
+    "protocols/echo/readout/11-09/Karl_20260911_233743_MAGNUS_ABS-Lactate-assay-rerun.csv": "e4eb0b1dc996d9c0ed5b6b3d81ab2f9cf8a73ba0f8cb51a7a7c78292fbe992db",
+    "protocols/echo/readout/11-09/Karl_20260911_234146_MAGNUS_ABS-Lactate-assay-rerun.csv": "30c4f942c7b630e3b63115115feb1f7ab40966322f51e0095125ec4d4519821a",
+    "protocols/echo/readout/11-09/Karl_20260911_234548_MAGNUS_ABS-Lactate-assay-rerun.csv": "3713bc30450ecdc32f2b6692f994ffd717c6e8ba1996f12ceea96de09b579651",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 1 28-08-26.epr__1787930947.csv": "16428b2cb71d1dc2b00bf11aab63c6a6e9922d5a8a6a71aa91e17f723475aa2b",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 02-09-26.epr__1788363854.csv": "cf7ce6d3b7e70334ea5d237c53b912dae86c423fe8249a89b71700ff7aeb77f0",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 02-09-26.epr__1788363854_Exceptions.csv": "5ce435eafe986791e20bcb4d1007668899e94402dc33793617950ded714b1799",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 09-09-26.epr__1788993144.csv": "a9e2ab9a13dcf5f2b116af056a49b697c34f17c983aad0024de0bc87f013db65",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 09-09-26.epr__1788993144_Exceptions.csv": "c1ea3a4df8c6b3ad258b01422d65a736a3530af11403e7fe08e21440cb30e6ca",
+    "protocols/echo/transfer_logs/usb_import_20260914/Protocol 1 28-08-26.epr__1787930780.csv": "7de9b6bb14ae928e0477111f1345c565d674dc0daa74253f8782d38d3361ec82"
+  },
+  "raw_import_hashes": {
+    "._echo_picklist_20260909_bayesian_ei-plate-1.csv": "d6e6d12d29fa264750e44c5764383e46536f82ed40d3e5335c4e7a69a94ad2a0",
+    "._echo_picklist_20260909_bayesian_posterior_mean-plate-3.csv": "d6e6d12d29fa264750e44c5764383e46536f82ed40d3e5335c4e7a69a94ad2a0",
+    "._echo_picklist_20260909_max_diversity-plate-2.csv": "d6e6d12d29fa264750e44c5764383e46536f82ed40d3e5335c4e7a69a94ad2a0",
+    "._echo_picklist_20260909_random-plate-4.csv": "d6e6d12d29fa264750e44c5764383e46536f82ed40d3e5335c4e7a69a94ad2a0",
+    "Protocol 02-09-26.epr__1788363854.csv": "cf7ce6d3b7e70334ea5d237c53b912dae86c423fe8249a89b71700ff7aeb77f0",
+    "Protocol 02-09-26.epr__1788363854_Exceptions.csv": "5ce435eafe986791e20bcb4d1007668899e94402dc33793617950ded714b1799",
+    "Protocol 09-09-26.epr__1788993144.csv": "a9e2ab9a13dcf5f2b116af056a49b697c34f17c983aad0024de0bc87f013db65",
+    "Protocol 09-09-26.epr__1788993144_Exceptions.csv": "c1ea3a4df8c6b3ad258b01422d65a736a3530af11403e7fe08e21440cb30e6ca",
+    "Protocol 1 28-08-26.epr__1787930780.csv": "7de9b6bb14ae928e0477111f1345c565d674dc0daa74253f8782d38d3361ec82",
+    "Protocol 1 28-08-26.epr__1787930780_Exceptions.csv": "8863dae5886289f8638145da2db61298dc1804584d905ae4d99fb97f77ac2139",
+    "Protocol 1 28-08-26.epr__1787930947.csv": "16428b2cb71d1dc2b00bf11aab63c6a6e9922d5a8a6a71aa91e17f723475aa2b",
+    "echo_picklist_20260909_bayesian_ei-plate-1.csv": "aca63b4a4d856d0607254d0c8ff6fdfa7ab61d627f306a6ac468f03ff1a28362",
+    "echo_picklist_20260909_bayesian_posterior_mean-plate-3.csv": "caaa6e6d05f650c9485846a381603aff99a5ba6e373afd9326ec0ef715d62979",
+    "echo_picklist_20260909_max_diversity-plate-2.csv": "6354449bc38f6171c6b71d7e1ada67ec9128b0d93440491173bde297b120c67d",
+    "echo_picklist_20260909_random-plate-4.csv": "c47159371331f646e3a393af072352aded0cc0999556347b041f8ab9a867693b"
+  },
+  "report_headers": {
+    "20260828": {
+      "Run ID": "1787930946",
+      "Run Date/Time": "2026-08-28 17:33:49",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 1 28-08-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    },
+    "20260902": {
+      "Run ID": "1788362731",
+      "Run Date/Time": "2026-09-02 17:30:08",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 02-09-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    },
+    "20260909": {
+      "Run ID": "1788991973",
+      "Run Date/Time": "2026-09-10 00:18:16",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 09-09-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    }
+  },
+  "august_unprocessed_header": {
+    "Run ID": "1787930779",
+    "Run Date/Time": "2026-08-28 17:31:02",
+    "Application Name": "Labcyte Echo Plate Reformat",
+    "Application Version": "1.7.3",
+    "Protocol Name": "Protocol 1 28-08-26.epr",
+    "Order ID": "",
+    "Reference ID": "",
+    "User Name": "Ratzke Lab"
+  },
+  "policy": "No model fitting, no historical label changes. Instrument-reported inocula, not organism detection. No unrecorded rescue assumed.",
+  "september9_timing": "Header: 10 September 00:18; detail records: 12 September 00:14\u201300:38; filename and USB modification date consistent with 9/10 September. Unresolved internal clock discrepancy.",
+  "snapshot": "Full reports supersede the separate exception-only output folder.",
+  "counts": {
+    "wells": 2754,
+    "original_triplets": 918,
+    "reported_intact_triplets": 348
+  }
+}

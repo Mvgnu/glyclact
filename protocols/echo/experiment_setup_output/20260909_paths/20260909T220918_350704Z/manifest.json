@@ -1,0 +1,154 @@
+{
+  "run_label": "20260909",
+  "snapshot_utc": "20260909T220918_350704Z",
+  "od_readings_at_1_to_10": {
+    "256": 0.6,
+    "75": 0.38,
+    "269": 0.08,
+    "294": 0.87,
+    "275": 1.19,
+    "41": 0.34,
+    "158": 0.5,
+    "145": 0.62,
+    "200": 0.3,
+    "196": 0.09,
+    "291": 0.1,
+    "296": 0.0,
+    "264": 0.44
+  },
+  "include_296": "auto",
+  "readout_mode": "single",
+  "centering": "all_384_well_plate_median",
+  "seed": 20260909,
+  "ei_xi": 0.002,
+  "source_plate_name": "396",
+  "source_load_ul": 50.0,
+  "source_dead_volume_ul": null,
+  "target_working_od": 1.2,
+  "max_inoculum_ul": null,
+  "medium_prefill_ul": 50.0,
+  "dosing_mode": "fixed_per_member_biomass",
+  "member_biomass_OD600_uL": 0.1,
+  "automatic_dosing_fallback": false,
+  "technical_replicates": 3,
+  "quota_per_path": 102,
+  "plate_assignments": {
+    "bayesian_ei": 1,
+    "max_diversity": 2,
+    "bayesian_posterior_mean": 3,
+    "random": 4
+  },
+  "shared_data": "both max-diversity rounds; median across repeated compositions",
+  "dedup_priority": [
+    "max_diversity",
+    "bayesian_ei",
+    "bayesian_posterior_mean",
+    "random"
+  ],
+  "input_files": [
+    {
+      "path": "experiment_setup_output/community_design_20260828_13strains.csv",
+      "sha256": "30215be73988f295ee5626d14198613f30ceef44569f4de4b8cf334b9bd161d7"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/community_design_all_plates_20260902.csv",
+      "sha256": "7635751f4c0ca78468d3de37c932c5e8d007e030c0c5c6b99f0289a51524c0e6"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/source_plate_map_and_dilution_20260902.csv",
+      "sha256": "d02738c720c815cc0fbdc5f39ba2e583bd9c8509ac8b667abd5d46348ba8346b"
+    },
+    {
+      "path": "readout/Karl_20260830_201548_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "8e0499d6013c6f1cd6e738da23d49dbc1d13cdb08e0e8dfc67ed596473968496"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_bayesian_ei-plate-1.csv",
+      "sha256": "40f06b2e38ba5348aa5963e1f3f1eebe20d2eff8123ab5a1065738e85854c9f4"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_220017_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "7048deb2cdc236eafb6b35938d32e57089ff4f350551b22804b3dec3ece66b99"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_maxdiv_repeat-plate-2.csv",
+      "sha256": "5180684b3cb10d176a19b698fc6416010bf9039ca96865a9edfbd499618bc92d"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_221030_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "a12e0bb48e18e601dccea7be30f21024905749a523d34b6805d2c12cada2fd09"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_posterior_mean-plate-3.csv",
+      "sha256": "81a996bd0aa5808dbbab7808456313021c318966115d4115ac3596f24e6fdd59"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_221716_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "5c6e77ff4af77ec2f7e21f8c5bf07bfd35b6c3eceb5dbceb259127f78ecb65d1"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_random-plate-4.csv",
+      "sha256": "c3222b26cf534b9870db24bc3495a2224e3d8a2c511bc38ee7dd37611fd6df7e"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_222759_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "39b1340e2a30a59daec71dcd3b4588cedc84296c499a0994e1543eef0aabc812"
+    }
+  ],
+  "code_hashes": {
+    "acquisition_round_20260909.py": "7e98a02f8ad9f476f90721649cf512bd8ad8adc10eb44d577e4c6294f5220a7c",
+    "adaptive_run.py": "e2b97809ce87bb3ff07f386a6d285a2e245f68b798d57e7aa4bcd94225d60574"
+  },
+  "numpy_version": "2.3.5",
+  "pandas_version": "2.2.3",
+  "scenarios": {
+    "12strains": {
+      "ready": true,
+      "status": "Picklists ready: fixed 0.100 OD600\u00b7\u00b5L per member, rounded to 25 nL; no 15 \u00b5L cap/reserve or automatic dosing fallback. Restore the source row to its configured fill before each destination plate. Remaining volumes are bookkeeping estimates, not confirmation of the source plate's ejectable range.",
+      "active_species": [
+        "256",
+        "75",
+        "269",
+        "294",
+        "275",
+        "41",
+        "158",
+        "145",
+        "200",
+        "196",
+        "291",
+        "264"
+      ]
+    }
+  },
+  "artifact_sha256": {
+    "adaptive_run.py": "e2b97809ce87bb3ff07f386a6d285a2e245f68b798d57e7aa4bcd94225d60574",
+    "plate-1_model_20260909_bayesian_ei.npz": "2f00bd601b3dd9d7798411a30fe953e420b6cfe25735fe5ef2b4c0ea3911b086",
+    "plate-1_training_20260909_bayesian_ei.csv": "c213e0a665e65d129f24f71965b287599e24bb72a9dab3aebdccf68b443ed942",
+    "acquisition_round_20260909.py": "7e98a02f8ad9f476f90721649cf512bd8ad8adc10eb44d577e4c6294f5220a7c",
+    "readout_offsets_and_metadata.csv": "6e911f679007602ef82fe1d23c63d9babf527eb988ed58e79050523ae7f7181a",
+    "plate-1_training_lineage_20260909_bayesian_ei.csv": "470912efe0b01e650195b49e396679aa5c2e2e40c790284635b517a2d809af40",
+    "history_run_observations.csv": "49d58d5055f2f3fcc3719f36c8435cf1c2141507f088f5a69829123f5fcdf160",
+    "model_summary.csv": "76ccb137face3225ca7e8c3f31e68c70c9ee28531b3988cb41d2757f52a6dcda",
+    "plate-3_training_lineage_20260909_bayesian_posterior_mean.csv": "5af4700d8cf47910beb0230a445d9b69088ac56e199d210d2d816a6bb738b982",
+    "plate-3_model_20260909_bayesian_posterior_mean.npz": "71e89dc4f1af02bed71b9355f7b1ca894ced794bfb43e78de87384849dbf2660",
+    "history_wells.csv": "d52dc879e5d6bb766d96386de1f1eb0506026926a1dc487d5c4ba343f06068f4",
+    "plate-3_training_20260909_bayesian_posterior_mean.csv": "cda3b23b72d7e69b8aaedfe33db9aacf9530cb131102592bbebe79313fd972d6",
+    "12strains/plate-2_echo_picklist_20260909_max_diversity.csv": "6354449bc38f6171c6b71d7e1ada67ec9128b0d93440491173bde297b120c67d",
+    "12strains/summary.csv": "653b61635ce36b0b7c5883eedcdb200e334e7bc3573894b2c4b3e0e620bdbdaa",
+    "12strains/source_demand.csv": "db98dc5707da36bb62e9c72a3e85b660c253a9985a4211d4bea76a3338dd5fa3",
+    "12strains/plate-3_community_design_20260909_bayesian_posterior_mean.csv": "018f0bdab1fd0bba794e47e1494af06e9538aa25bd82f6155952991c238eab12",
+    "12strains/transfer_audit.csv": "98d23e05c10d3ca26117e1645ebefc1cc5c9a3491349b317000d1eec5cc7c4de",
+    "12strains/plate-3_echo_picklist_20260909_bayesian_posterior_mean.csv": "caaa6e6d05f650c9485846a381603aff99a5ba6e373afd9326ec0ef715d62979",
+    "12strains/well_audit.csv": "fe5d0158bb07e3379e63e9dc11aa4058a0375f416082ea3585072b00379b6977",
+    "12strains/plate-4_community_design_20260909_random.csv": "21ae73fab8ce3a62ddb894bcd07177074dd23524f8e0ce6eb14c5060c9d4ddc1",
+    "12strains/candidates.csv": "d2516bbd06c930df2014372d94d4fc027a8b9d34bf7e29b003eb5fe9a5e67cb8",
+    "12strains/source_plan.csv": "9f4d3c188ca086ae3797edff3ed07536e40e6ad25a98f052776f173b37b5f130",
+    "12strains/plate-2_community_design_20260909_max_diversity.csv": "95caf11aa3e704352f0bc7ce541f64a5a63805807d3a901456a252ba7e2f25df",
+    "12strains/plate-1_community_design_20260909_bayesian_ei.csv": "5a8dfbe97db6e7aabb670fe0f4234673825d5ffe18d6a23fcfca574d9de748a3",
+    "12strains/design.csv": "f9138e7ae5036babac4a3b79ac9dba4b4e4eee282e85be2e48a962cb30923ab8",
+    "12strains/plate-1_echo_picklist_20260909_bayesian_ei.csv": "aca63b4a4d856d0607254d0c8ff6fdfa7ab61d627f306a6ac468f03ff1a28362",
+    "12strains/plate-4_echo_picklist_20260909_random.csv": "c47159371331f646e3a393af072352aded0cc0999556347b041f8ab9a867693b",
+    "12strains/overlap_audit.csv": "82f67dc47c4be1603dfc2b131a80e1723e35a84afa1a39165a8b65d8ce699724"
+  }
+}

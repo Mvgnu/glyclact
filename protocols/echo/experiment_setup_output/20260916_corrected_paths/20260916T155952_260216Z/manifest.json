@@ -1,0 +1,262 @@
+{
+  "run_label": "20260916",
+  "snapshot_utc": "20260916T155952_260216Z",
+  "od_readings_at_1_to_10": {
+    "256": 0.62,
+    "75": 0.64,
+    "269": 0.07,
+    "294": 0.41,
+    "275": 1.36,
+    "41": 0.67,
+    "158": 0.6,
+    "145": 0.74,
+    "200": 0.27,
+    "196": 0.09,
+    "291": 0.15,
+    "264": 0.59
+  },
+  "active_species": [
+    "256",
+    "75",
+    "269",
+    "294",
+    "275",
+    "41",
+    "158",
+    "145",
+    "200",
+    "196",
+    "291",
+    "264"
+  ],
+  "source_plate_name": "396",
+  "source_rows": {
+    "bayesian_ei": "A",
+    "max_diversity": "B",
+    "bayesian_posterior_mean": "C",
+    "random": "D"
+  },
+  "source_load_ul": 50.0,
+  "source_refill_required": false,
+  "target_working_od": 1.2,
+  "media_prefill_ul": 50.0,
+  "per_member_biomass_OD600_uL": 0.1,
+  "droplet_nL": 25,
+  "source_dead_volume_rule": null,
+  "max_inoculum_rule": null,
+  "seed": 20260916,
+  "ei_xi": 0.002,
+  "readout_mode": "single",
+  "centering": "all_384_well_plate_median",
+  "models": "shared corrected max-diversity history plus own corrected EI/TM path; no random outcomes",
+  "history_policy": "Group by run, physical plate, recorded species AND doses; retain 1+ wells with true n; exclude empty inocula.",
+  "model_limit": "Presence-only GP unchanged; per-species dose retained in lineage, not modeled as a covariate.",
+  "done_policy": "Any measured nonempty recorded composition counts as seen; never intended-only labels; cross-path dedup retained.",
+  "validation": {
+    "plate": 2,
+    "members": [
+      "294|196|291|264",
+      "294|291|264",
+      "294|275",
+      "294",
+      "275",
+      "196",
+      "291",
+      "264"
+    ],
+    "replicates_per_condition": 3,
+    "reserved_wells": 24,
+    "new_maxdiv_conditions": 94,
+    "comparison": "same-plate constituent monocultures; unchanged per-member biomass, not an equal-total-biomass synergy test"
+  },
+  "timing_note": "The September 9 report header is September 10, while detail records say September 12. Use the complete design-matched report as the run record for this requested corrected retraining; retain the inconsistent timestamps unchanged. No additional unrecorded transfers assumed.",
+  "full_report_headers": {
+    "20260828": {
+      "Run ID": "1787930946",
+      "Run Date/Time": "2026-08-28 17:33:49",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 1 28-08-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    },
+    "20260902": {
+      "Run ID": "1788362731",
+      "Run Date/Time": "2026-09-02 17:30:08",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 02-09-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    },
+    "20260909": {
+      "Run ID": "1788991973",
+      "Run Date/Time": "2026-09-10 00:18:16",
+      "Application Name": "Labcyte Echo Plate Reformat",
+      "Application Version": "1.7.3",
+      "Protocol Name": "Protocol 09-09-26.epr",
+      "Order ID": "",
+      "Reference ID": "",
+      "User Name": "Ratzke Lab"
+    }
+  },
+  "picklists_ready": true,
+  "status": "Picklists ready: A/B/C/D feed plates 1/2/3/4 respectively, no refills. Minimum calculated source remainder 14.000 uL. Inspect the Echo source survey; this calculation is not a guarantee of acoustic transferability.",
+  "input_files": [
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/community_design_all_plates_20260902.csv",
+      "sha256": "7635751f4c0ca78468d3de37c932c5e8d007e030c0c5c6b99f0289a51524c0e6"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_bayesian_ei-plate-1.csv",
+      "sha256": "40f06b2e38ba5348aa5963e1f3f1eebe20d2eff8123ab5a1065738e85854c9f4"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_maxdiv_repeat-plate-2.csv",
+      "sha256": "5180684b3cb10d176a19b698fc6416010bf9039ca96865a9edfbd499618bc92d"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_posterior_mean-plate-3.csv",
+      "sha256": "81a996bd0aa5808dbbab7808456313021c318966115d4115ac3596f24e6fdd59"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/echo_picklist_20260902_random-plate-4.csv",
+      "sha256": "c3222b26cf534b9870db24bc3495a2224e3d8a2c511bc38ee7dd37611fd6df7e"
+    },
+    {
+      "path": "experiment_setup_output/20260902_adaptive_12strains/source_plate_map_and_dilution_20260902.csv",
+      "sha256": "d02738c720c815cc0fbdc5f39ba2e583bd9c8509ac8b667abd5d46348ba8346b"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/design.csv",
+      "sha256": "f9138e7ae5036babac4a3b79ac9dba4b4e4eee282e85be2e48a962cb30923ab8"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-1_echo_picklist_20260909_bayesian_ei.csv",
+      "sha256": "aca63b4a4d856d0607254d0c8ff6fdfa7ab61d627f306a6ac468f03ff1a28362"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-2_echo_picklist_20260909_max_diversity.csv",
+      "sha256": "6354449bc38f6171c6b71d7e1ada67ec9128b0d93440491173bde297b120c67d"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-3_echo_picklist_20260909_bayesian_posterior_mean.csv",
+      "sha256": "caaa6e6d05f650c9485846a381603aff99a5ba6e373afd9326ec0ef715d62979"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/plate-4_echo_picklist_20260909_random.csv",
+      "sha256": "c47159371331f646e3a393af072352aded0cc0999556347b041f8ab9a867693b"
+    },
+    {
+      "path": "experiment_setup_output/20260909_paths/20260909T220918_350704Z/12strains/source_plan.csv",
+      "sha256": "9f4d3c188ca086ae3797edff3ed07536e40e6ad25a98f052776f173b37b5f130"
+    },
+    {
+      "path": "experiment_setup_output/community_design_20260828_13strains.csv",
+      "sha256": "30215be73988f295ee5626d14198613f30ceef44569f4de4b8cf334b9bd161d7"
+    },
+    {
+      "path": "experiment_setup_output/echo_picklist_20260828_13strains.csv",
+      "sha256": "f3a4125cb0598fc6dc2b5df8efefdbf0f266959590b0e7f67f663cf378878489"
+    },
+    {
+      "path": "experiment_setup_output/source_plate_map_20260828_13strains.csv",
+      "sha256": "647fa58e4c4ee04738b7cd736d0d4ff4cd4672d223c22fd9ad50ad9bb4818873"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_220017_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "7048deb2cdc236eafb6b35938d32e57089ff4f350551b22804b3dec3ece66b99"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_221030_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "a12e0bb48e18e601dccea7be30f21024905749a523d34b6805d2c12cada2fd09"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_221716_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "5c6e77ff4af77ec2f7e21f8c5bf07bfd35b6c3eceb5dbceb259127f78ecb65d1"
+    },
+    {
+      "path": "readout/04-09/Karl_20260904_222759_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "39b1340e2a30a59daec71dcd3b4588cedc84296c499a0994e1543eef0aabc812"
+    },
+    {
+      "path": "readout/11-09/Karl_20260911_233338_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "0efd8d1f19f43e73a6df95f1f95f3047afec1c9918a0cbdef0cf402fb002af31"
+    },
+    {
+      "path": "readout/11-09/Karl_20260911_233743_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "e4eb0b1dc996d9c0ed5b6b3d81ab2f9cf8a73ba0f8cb51a7a7c78292fbe992db"
+    },
+    {
+      "path": "readout/11-09/Karl_20260911_234146_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "30c4f942c7b630e3b63115115feb1f7ab40966322f51e0095125ec4d4519821a"
+    },
+    {
+      "path": "readout/11-09/Karl_20260911_234548_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "3713bc30450ecdc32f2b6692f994ffd717c6e8ba1996f12ceea96de09b579651"
+    },
+    {
+      "path": "readout/Karl_20260830_201548_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "sha256": "8e0499d6013c6f1cd6e738da23d49dbc1d13cdb08e0e8dfc67ed596473968496"
+    },
+    {
+      "path": "transfer_logs/usb_import_20260914/Protocol 02-09-26.epr__1788363854.csv",
+      "sha256": "cf7ce6d3b7e70334ea5d237c53b912dae86c423fe8249a89b71700ff7aeb77f0"
+    },
+    {
+      "path": "transfer_logs/usb_import_20260914/Protocol 09-09-26.epr__1788993144.csv",
+      "sha256": "a9e2ab9a13dcf5f2b116af056a49b697c34f17c983aad0024de0bc87f013db65"
+    },
+    {
+      "path": "transfer_logs/usb_import_20260914/Protocol 1 28-08-26.epr__1787930947.csv",
+      "sha256": "16428b2cb71d1dc2b00bf11aab63c6a6e9922d5a8a6a71aa91e17f723475aa2b"
+    }
+  ],
+  "code_hashes": {
+    "acquisition_round_20260916.py": "5582d895c14fba03dc57d0a40e65bcac4687a04d31de6daaf6c799d9b1adf25a",
+    "adaptive_run.py": "22fc2fc90e9842bdd24f90a52ab48fa9da8ba6ca58cfecbdf2487b87d6b91cd2",
+    "acquisition_round_20260909.py": "7e98a02f8ad9f476f90721649cf512bd8ad8adc10eb44d577e4c6294f5220a7c"
+  },
+  "numpy_version": "2.3.5",
+  "pandas_version": "2.2.3",
+  "artifact_sha256": {
+    "acquisition_round_20260916.py": "5582d895c14fba03dc57d0a40e65bcac4687a04d31de6daaf6c799d9b1adf25a",
+    "plate-3_training_20260916_bayesian_posterior_mean.csv": "9d1435046ddcea55dd5e039168c0ec1a70390c4aac4167c827d2bd4f6e10ed89",
+    "summary.csv": "e2ca2eac177825385e6b951ac49bb5a34883428d0e30c1f75e415018674e1ec1",
+    "source_demand.csv": "b8612abdc7198983b90ca487f67d0e1d1ffabac40d2fabbc93bd853efec912d9",
+    "plate-1_training_20260916_bayesian_ei.csv": "5b9579b0600afe7cbe8f5ce501d38ac8920a02dd9d7c641a3a01b49368389555",
+    "plate-4_echo_picklist_20260916_random.csv": "d50fb2206162b966f3f197fa3e200e2faf52f508113e693d24d490e0f5565300",
+    "plate-3_model_20260916_bayesian_posterior_mean.npz": "ef207f43d71b6dc0debfdda755ac6bda026c3b1b7c73c24ec477054cf9b69557",
+    "plate-1_lineage_20260916_bayesian_ei.csv": "56d697dd68df17b106d5db8b82c71deaeae0cca08188fbefc403997ce430ca10",
+    "adaptive_run.py": "22fc2fc90e9842bdd24f90a52ab48fa9da8ba6ca58cfecbdf2487b87d6b91cd2",
+    "RUN_NOTES.md": "18aadced812adafbb3078e0a1c95bd010de41a99b810e2c522ecb199c8130c15",
+    "transfer_audit.csv": "a4d0fbfdbac6dd88d8ee379fb019c6e6aea84a156e7271433e6f64abd774a771",
+    "corrected_history_done.csv": "ee2606a941c4bb6ec1f67d048b6515e3ff9015fc6aed8c27eea03470e04d3059",
+    "corrected_history_centers.csv": "b94e81242111308734cff08d9944708449d66aba173fa6d47cb8b1ec66747699",
+    "plate-4_community_design_20260916_random.csv": "a6ea24265b45547c4e7af18a7f29414407bd05261ec1172a3a3a9e89d6d31864",
+    "plate-2_echo_picklist_20260916_max_diversity.csv": "bf3ee29dcf1c57d1e97a197ac82752aa11852f8f157b97632ba1e7cf3e91133d",
+    "well_audit.csv": "ea751a7f3bcc4854f7c0257d73b80526e686cfad2ba25e91710294a93074f2db",
+    "acquisition_round_20260909.py": "7e98a02f8ad9f476f90721649cf512bd8ad8adc10eb44d577e4c6294f5220a7c",
+    "plate-1_model_20260916_bayesian_ei.npz": "c597ab690d28d503157efec5bc938175c6964f161e4683cd13d5ac6e6741a8de",
+    "corrected_history_coverage.csv": "8d798ddd03052b5a87bdaf77e3f75b9457826d48492bcd8a7f2d8c4056c136f6",
+    "plate-3_lineage_20260916_bayesian_posterior_mean.csv": "3bd5d181dc67cb23954ec78125850a603692106e1f80a8fc77c9ccc61d9e7483",
+    "plate-1_echo_picklist_20260916_bayesian_ei.csv": "ab8d5e5f95f2d84c4c2da87a8484b1347c67d3068015a2f3715a94435bfacb9e",
+    "plate-3_echo_picklist_20260916_bayesian_posterior_mean.csv": "2416049dc380d7826e7226cca9d03ea8cf71d1ea8308f3a48af3ee10ecb71b28",
+    "candidates.csv": "69d320de88b303f5d3107374662852f68a2c031bcc9946a019663227cdc43c0d",
+    "source_plan.csv": "31f4bf4162a06daaa7f947119e6be805d859f41f71f2c276593a2799497656d5",
+    "preparation_totals.csv": "0877d8c0ce4ad9f59f5009efd8d3ce4c4a10911431c30afd3723b91353350fe6",
+    "model_summary.csv": "d3affd7a79eb295eba127c264e4dc6fcc9102686e8f4dc0dda0a3b43d7bf2d1f",
+    "plate-3_community_design_20260916_bayesian_posterior_mean.csv": "85bd00dd9240bf12dca43c933de5cf77d67eaaa30b10b2932058974e9e65b70a",
+    "plate-2_validation_wells.csv": "307bc0e9010455fe3d72b8e22284baa357b832e0ef6300dd2e167d7aa89b86cc",
+    "plate-2_validation_previous_assembly.csv": "5ff6d7e6a595eb02c90ad42d1badd8476565077672723a78d9a980871df091c2",
+    "corrected_history_wells.csv": "ca927e6d5cc3c11a391eb04022701f0444f60509ddbc0dc6cd76d60859ba8041",
+    "design.csv": "a34f4bcaa2a847cbc2b6cf2e4b6c230eb97fcb755a64d1bb741537b594f18f6b",
+    "corrected_history_observations.csv": "15cb28219d83c5bce8b0a2994819a040d375b57daa58a76462df2e91efc7fd79",
+    "corrected_history_transfers.csv": "d10f6b2c7003d3ace6d2f3476b7d9a0a6c1b078da3b7ef42b77d4e24f02f32de",
+    "plate-2_community_design_20260916_max_diversity.csv": "94c5589fe3771e0e3b25ba5880ce2e74eca524db192009e2c676d548b1472f9c",
+    "plate-1_community_design_20260916_bayesian_ei.csv": "8472422a7c61c1784be04fbc1caba31112cd102464ddfaf32e4939a07fe800ac",
+    "overlap_audit.csv": "c74a42068c0e0d18324a63365c0085426ec2fbf6c71406028ec948f56b1b1507"
+  }
+}

@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota
+Actinomycetia
+Mycobacteriales
+Mycobacteriaceae
+Mycobacterium|Nocardia|Rhodococcus

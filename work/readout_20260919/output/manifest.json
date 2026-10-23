@@ -1,0 +1,49 @@
+{
+  "readout_date": "2026-09-19",
+  "assembly_run": "20260916",
+  "acid_stop_to_read_delay_hours": 20,
+  "delay_source": "user report; occupied machine",
+  "storage_during_delay": "not specified",
+  "standards_this_run": "user-confirmed A1-F1 crude medium, A24-F24 water; nominal 12mM top/twofold assumed from earlier run",
+  "control_contents": "exact remaining edge/interior blank contents not explicitly restated",
+  "assembly_execution": "user confirms all correct/no Echo warnings; full report not supplied",
+  "sources": {
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/design.csv": "a34f4bcaa2a847cbc2b6cf2e4b6c230eb97fcb755a64d1bb741537b594f18f6b",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/candidates.csv": "69d320de88b303f5d3107374662852f68a2c031bcc9946a019663227cdc43c0d",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/plate-2_validation_previous_assembly.csv": "5ff6d7e6a595eb02c90ad42d1badd8476565077672723a78d9a980871df091c2",
+    "protocols/echo/readout/19-09-20h-delay-read/Karl_20260919_182507_MAGNUS_ABS-Lactate-assay-rerun.csv": "761519e5e4e889299542bddfc22ff6c4411ef78c821cc3d7f7e586395c8e27e5",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/plate-1_echo_picklist_20260916_bayesian_ei.csv": "ab8d5e5f95f2d84c4c2da87a8484b1347c67d3068015a2f3715a94435bfacb9e",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/source_plan.csv": "31f4bf4162a06daaa7f947119e6be805d859f41f71f2c276593a2799497656d5",
+    "protocols/echo/readout/19-09-20h-delay-read/Karl_20260919_182909_MAGNUS_ABS-Lactate-assay-rerun.csv": "84694c30309f1eb7eb36e2dc2108975d67cf921603639f756adc532dd18cf749",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/plate-2_echo_picklist_20260916_max_diversity.csv": "bf3ee29dcf1c57d1e97a197ac82752aa11852f8f157b97632ba1e7cf3e91133d",
+    "protocols/echo/readout/19-09-20h-delay-read/Karl_20260919_183315_MAGNUS_ABS-Lactate-assay-rerun.csv": "0d582b6abe02bd85ed8ca49e5dfc2fef39888d1158b29576cca49c10f5643283",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/plate-3_echo_picklist_20260916_bayesian_posterior_mean.csv": "2416049dc380d7826e7226cca9d03ea8cf71d1ea8308f3a48af3ee10ecb71b28",
+    "protocols/echo/readout/19-09-20h-delay-read/Karl_20260919_183715_MAGNUS_ABS-Lactate-assay-rerun.csv": "61a4c887418eeda2e9a971b8afc0515be06c075648aa315ba694b5551a604d52",
+    "protocols/echo/experiment_setup_output/20260916_corrected_paths/20260916T155952_260216Z/plate-4_echo_picklist_20260916_random.csv": "d50fb2206162b966f3f197fa3e200e2faf52f508113e693d24d490e0f5565300"
+  },
+  "reader_metadata": [
+    {
+      "plate": 1,
+      "file": "Karl_20260919_182507_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "metadata": "Testname: MAGNUS_ABS\nDate: 19/09/2026  Time: 18:21:39 (UTC+2)\nID1: plate_1_1measure  ID2:   ID3: \nNo. of Channels / Multichromatics: 1\nNo. of Cycles: 1\nChromatic: 1\nCycle: 1\nTime [s]: 0\nT[\ufffdC]: 31.6"
+    },
+    {
+      "plate": 2,
+      "file": "Karl_20260919_182909_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "metadata": "Testname: MAGNUS_ABS\nDate: 19/09/2026  Time: 18:25:38 (UTC+2)\nID1: plate_2_1measure  ID2:   ID3: \nNo. of Channels / Multichromatics: 1\nNo. of Cycles: 1\nChromatic: 1\nCycle: 1\nTime [s]: 0\nT[\ufffdC]: 31.1"
+    },
+    {
+      "plate": 3,
+      "file": "Karl_20260919_183315_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "metadata": "Testname: MAGNUS_ABS\nDate: 19/09/2026  Time: 18:29:46 (UTC+2)\nID1: plate_3_1measure  ID2:   ID3: \nNo. of Channels / Multichromatics: 1\nNo. of Cycles: 1\nChromatic: 1\nCycle: 1\nTime [s]: 0\nT[\ufffdC]: 30.8"
+    },
+    {
+      "plate": 4,
+      "file": "Karl_20260919_183715_MAGNUS_ABS-Lactate-assay-rerun.csv",
+      "metadata": "Testname: MAGNUS_ABS\nDate: 19/09/2026  Time: 18:33:49 (UTC+2)\nID1: plate_4_1measure  ID2:   ID3: \nNo. of Channels / Multichromatics: 1\nNo. of Cycles: 1\nChromatic: 1\nCycle: 1\nTime [s]: 0\nT[\ufffdC]: 30.7"
+    }
+  ],
+  "excluded_observations": 0,
+  "model_refit": false,
+  "raw_absorbance_not_lactate_concentration": true
+}

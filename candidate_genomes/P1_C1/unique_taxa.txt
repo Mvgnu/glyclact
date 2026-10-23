@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Burkholderiales|Enterobacterales
+Enterobacteriaceae|Hydrogenophilaceae|Vibrionaceae
+Citrobacter|Hydrogenophilus|Leclercia|Vibrio

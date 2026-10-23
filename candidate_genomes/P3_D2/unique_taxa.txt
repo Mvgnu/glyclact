@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota
+Actinomycetia
+Actinomycetales|Mycobacteriales
+Microbacteriaceae|Micrococcaceae|Mycobacteriaceae
+Microbacterium|Rhodococcus

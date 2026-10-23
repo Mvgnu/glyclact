@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria
+Bacilli|Gammaproteobacteria
+Bacillales|Enterobacterales
+Bacillaceae|Enterobacteriaceae
+Bacillus|Raoultella

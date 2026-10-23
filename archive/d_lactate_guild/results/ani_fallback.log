@@ -1,0 +1,88 @@
+  MYb121: drive path unavailable, using the local panel copy
+  MYb174: drive path unavailable, using the local panel copy
+  MYb176: drive path unavailable, using the local panel copy
+  MYb375: drive path unavailable, using the local panel copy
+  MYb416: drive path unavailable, using the local panel copy
+  MYb535: drive path unavailable, using the local panel copy
+  BIGb0393: drive path unavailable, using the local panel copy
+7 assemblies across genera: none
+  MYb121: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  MYb174: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  MYb176: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  MYb375: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  MYb416: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  MYb535: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+  BIGb0393: no MEGAN taxonomy; searching fallback family Enterobacteriaceae (543)
+  Enterobacteriaceae: curated reference set covers 203 species
+  Enterobacteriaceae: searching all 203 species, unfiltered and uncapped
+  Enterobacteriaceae: searched 40/203
+  Enterobacteriaceae: searched 80/203
+  Enterobacteriaceae: searched 120/203
+  Enterobacteriaceae: searched 160/203
+  Enterobacteriaceae: searched 200/203
+  Enterobacteriaceae: searched 203/203
+
+MYb121                    -> Type-D symbiont                    ANI   79.244  aln  0.3967  [no_species_match] via fallback-family:Enterobacteriaceae
+         next best: Enterobacter asburiae at 79.233%
+MYb174                    -> Scandinavium goeteborgense         ANI   94.851  aln  0.8668  [genus_match_species_unresolved] via fallback-family:Enterobacteriaceae
+         next best: Scandinavium manionii at 92.769%
+MYb176                    -> Scandinavium goeteborgense         ANI   94.825  aln  0.8651  [genus_match_species_unresolved] via fallback-family:Enterobacteriaceae
+         next best: Scandinavium manionii at 92.74%
+MYb375                    -> Type-D symbiont                    ANI   78.999  aln  0.3606  [no_species_match] via fallback-family:Enterobacteriaceae
+         next best: Enterobacter quasihormaechei at 78.877%
+MYb416                    -> Pseudocitrobacter corydidari       ANI   79.016  aln  0.2442  [low_alignment_unreliable] via fallback-family:Enterobacteriaceae
+         next best: Type-D symbiont at 78.975%
+MYb535                    -> Type-D symbiont                    ANI   78.966  aln  0.3593  [no_species_match] via fallback-family:Enterobacteriaceae
+         next best: Silvania hatchlandensis at 78.924%
+BIGb0393                  -> Type-D symbiont                    ANI   84.062  aln  0.6883  [no_species_match] via fallback-family:Enterobacteriaceae
+         next best: Enterobacter dykesii at 79.184%
+
+wrote results/d_guild/strain_identity.tsv

@@ -1,0 +1,6 @@
+Bacteria
+Actinobacteriota|Proteobacteria
+Actinomycetia|Gammaproteobacteria
+Actinomycetales|Mycobacteriales|Pseudomonadales
+Microbacteriaceae|Micrococcaceae|Mycobacteriaceae|Pseudomonadaceae
+Paenarthrobacter|Plantibacter|Pseudomonas|Rhodococcus

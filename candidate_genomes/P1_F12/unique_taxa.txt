@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Lactobacillales
+Lactobacillaceae
+Leuconostoc|Weissella

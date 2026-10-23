@@ -1,0 +1,5 @@
+Source Strategy,communities,culture_wells,min_richness,max_richness,plate,source_row,validation_conditions,new_acquisition_conditions
+bayesian_ei,102,306,3,8,1,A,0,102
+bayesian_posterior_mean,102,306,3,7,3,C,0,102
+max_diversity,102,306,1,11,2,B,8,94
+random,102,306,3,10,4,D,0,102

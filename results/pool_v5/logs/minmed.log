@@ -1,0 +1,170 @@
+analysing BIGb0393
+analysing MYb121
+analysing MYb174
+analysing MYb176
+analysing MYb375
+analysing MYb416
+analysing P1_A1
+analysing P1_A10
+analysing P1_A12
+analysing P1_A2
+analysing P1_A7
+analysing P1_A9
+analysing P1_B11
+analysing P1_B12
+analysing P1_B3
+analysing P1_B4
+analysing P1_B6
+analysing P1_B7
+analysing P1_B8
+analysing P1_C1
+analysing P1_C10
+analysing P1_C12
+analysing P1_C6
+analysing P1_D1
+analysing P1_D10
+analysing P1_D11
+analysing P1_D9
+analysing P1_F1
+analysing P1_F2
+analysing P1_F7
+analysing P1_G12
+analysing P1_G3
+analysing P1_G9
+analysing P1_H11
+analysing P1_H3
+analysing P1_H7
+analysing P1_H8
+analysing P2_A1
+analysing P2_A11
+analysing P2_A3
+analysing P2_A4
+analysing P2_A5
+analysing P2_B6
+analysing P2_C10
+analysing P2_C2
+analysing P2_C4
+analysing P2_D12
+analysing P2_D4
+analysing P2_D5
+analysing P2_D9
+analysing P2_E7
+analysing P2_E9
+analysing P2_F11
+analysing P2_F2
+analysing P2_F9
+analysing P2_G7
+analysing P2_G8
+analysing P2_G9
+analysing P3_A10
+analysing P3_A11
+analysing P3_A8
+analysing P3_A9
+analysing P3_B12
+analysing P3_B3
+analysing P3_B4
+analysing P3_B5
+analysing P3_C10
+analysing P3_C11
+analysing P3_C2
+analysing P3_C4
+analysing P3_C5
+analysing P3_C8
+analysing P3_D2
+analysing P3_E10
+analysing P3_E8
+analysing P3_F11
+analysing P3_F8
+analysing P3_G1
+analysing P3_G12
+analysing P3_G6
+analysing P3_G8
+analysing P3_G9
+analysing P3_H5
+
+=== minimal medium ===
+  BIGb0393 growth  0.5613 (+supplements  1.4233)  requires: none
+  MYb121   growth  0.5636 (+supplements  1.8373)  requires: none
+  MYb174   growth  0.5458 (+supplements  1.7951)  requires: none
+  MYb176   growth  0.5458 (+supplements  1.6867)  requires: none
+  MYb375   growth  0.5639 (+supplements  1.8325)  requires: none
+  MYb416   growth  0.5639 (+supplements  1.4598)  requires: none
+  P1_A1    growth  0.2132 (+supplements  0.6546)  requires: none
+  P1_A10   growth  0.5546 (+supplements  1.7812)  requires: none
+  P1_A12   growth  0.5549 (+supplements  1.7919)  requires: none
+  P1_A2    growth  0.5549 (+supplements  1.7561)  requires: none
+  P1_A7    growth  0.5472 (+supplements  2.4754)  requires: none
+  P1_A9    growth  0.1889 (+supplements  0.3507)  requires: none
+  P1_B11   growth  0.1287 (+supplements  0.2307)  requires: none
+  P1_B12   growth  0.5549 (+supplements  1.7561)  requires: none
+  P1_B3    growth   0.117 (+supplements  0.2054)  requires: none
+  P1_B4    growth  0.1929 (+supplements  0.3702)  requires: none
+  P1_B6    growth  0.5549 (+supplements  1.7577)  requires: none
+  P1_B7    growth  0.5549 (+supplements  1.7904)  requires: none
+  P1_B8    growth  0.1261 (+supplements  0.2154)  requires: none
+  P1_C1    growth  0.5549 (+supplements   1.764)  requires: none
+  P1_C10   growth  0.5655 (+supplements  1.8715)  requires: none
+  P1_C12   growth  0.5549 (+supplements  1.7971)  requires: none
+  P1_C6    growth   0.204 (+supplements  0.4188)  requires: none
+  P1_D1    growth  0.5549 (+supplements  1.7561)  requires: none
+  P1_D10   growth  0.5532 (+supplements  1.7729)  requires: none
+  P1_D11   growth  0.5608 (+supplements  1.4378)  requires: none
+  P1_D9    growth  0.5549 (+supplements  1.7561)  requires: none
+  P1_F1    growth  0.5212 (+supplements  1.3635)  requires: none
+  P1_F2    growth  0.5491 (+supplements   1.752)  requires: none
+  P1_F7    growth  0.2166 (+supplements  0.4877)  requires: none
+  P1_G12   growth  0.5541 (+supplements  1.7071)  requires: none
+  P1_G3    growth  0.5528 (+supplements  1.7369)  requires: none
+  P1_G9    growth  0.5549 (+supplements  1.7561)  requires: none
+  P1_H11   growth  0.5491 (+supplements  1.7123)  requires: none
+  P1_H3    growth  0.1885 (+supplements  0.3605)  requires: none
+  P1_H7    growth  0.5491 (+supplements  1.7493)  requires: none
+  P1_H8    growth  0.5491 (+supplements  1.7425)  requires: none
+  P2_A1    growth  0.7031 (+supplements  1.7493)  requires: none
+  P2_A11   growth  0.3809 (+supplements    1.28)  requires: none
+  P2_A3    growth  0.5491 (+supplements  1.7493)  requires: none
+  P2_A4    growth  0.5491 (+supplements  1.7414)  requires: none
+  P2_A5    growth   0.189 (+supplements  0.3984)  requires: none
+  P2_B6    growth  0.1253 (+supplements  0.2019)  requires: none
+  P2_C10   growth  0.4154 (+supplements  0.8603)  requires: none
+  P2_C2    growth  0.1195 (+supplements  0.1753)  requires: none
+  P2_C4    growth  0.5491 (+supplements  1.9432)  requires: none
+  P2_D12   growth  0.5641 (+supplements  1.7938)  requires: none
+  P2_D4    growth  0.5491 (+supplements  1.7493)  requires: none
+  P2_D5    growth  0.5608 (+supplements  1.4524)  requires: none
+  P2_D9    growth  0.1989 (+supplements  0.6802)  requires: none
+  P2_E7    growth  0.6041 (+supplements  1.4661)  requires: none
+  P2_E9    growth     0.0 (+supplements  0.4614)  requires: none  <-- NO GROWTH on glycerol minimal
+  P2_F11   growth  0.5549 (+supplements   1.764)  requires: none
+  P2_F2    growth  0.5625 (+supplements  1.8225)  requires: none
+  P2_F9    growth   0.194 (+supplements  0.3775)  requires: none
+  P2_G7    growth  0.5491 (+supplements  1.7425)  requires: none
+  P2_G8    growth  0.4027 (+supplements  1.4377)  requires: none
+  P2_G9    growth  0.5514 (+supplements  1.7174)  requires: none
+  P3_A10   growth   0.181 (+supplements  0.2943)  requires: none
+  P3_A11   growth  0.5491 (+supplements  1.7414)  requires: none
+  P3_A8    growth   0.181 (+supplements  0.3145)  requires: none
+  P3_A9    growth  0.1843 (+supplements   0.315)  requires: none
+  P3_B12   growth  0.1785 (+supplements  0.3833)  requires: none
+  P3_B3    growth  0.5491 (+supplements  1.7425)  requires: none
+  P3_B4    growth  0.1929 (+supplements  0.3797)  requires: none
+  P3_B5    growth  0.1889 (+supplements  0.3482)  requires: none
+  P3_C10   growth  0.1929 (+supplements  0.3702)  requires: none
+  P3_C11   growth  0.1274 (+supplements  0.1877)  requires: none
+  P3_C2    growth  0.4154 (+supplements  0.8603)  requires: none
+  P3_C4    growth  0.1716 (+supplements  0.3482)  requires: none
+  P3_C5    growth     0.0 (+supplements  0.1471)  requires: none  <-- NO GROWTH on glycerol minimal
+  P3_C8    growth   0.204 (+supplements  0.4188)  requires: none
+  P3_D2    growth   0.066 (+supplements  0.0816)  requires: none
+  P3_E10   growth  0.5619 (+supplements  1.4952)  requires: none
+  P3_E8    growth  0.5619 (+supplements  1.4952)  requires: none
+  P3_F11   growth  0.1201 (+supplements  0.1787)  requires: none
+  P3_F8    growth   0.566 (+supplements  1.8185)  requires: none
+  P3_G1    growth  0.5491 (+supplements  1.7414)  requires: none
+  P3_G12   growth  0.2108 (+supplements  0.3893)  requires: none
+  P3_G6    growth  0.4051 (+supplements  0.8363)  requires: none
+  P3_G8    growth   0.217 (+supplements  0.3946)  requires: none
+  P3_G9    growth     0.0 (+supplements   1.117)  requires: none  <-- NO GROWTH on glycerol minimal
+  P3_H5    growth  0.5484 (+supplements  1.7231)  requires: none
+
+wrote results/pool_v5/minimal_medium.tsv, provision_matrix.tsv, exchangeable_mechanisms.tsv

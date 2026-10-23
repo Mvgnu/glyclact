@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Lactobacillales
+Streptococcaceae
+Lactococcus

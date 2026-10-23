@@ -1,0 +1,4 @@
+Source Well,lab_marking,source_load_uL,transfer_demand_nL,transfers,expected_remaining_uL,required_source_dead_volume_uL,source_dead_volume_respected
+A1,41,50.0,900,12,49.1,15.0,True
+A2,200,50.0,900,12,49.1,15.0,True
+A3,196,50.0,1200,12,48.8,15.0,True

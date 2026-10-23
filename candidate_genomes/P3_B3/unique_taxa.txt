@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Pasteurellaceae|Vibrionaceae
+Enterobacter|Haemophilus|Leclercia|Lelliottia|Mixta|Vibrio

@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Burkholderiales|Enterobacterales
+Enterobacteriaceae|Hydrogenophilaceae|Succinivibrionaceae
+BIGb0383|Enterobacillus|Hydrogenophilus|Pectobacterium|Pseudescherichia|Succinivibrio

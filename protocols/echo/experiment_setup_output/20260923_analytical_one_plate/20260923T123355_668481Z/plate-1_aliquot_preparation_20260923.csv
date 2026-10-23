@@ -1,0 +1,4 @@
+assay_role,original_supernatant_uL,spike_stock_uL,sample_diluent_uL,total_sample_aliquot_uL
+unspiked,5.0,0.0,10.0,15
+spiked,5.0,3.75,6.25,15
+sample_background,5.0,0.0,10.0,15

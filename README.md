@@ -1,12 +1,23 @@
 # Glycerol → L-lactate community
 
-This repository records the literature research, genome mining and successive candidate-selection decisions for a proposed glycerol-to-L-lactate microbial community, starting from 384 annotated genomes.
+This repository records the literature research, genome mining, community designs,
+experimental readouts and assay troubleshooting for a glycerol-to-lactate project.
+
+**For the October 23 data audit, start with [the handoff](docs/handoff/START_HERE.md)
+and [the analysis prompt](docs/handoff/GPT_PRO_PROMPT.md).** The concise actual
+workflows are in `protocols/`. They supersede unperformed wash/cleanup steps in
+historical planning documents.
 
 Start with the [research and decision trail](docs/RESEARCH_TRAIL.md): it connects the literature, screening evidence, changing candidate pools and reasons for retaining, excluding or holding strains for validation.
 
 ## Scope of this repository
 
-This is the **pre-experimental reasoning and computational evidence**, not a report of experimentally validated production. It includes interpreted screening tables and model diagnostics where they explain decisions. Raw genome inputs, reconstructed model files, simulation runs, wet-lab measurements, strain-to-bench mappings, Echo records and Bayesian acquisition runs are not included.
+On October 23, 2026, Magnus requested a complete **project commit and push**, including
+data. The snapshot now includes available genome/model inputs, wet-lab measurements,
+strain mappings, Echo records, acquisition runs and analysis outputs. Runtime
+caches, installed dependencies, credentials and OS metadata are excluded.
+Inspect source-data permissions before any further redistribution.
+These records do not establish validated lactate production by themselves.
 
 Historical documents retain the hypotheses and wording used at each stage, including conclusions later revised. A historical claim about growth, secretion, optical purity or community benefit must not be read as a measured phenotype. The current panel rationale supersedes the earlier pools. This is a curated research record, not a complete transcript of every analysis or an untouched time-stamped pre-bench snapshot.
 
@@ -18,7 +29,10 @@ The source genome library and some reference databases are external inputs. The 
 
 The panel is intentionally manual. LDH, racemase, identity, physiology, and virulence screens produce evidence to inspect; they do not regenerate the YAML. In particular, virulence homology calls require locus-by-locus interpretation and are not safe as an automated exclusion rule. There is also no “lab plate only” eligibility rule.
 
-The local staged-input manifest, `candidate_genomes/manifest_pool_v5.tsv`, is derived from the YAML and contains those same 16 genomes. Like the underlying genome inputs, it is not distributed in this repository; see [input provenance](candidate_genomes/README.md).
+The staged-input manifest, `candidate_genomes/manifest_pool_v5.tsv`, is derived
+from the YAML. Available local genome files are included in this local snapshot;
+see [input provenance](candidate_genomes/README.md). The genomic candidate panel is
+not the executed species list for every culture run; use the dated Echo maps.
 
 ## Directory map
 
@@ -34,6 +48,9 @@ The local staged-input manifest, `candidate_genomes/manifest_pool_v5.tsv`, is de
 | `references/` (external, untracked) | LDH, VFDB, and AMR reference material |
 | [comets/](comets/) | historical COMETS inputs from the retired community enumerator |
 | [archive/](archive/) | superseded panel logic and historical work |
+| [protocols/](protocols/) | actual workflows, historical plans, raw readouts, Echo logs and designs |
+| [work/](work/) | assembly reconstruction, September readout analyses and presentation work |
+| [docs/handoff/](docs/handoff/) | experiment context, data inventory and independent-analysis prompt |
 
 Each topical code directory has its own README describing what to run and how to interpret it.
 

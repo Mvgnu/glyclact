@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Bacillales|Lactobacillales
+Bacillaceae|Listeriaceae|Planococcaceae
+Listeria|Ureibacillus

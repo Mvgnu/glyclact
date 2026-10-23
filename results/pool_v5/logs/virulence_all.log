@@ -1,0 +1,46 @@
+36 guild genomes selected from producer_bench.tsv
+combined proteomes of 36 genomes
+searching vfdb_setA
+searching AMRProt
+
+599 calls at >=80% identity over >=80% of the reference protein
+wrote results/pool_v5/virulence_screen.tsv
+wrote results/pool_v5/virulence_hits.tsv
+
+biosafety tiers
+  elevated                       13
+  background                     12
+  review_required                11
+
+flagged strains, with the evidence
+genome    tier              why                                                         
+P3_B5     review_required   exotoxin:alo/hblA/hblC/hblD; acquired:BcII/bla1/fosBx1-fam/ 
+P3_C4     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P1_A1     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P1_C6     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P2_F9     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P3_C10    review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P3_C8     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P1_A9     review_required   exotoxin:alo/cytK/hblA/hblC; acquired:BcII/bla1/blaIII/fosB 
+P3_B4     review_required   exotoxin:alo/hblA/hblC/hblD; acquired:bla1/blaIII/fosBx1-fa 
+P1_B4     review_required   exotoxin:alo/cytK/hblD/nheA; acquired:BcII/bla1/blaIII/fosB 
+P1_H3     review_required   exotoxin:alo/cesH/nheA/nheB; acquired:BcII/bla1/fosBx1-fam/ 
+P3_G8     elevated          acquired:iri                                                
+P1_B8     elevated          acquired:lsa(B)                                             
+P1_B11    elevated          acquired:clbA                                               
+P1_F7     elevated          acquired:blaBPU-1/cat86                                     
+P2_C10    elevated          acquired:tet(42)/tetB(58)/vanR-O                            
+P2_C2     elevated          acquired:tetB(58)                                           
+P2_D9     elevated          acquired:cadC_Sa/tetB(58)                                   
+P3_C2     elevated          acquired:tet(42)/tetB(58)/vanR-O                            
+P3_C5     elevated          acquired:rphC/tetA(58)                                      
+P3_D2     elevated          acquired:tet(42)/vanR-O                                     
+P3_F11    elevated          acquired:blaBPU-1/cat86                                     
+P3_G6     elevated          acquired:tet(42)/tetB(58)/vanR-O                            
+P3_G9     elevated          acquired:rphC/tetA(58)/tetB(58)                             
+
+what the bench does carry, and why none of it tiers
+  adherence (ubiquitous)                      median   0, max   0
+  motility (ubiquitous)                       median   0, max   0
+  siderophore (ubiquitous)                    median   0, max  13
+  ompA/ibe-type invasion homologs (ubiquitous)median   0, max   0

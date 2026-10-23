@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes|Proteobacteria|Spirochaetota
+Bacilli|Gammaproteobacteria|Spirochaetia
+Bacillales|Burkholderiales|Enterobacterales|Treponematales
+Bacillaceae|Burkholderiaceae|Enterobacteriaceae|UBA8932
+Giesbergeria|Raoultella|UBA8932

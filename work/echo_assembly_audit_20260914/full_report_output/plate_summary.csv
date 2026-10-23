@@ -1,0 +1,10 @@
+plate,path,planned_transfers,reported_zero_transfers,affected_wells,unflagged_wells,unchanged_triplicates,same_reduced_triplicates,split_triplicates,all_empty_triplicates,empty_wells,inferred_nonempty_compositions,run
+1,max_diversity,1971,0,0,306,102,0,0,0,0,102,20260828
+1,bayesian_ei,1800,150,150,156,52,50,0,0,0,100,20260902
+2,max_diversity,1704,196,167,139,35,24,42,1,4,133,20260902
+3,bayesian_posterior_mean,1626,546,245,61,7,10,85,0,0,157,20260902
+4,random,1905,1414,306,0,0,4,93,5,41,65,20260902
+1,bayesian_ei,1692,0,0,306,102,0,0,0,0,102,20260909
+2,max_diversity,1884,71,71,235,50,2,50,0,0,156,20260909
+3,bayesian_posterior_mean,1677,966,299,7,0,2,100,0,7,97,20260909
+4,random,1791,1142,304,2,0,61,38,3,11,49,20260909

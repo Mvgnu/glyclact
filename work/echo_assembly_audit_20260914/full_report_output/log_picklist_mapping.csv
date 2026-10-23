@@ -1,0 +1,10 @@
+run,plate,path,report_destination,planned_transfers,report_transfers,exact_match
+20260828,1,max_diversity,Destination[2],1971,1971,True
+20260902,1,bayesian_ei,Destination[1],1800,1800,True
+20260902,2,max_diversity,Destination[2],1704,1704,True
+20260902,3,bayesian_posterior_mean,Destination[3],1626,1626,True
+20260902,4,random,Destination[4],1905,1905,True
+20260909,1,bayesian_ei,Destination[1],1692,1692,True
+20260909,2,max_diversity,Destination[2],1884,1884,True
+20260909,3,bayesian_posterior_mean,Destination[3],1677,1677,True
+20260909,4,random,Destination[4],1791,1791,True

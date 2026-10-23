@@ -1,0 +1,25 @@
+Source Strategy,repeat_status,Destination Plate Name,Destination Well,technical_replicate,community_id,community_mask,community_size,members,condition_role,intentional_repeat,member_256,member_75,member_269,member_294,member_275,member_41,member_158,member_145,member_200,member_196,member_291,member_296,member_264
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,B22,2,R4_MAX_DIVERSITY_100,512,1,196,validation_monoculture,True,0,0,0,0,0,0,0,0,0,1,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,G15,1,R4_MAX_DIVERSITY_100,512,1,196,validation_monoculture,True,0,0,0,0,0,0,0,0,0,1,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,L8,3,R4_MAX_DIVERSITY_100,512,1,196,validation_monoculture,True,0,0,0,0,0,0,0,0,0,1,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,C9,3,R4_MAX_DIVERSITY_102,4096,1,264,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,0,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,H2,1,R4_MAX_DIVERSITY_102,4096,1,264,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,0,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,L17,2,R4_MAX_DIVERSITY_102,4096,1,264,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,0,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,C10,3,R4_MAX_DIVERSITY_096,5128,3,294|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,0,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,H3,2,R4_MAX_DIVERSITY_096,5128,3,294|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,0,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,L18,1,R4_MAX_DIVERSITY_096,5128,3,294|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,0,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,D18,3,R4_MAX_DIVERSITY_099,16,1,275,validation_monoculture,True,0,0,0,0,1,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,I11,1,R4_MAX_DIVERSITY_099,16,1,275,validation_monoculture,True,0,0,0,0,1,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,N4,2,R4_MAX_DIVERSITY_099,16,1,275,validation_monoculture,True,0,0,0,0,1,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,E3,3,R4_MAX_DIVERSITY_095,5640,4,294|196|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,1,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,I18,2,R4_MAX_DIVERSITY_095,5640,4,294|196|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,1,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,N11,1,R4_MAX_DIVERSITY_095,5640,4,294|196|291|264,validation_community,True,0,0,0,1,0,0,0,0,0,1,1,0,1
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,F5,3,R4_MAX_DIVERSITY_098,8,1,294,validation_monoculture,True,0,0,0,1,0,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,J20,2,R4_MAX_DIVERSITY_098,8,1,294,validation_monoculture,True,0,0,0,1,0,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,O13,1,R4_MAX_DIVERSITY_098,8,1,294,validation_monoculture,True,0,0,0,1,0,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,F9,2,R4_MAX_DIVERSITY_101,1024,1,291,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,1,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,K2,1,R4_MAX_DIVERSITY_101,1024,1,291,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,1,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,O17,3,R4_MAX_DIVERSITY_101,1024,1,291,validation_monoculture,True,0,0,0,0,0,0,0,0,0,0,1,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,F11,1,R4_MAX_DIVERSITY_097,24,2,294|275,validation_community,True,0,0,0,1,1,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,K4,2,R4_MAX_DIVERSITY_097,24,2,294|275,validation_community,True,0,0,0,1,1,0,0,0,0,0,0,0,0
+max_diversity,intentional_validation_repeat,community_20260916_max_diversity_plate_2,O19,3,R4_MAX_DIVERSITY_097,24,2,294|275,validation_community,True,0,0,0,1,1,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+Source Strategy,Destination Plate Name,communities,culture_wells,min_richness,max_richness
+bayesian_ei,community_20260909_bayesian_ei_plate_1,102,306,3,8
+bayesian_posterior_mean,community_20260909_bayesian_posterior_mean_plate_3,102,306,3,8
+max_diversity,community_20260909_max_diversity_plate_2,102,306,2,11
+random,community_20260909_random_plate_4,102,306,2,10

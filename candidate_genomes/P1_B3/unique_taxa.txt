@@ -1,0 +1,6 @@
+Bacteria
+Firmicutes
+Bacilli
+Aneurinibacillales|Bacillales|Lactobacillales
+Aneurinibacillaceae|Bacillaceae
+Aneurinibacillus

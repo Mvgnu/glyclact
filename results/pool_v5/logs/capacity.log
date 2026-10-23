@@ -1,0 +1,20 @@
+restricted to 17 genomes
+evaluating P1_B11
+evaluating P1_B3
+evaluating P1_B8
+evaluating P1_F7
+evaluating P2_B6
+evaluating P2_C10
+evaluating P2_C2
+evaluating P2_D9
+evaluating P3_A8
+evaluating P3_A9
+evaluating P3_C11
+evaluating P3_C3
+evaluating P3_C5
+evaluating P3_D2
+evaluating P3_F11
+evaluating P3_G8
+evaluating P3_G9
+
+wrote results/pool_v5/capacity_table.tsv (1071 rows)

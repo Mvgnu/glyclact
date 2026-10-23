@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Alphaproteobacteria|Gammaproteobacteria
+Burkholderiales|Enterobacterales|Pseudomonadales|Rhizobiales|UBA6729
+Enterobacteriaceae|Pseudomonadaceae|Rhizobiaceae|UBA6729|Vibrionaceae
+1-19|Atlantibacter|Citrobacter|Enterobacter|Escherichia|Kluyvera|Leclercia|Mesorhizobium|Phytobacter|Pseudomonas|Raoultella|Salmonella|UBA6729|Vibrio

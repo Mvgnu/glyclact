@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Burkholderiales|Enterobacterales|Pseudomonadales
+Enterobacteriaceae|Hydrogenophilaceae|Pseudomonadaceae|Succinivibrionaceae
+Citrobacter|Pantoea|Pseudomonas|Succinivibrio

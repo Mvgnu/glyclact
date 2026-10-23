@@ -1,0 +1,45 @@
+run_label,path,reader_file,mode,plate_median_384,metadata
+20260828,max_diversity,Karl_20260830_201548_MAGNUS_ABS-Lactate-assay-rerun.csv,single,0.117,"Testname: MAGNUS_ABS
+Date: 30/08/2026  Time: 20:11:01 (UTC+2)
+ID1:   ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Chromatic: 1
+Cycle: 1
+Time [s]: 0"
+20260902,bayesian_ei,Karl_20260904_220017_MAGNUS_ABS-Lactate-assay-rerun.csv,single,0.1825,"Testname: MAGNUS_ABS
+Date: 04/09/2026  Time: 21:56:50 (UTC+2)
+ID1: plate_1_1measure  ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Chromatic: 1
+Cycle: 1
+Time [s]: 0
+T[�C]: 30.3"
+20260902,max_diversity,Karl_20260904_221030_MAGNUS_ABS-Lactate-assay-rerun.csv,single,0.149,"Testname: MAGNUS_ABS
+Date: 04/09/2026  Time: 22:07:04 (UTC+2)
+ID1: plate_2_1measure  ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Chromatic: 1
+Cycle: 1
+Time [s]: 0
+T[�C]: 30.4"
+20260902,bayesian_posterior_mean,Karl_20260904_221716_MAGNUS_ABS-Lactate-assay-rerun.csv,single,0.1465,"Testname: MAGNUS_ABS
+Date: 04/09/2026  Time: 22:13:43 (UTC+2)
+ID1: plate_3_1measure  ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Chromatic: 1
+Cycle: 1
+Time [s]: 0
+T[�C]: 30.5"
+20260902,random,Karl_20260904_222759_MAGNUS_ABS-Lactate-assay-rerun.csv,single,0.1225,"Testname: MAGNUS_ABS
+Date: 04/09/2026  Time: 22:24:33 (UTC+2)
+ID1: plate_4_1measure  ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Chromatic: 1
+Cycle: 1
+Time [s]: 0
+T[�C]: 30.6"

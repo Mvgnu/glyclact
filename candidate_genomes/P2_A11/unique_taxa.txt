@@ -1,0 +1,6 @@
+Bacteria
+Proteobacteria
+Gammaproteobacteria
+Enterobacterales
+Enterobacteriaceae|Pasteurellaceae|Vibrionaceae
+Citrobacter|Enterobacter|Haemophilus|Kluyvera|Leclercia|Vibrio

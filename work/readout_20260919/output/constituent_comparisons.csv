@@ -1,0 +1,4 @@
+community,community_median,highest_constituent_median,median_difference,lowest_community_well,highest_constituent_well,all_community_wells_above_all_constituent_wells
+294|196|291|264,0.072,0.088,-0.016,0.063,0.101,False
+294|291|264,0.079,0.088,-0.008999999999999994,0.077,0.101,False
+294|275,0.076,0.092,-0.016,0.073,0.103,False
